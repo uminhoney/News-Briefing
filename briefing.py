@@ -383,7 +383,13 @@ def _call_gemini(user_prompt: str) -> str:
         "system_instruction": {"parts": [{"text": SYSTEM_PROMPT}]},
         "contents": [{"role": "user", "parts": [{"text": user_prompt}]}],
         "tools": [{"google_search": {}}],
-        "generationConfig": {"maxOutputTokens": 8192, "temperature": 0.4},
+        "generationConfig": {
+            "maxOutputTokens": 16384,   # 본문 잘림 방지 (한글 3,500자 + 링크 여유분)
+            "temperature": 0.4,
+            # Gemini 2.5는 내부 '생각(thinking)'이 출력 한도를 소모해 본문이
+            # 중간에 잘릴 수 있음 → 생각 분량에 상한 설정
+            "thinkingConfig": {"thinkingBudget": 1024},
+        },
     }
     for attempt in range(3):
         try:
@@ -391,9 +397,11 @@ def _call_gemini(user_prompt: str) -> str:
                                  json=payload, timeout=300)
             resp.raise_for_status()
             data = resp.json()
-            parts = (data.get("candidates") or [{}])[0] \
-                .get("content", {}).get("parts", [])
+            cand = (data.get("candidates") or [{}])[0]
+            parts = cand.get("content", {}).get("parts", [])
             text = "\n".join(p.get("text", "") for p in parts).strip()
+            if cand.get("finishReason") == "MAX_TOKENS":
+                raise ValueError("출력이 토큰 한도로 잘림 — 재시도")
             if text:
                 return text
             raise ValueError(f"빈 응답: {json.dumps(data)[:300]}")
@@ -445,6 +453,15 @@ def _split_message(text: str, limit: int = 4000) -> list[str]:
         return [text]
     chunks, current = [], ""
     for para in text.split("\n\n"):
+        # 문단 하나가 한도를 넘는 극단적인 경우: 줄 단위 → 글자 단위로 강제 분할
+        while len(para) > limit:
+            cut = para.rfind("\n", 0, limit)
+            cut = cut if cut > 0 else limit
+            piece, para = para[:cut], para[cut:].lstrip("\n")
+            if current:
+                chunks.append(current.strip())
+                current = ""
+            chunks.append(piece.strip())
         if len(current) + len(para) + 2 > limit:
             if current:
                 chunks.append(current.strip())
