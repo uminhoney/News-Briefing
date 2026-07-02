@@ -1,0 +1,88 @@
+name: Daily Market Briefing
+
+on:
+  schedule:
+    # GitHub Actions cron은 UTC 기준이며 3~15분가량 지연될 수 있어 10분 일찍 설정
+    # ① 오전 브리핑: KST 07:20 (월~금) = UTC 22:20 (일~목)
+    - cron: "20 22 * * 0-4"
+    # ② 오후 브리핑: KST 16:20 (월~금) = UTC 07:20 (월~금)
+    - cron: "20 7 * * 1-5"
+    # ③ 주말 수집: KST 토 16:20 / 일 04:20·16:20 / 월 04:20 (발송 없음, 저장만)
+    #    RSS 피드는 최근 기사만 유지하므로 주말 기사가 밀려나기 전에 미리 수집
+    - cron: "20 7,19 * * 6"   # UTC 토 07:20, 19:20 = KST 토 16:20, 일 04:20
+    - cron: "20 7,19 * * 0"   # UTC 일 07:20, 19:20 = KST 일 16:20, 월 04:20
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "실행 모드"
+        required: true
+        type: choice
+        options: [morning, afternoon, collect]
+      dry_run:
+        description: "테스트 모드 (텔레그램 발송 안 함)"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # 주말 기사 저장소(data/weekend_articles.json) 커밋용
+
+concurrency:
+  group: market-briefing
+  cancel-in-progress: false
+
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Determine mode
+        id: mode
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "mode=${{ inputs.mode }}" >> "$GITHUB_OUTPUT"
+            if [ "${{ inputs.dry_run }}" = "true" ]; then
+              echo "flags=--dry-run" >> "$GITHUB_OUTPUT"
+            fi
+          elif [ "${{ github.event.schedule }}" = "20 22 * * 0-4" ]; then
+            echo "mode=morning" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.schedule }}" = "20 7 * * 1-5" ]; then
+            echo "mode=afternoon" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=collect" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Run briefing
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}          # 무료 (권장)
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}    # 유료 (선택, 미등록 시 무시)
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python briefing.py --mode ${{ steps.mode.outputs.mode }} ${{ steps.mode.outputs.flags }}
+
+      # collect 모드가 저장한 주말 기사 JSON을 저장소에 커밋 (변경 없으면 스킵)
+      - name: Commit weekend store
+        if: steps.mode.outputs.mode == 'collect'
+        run: |
+          git config user.name "briefing-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/weekend_articles.json
+          if git diff --cached --quiet; then
+            echo "변경 사항 없음 — 커밋 스킵"
+          else
+            git commit -m "chore: weekend articles snapshot [skip ci]"
+            git pull --rebase origin ${GITHUB_REF_NAME} || true
+            git push
+          fi
