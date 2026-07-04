@@ -1,5 +1,141 @@
 [
  {
+  "category": "경제",
+  "title": "Goldman sees no return to broad-based dollar weakness anytime soon",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/goldman-sees-no-return-to-broadbased-dollar-weakness-anytime-soon-4775376",
+  "published_iso": "2026-07-05T04:51:41+09:00",
+  "published_kst": "07/05 04:51"
+ },
+ {
+  "category": "국내경제",
+  "title": "골드만삭스, 당분간 광범위한 달러 약세 복귀 없을 것 전망",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2005043",
+  "published_iso": "2026-07-05T04:51:41+09:00",
+  "published_kst": "07/05 04:51"
+ },
+ {
+  "category": "주식시장",
+  "title": "Trump Accounts to debut as US kicks off 250th Independence Day celebrations",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/trump-accounts-to-debut-as-us-kicks-off-250th-independence-day-celebrations-4775357",
+  "published_iso": "2026-07-05T01:06:26+09:00",
+  "published_kst": "07/05 01:06"
+ },
+ {
+  "category": "주식시장",
+  "title": "Is AI inflation transitory?",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/is-ai-inflation-transitory-4775369",
+  "published_iso": "2026-07-04T23:23:27+09:00",
+  "published_kst": "07/04 23:23"
+ },
+ {
+  "category": "국내주식",
+  "title": "AI 인플레이션은 일시적인가?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2005040",
+  "published_iso": "2026-07-04T23:23:27+09:00",
+  "published_kst": "07/04 23:23"
+ },
+ {
+  "category": "주식시장",
+  "title": "Iran conflict strengthens case for power, metals over oil: strategist",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/iran-conflict-strengthens-case-for-power-metals-over-oil-strategist-4775367",
+  "published_iso": "2026-07-04T21:07:22+09:00",
+  "published_kst": "07/04 21:07"
+ },
+ {
+  "category": "국내주식",
+  "title": "이란 분쟁, 석유보다 전력·금속 수요 강화 전망",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2005037",
+  "published_iso": "2026-07-04T21:07:22+09:00",
+  "published_kst": "07/04 21:07"
+ },
+ {
+  "category": "주식시장",
+  "title": "Korea’s KOSPI P/E valuation falls to lowest since global financial crisis",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/koreas-kospi-pe-valuation-falls-to-lowest-since-global-financial-crisis-4775362",
+  "published_iso": "2026-07-04T19:44:40+09:00",
+  "published_kst": "07/04 19:44"
+ },
+ {
+  "category": "국내주식",
+  "title": "한국 코스피지수 PER, 글로벌 금융위기 이후 최저 수준으로 하락",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2005031",
+  "published_iso": "2026-07-04T19:44:40+09:00",
+  "published_kst": "07/04 19:44"
+ },
+ {
+  "category": "경제",
+  "title": "For one small business, AI was key to a quick start and expansion",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/for-one-small-business-ai-was-key-to-a-quick-start-and-expansion-4775360",
+  "published_iso": "2026-07-04T19:18:33+09:00",
+  "published_kst": "07/04 19:18"
+ },
+ {
+  "category": "주식시장",
+  "title": "Continental sells ContiTech to Lone Star Funds for €4 bln",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/continental-sells-contitech-to-lone-star-funds-for-4-bln-4775356",
+  "published_iso": "2026-07-04T19:03:32+09:00",
+  "published_kst": "07/04 19:03"
+ },
+ {
+  "category": "국내주식",
+  "title": "콘티넨탈, 콘티테크 40억 유로에 론스타에 매각 합의",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2005029",
+  "published_iso": "2026-07-04T19:03:32+09:00",
+  "published_kst": "07/04 19:03"
+ },
+ {
+  "category": "주식시장",
+  "title": "Morgan Stanley shifts to defensive European energy stocks, upgrades Galp",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-shifts-to-defensive-european-energy-stocks-upgrades-galp-4775214",
+  "published_iso": "2026-07-04T18:55:52+09:00",
+  "published_kst": "07/04 18:55"
+ },
+ {
+  "category": "국내주식",
+  "title": "모건 스탠리, 유럽 에너지주 방어적 전략 전환…Galp 상향",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2005027",
+  "published_iso": "2026-07-04T18:55:52+09:00",
+  "published_kst": "07/04 18:55"
+ },
+ {
+  "category": "주식시장",
+  "title": "Continental to sell ContiTech unit to Lone Star Funds for $4.6 billion",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/continental-to-sell-contitech-unit-to-lone-star-funds-for-46-billion-4775355",
+  "published_iso": "2026-07-04T18:54:45+09:00",
+  "published_kst": "07/04 18:54"
+ },
+ {
+  "category": "경제",
+  "title": "France faces high-stakes budget battle as fiscal risks mount",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/france-faces-highstakes-budget-battle-as-fiscal-risks-mount-4775354",
+  "published_iso": "2026-07-04T18:32:05+09:00",
+  "published_kst": "07/04 18:32"
+ },
+ {
+  "category": "국내경제",
+  "title": "프랑스, 재정 위기 속 예산 전쟁 임박",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2005025",
+  "published_iso": "2026-07-04T18:32:05+09:00",
+  "published_kst": "07/04 18:32"
+ },
+ {
   "category": "주식시장",
   "title": "UK’s Next plans takeover bid for Harvey Nichols, Sky News reports",
   "summary": "",
