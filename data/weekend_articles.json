@@ -1,6 +1,150 @@
 [
  {
   "category": "경제",
+  "title": "US Postal Service raises stamp price to 82 cents",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/us-postal-service-raises-stamp-price-to-82-cents-4787302",
+  "published_iso": "2026-07-12T04:36:45+09:00",
+  "published_kst": "07/12 04:36"
+ },
+ {
+  "category": "주식시장",
+  "title": "Broader AI demand is key for Nvidia investors, Morgan Stanley says",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/broader-ai-demand-is-key-for-nvidia-investors-morgan-stanley-says-4787293",
+  "published_iso": "2026-07-12T02:08:56+09:00",
+  "published_kst": "07/12 02:08"
+ },
+ {
+  "category": "국내주식",
+  "title": "더 넓은 AI 수요가 Nvidia 투자자들의 핵심 관전 포인트, 모건 스탠리",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2012513",
+  "published_iso": "2026-07-12T02:08:56+09:00",
+  "published_kst": "07/12 02:08"
+ },
+ {
+  "category": "경제",
+  "title": "China’s Q2 slowdown worsened by ’de facto’ fiscal austerity, Citi says",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/chinas-q2-slowdown-worsened-by-de-facto-fiscal-austerity-citi-says-4787290",
+  "published_iso": "2026-07-12T01:42:46+09:00",
+  "published_kst": "07/12 01:42"
+ },
+ {
+  "category": "국내경제",
+  "title": "씨티, \"사실상 재정 긴축\"이 중국 2분기 경기 둔화 악화시켜",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2012511",
+  "published_iso": "2026-07-12T01:42:46+09:00",
+  "published_kst": "07/12 01:42"
+ },
+ {
+  "category": "외환",
+  "title": "BofA says yen bearishness hits four-year extreme as policy fears mount",
+  "summary": "",
+  "link": "https://www.investing.com/news/forex-news/bofa-says-yen-bearishness-hits-fouryear-extreme-as-policy-fears-mount-4787286",
+  "published_iso": "2026-07-12T00:50:32+09:00",
+  "published_kst": "07/12 00:50"
+ },
+ {
+  "category": "주식시장",
+  "title": "China halts helium exports as renewed Middle East tensions threaten chip supplies",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/china-halts-helium-exports-as-renewed-middle-east-tensions-threaten-chip-supplies-4787283",
+  "published_iso": "2026-07-11T23:58:52+09:00",
+  "published_kst": "07/11 23:58"
+ },
+ {
+  "category": "국내주식",
+  "title": "중국, 헬륨 수출 중단…중동 긴장 고조로 반도체 공급 위협",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2012506",
+  "published_iso": "2026-07-11T23:58:52+09:00",
+  "published_kst": "07/11 23:58"
+ },
+ {
+  "category": "주식시장",
+  "title": "BofA names South Korea, UAE among top AI contenders beyond U.S. and China",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/bofa-names-south-korea-uae-among-top-ai-contenders-beyond-us-and-china-4787282",
+  "published_iso": "2026-07-11T23:18:13+09:00",
+  "published_kst": "07/11 23:18"
+ },
+ {
+  "category": "국내주식",
+  "title": "뱅크오브아메리카: 한국·UAE, 미·중 외 주요 AI 경쟁국으로 부상",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2012504",
+  "published_iso": "2026-07-11T23:18:13+09:00",
+  "published_kst": "07/11 23:18"
+ },
+ {
+  "category": "원자재",
+  "title": "Eni CEO warns oil could break above $100 in 2027 if Middle East tensions persist",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/eni-ceo-warns-oil-could-break-above-100-in-2027-if-middle-east-tensions-persist-4787278",
+  "published_iso": "2026-07-11T22:25:52+09:00",
+  "published_kst": "07/11 22:25"
+ },
+ {
+  "category": "원자재",
+  "title": "Iran’s supreme leader pledges revenge for slain father and predecessor",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/irans-supreme-leader-pledges-revenge-for-slain-father-and-predecessor-4787228",
+  "published_iso": "2026-07-11T21:36:25+09:00",
+  "published_kst": "07/11 21:36"
+ },
+ {
+  "category": "주식시장",
+  "title": "Corporate America offers stronger proof AI is boosting profits, productivity: MS",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/corporate-america-offers-stronger-proof-ai-is-boosting-profits-productivity-ms-4787269",
+  "published_iso": "2026-07-11T21:25:07+09:00",
+  "published_kst": "07/11 21:25"
+ },
+ {
+  "category": "국내주식",
+  "title": "모건 스탠리 \"AI가 실적·생산성 향상에 기여한다는 증거 늘어\"",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2012498",
+  "published_iso": "2026-07-11T21:25:07+09:00",
+  "published_kst": "07/11 21:25"
+ },
+ {
+  "category": "원자재",
+  "title": "China tells refiners to keep fuel output high as Iran conflict threatens supply",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/china-tells-refiners-to-keep-fuel-output-high-as-iran-conflict-threatens-supply-4787257",
+  "published_iso": "2026-07-11T21:07:18+09:00",
+  "published_kst": "07/11 21:07"
+ },
+ {
+  "category": "주식시장",
+  "title": "Jefferies flags buying opportunities as Iran conflict reshapes European energy",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/jefferies-flags-buying-opportunities-as-iran-conflict-reshapes-european-energy-4787254",
+  "published_iso": "2026-07-11T20:57:59+09:00",
+  "published_kst": "07/11 20:57"
+ },
+ {
+  "category": "국내주식",
+  "title": "이란 분쟁으로 재편되는 유럽 에너지 시장, 제프리스가 매수 기회 포착",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2012493",
+  "published_iso": "2026-07-11T20:57:59+09:00",
+  "published_kst": "07/11 20:57"
+ },
+ {
+  "category": "국내주식",
+  "title": "중국 부동산 침체 속 ‘중관춘’ 오피스 시장 독주",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2012486",
+  "published_iso": "2026-07-11T18:11:08+09:00",
+  "published_kst": "07/11 18:11"
+ },
+ {
+  "category": "경제",
   "title": "Andy Burnham set to become UK PM as policy agenda remains unclear",
   "summary": "",
   "link": "https://www.investing.com/news/economy-news/andy-burnham-set-to-become-uk-pm-as-policy-agenda-remains-unclear-4787222",
