@@ -1,5 +1,309 @@
 [
  {
+  "category": "국내주식",
+  "title": "SK하이닉스 265억달러 유입…원·달러 환율 안정 변수로 급부상",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2012567",
+  "published_iso": "2026-07-12T18:11:15+09:00",
+  "published_kst": "07/12 18:11"
+ },
+ {
+  "category": "주식시장",
+  "title": "5 big analyst AI moves: SpaceX gets a Street-high target, Samsung selloff overdone",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-spacex-gets-a-streethigh-target-samsung-selloff-overdone-4786333",
+  "published_iso": "2026-07-12T18:00:00+09:00",
+  "published_kst": "07/12 18:00"
+ },
+ {
+  "category": "국내주식",
+  "title": "5대 AI 애널리스트 동향: SpaceX 목표주가 최고치, 삼성 매도세 과도",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2012560",
+  "published_iso": "2026-07-12T18:00:00+09:00",
+  "published_kst": "07/12 18:00"
+ },
+ {
+  "category": "원자재",
+  "title": "US strikes Iran, Tehran hits Gulf states, says Strait of Hormuz closed",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/iran-declares-strait-of-hormuz-closed-as-unauthorised-vessel-hit-4787310",
+  "published_iso": "2026-07-12T17:42:28+09:00",
+  "published_kst": "07/12 17:42"
+ },
+ {
+  "category": "경제",
+  "title": "Zhipu founder backs open-source AI over restricted frontier models",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/zhipu-founder-backs-opensource-ai-over-restricted-frontier-models-4787335",
+  "published_iso": "2026-07-12T17:08:37+09:00",
+  "published_kst": "07/12 17:08"
+ },
+ {
+  "category": "국내경제",
+  "title": "즈푸 창업자, 제한된 프론티어 모델보다 오픈소스 AI 지지",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2012562",
+  "published_iso": "2026-07-12T17:08:37+09:00",
+  "published_kst": "07/12 17:08"
+ },
+ {
+  "category": "주식시장",
+  "title": "Is AI making markets more or less efficient?",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/is-ai-making-markets-more-or-less-efficient-4787332",
+  "published_iso": "2026-07-12T16:26:38+09:00",
+  "published_kst": "07/12 16:26"
+ },
+ {
+  "category": "국내주식",
+  "title": "AI는 시장을 더 효율적으로 만들고 있는가?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2012555",
+  "published_iso": "2026-07-12T16:26:38+09:00",
+  "published_kst": "07/12 16:26"
+ },
+ {
+  "category": "경제",
+  "title": "Lindsey Graham dies at 71 after brief illness, leaving vacancy in U.S. Senate",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/lindsey-graham-dies-at-71-after-brief-illness-leaving-vacancy-in-us-senate-4787331",
+  "published_iso": "2026-07-12T16:02:55+09:00",
+  "published_kst": "07/12 16:02"
+ },
+ {
+  "category": "국내경제",
+  "title": "린지 그레이엄 상원의원, 71세로 별세…사우스캐롤라이나 의석 공석",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2012553",
+  "published_iso": "2026-07-12T16:02:55+09:00",
+  "published_kst": "07/12 16:02"
+ },
+ {
+  "category": "경제",
+  "title": "Geopolitical risks are reshaping investment strategies, WSJ analysis says",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/geopolitical-risks-are-reshaping-investment-strategies-wsj-analysis-says-4787327",
+  "published_iso": "2026-07-12T14:43:30+09:00",
+  "published_kst": "07/12 14:43"
+ },
+ {
+  "category": "국내경제",
+  "title": "WSJ 분석: 지정학적 위험이 투자 전략을 재편하고 있다",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2012549",
+  "published_iso": "2026-07-12T14:43:30+09:00",
+  "published_kst": "07/12 14:43"
+ },
+ {
+  "category": "경제",
+  "title": "Japan to steer $1.8 trillion pension fund toward more alternative investments",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/japan-to-steer-18-trillion-pension-fund-toward-more-alternative-investments-4787326",
+  "published_iso": "2026-07-12T14:12:14+09:00",
+  "published_kst": "07/12 14:12"
+ },
+ {
+  "category": "국내경제",
+  "title": "일본, 1조 8천억 달러 규모 연기금 대체 투자 확대 추진",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2012547",
+  "published_iso": "2026-07-12T14:12:14+09:00",
+  "published_kst": "07/12 14:12"
+ },
+ {
+  "category": "경제",
+  "title": "What’s the AI hit to U.S. inflation?",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/whats-the-ai-hit-to-us-inflation-4787325",
+  "published_iso": "2026-07-12T14:00:10+09:00",
+  "published_kst": "07/12 14:00"
+ },
+ {
+  "category": "국내경제",
+  "title": "AI가 미국 인플레이션에 미치는 영향은?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2012545",
+  "published_iso": "2026-07-12T14:00:10+09:00",
+  "published_kst": "07/12 14:00"
+ },
+ {
+  "category": "경제",
+  "title": "Japan to push its massive pension fund to boost alternative investments, Nikkei says",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/japan-to-push-its-massive-pension-fund-to-boost-alternative-investments-nikkei-says-4787323",
+  "published_iso": "2026-07-12T13:24:29+09:00",
+  "published_kst": "07/12 13:24"
+ },
+ {
+  "category": "주식시장",
+  "title": "Korea’s record-low stock valuations seen as opportunity amid AI earnings boom",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/koreas-recordlow-stock-valuations-seen-as-opportunity-amid-ai-earnings-boom-4787322",
+  "published_iso": "2026-07-12T12:25:49+09:00",
+  "published_kst": "07/12 12:25"
+ },
+ {
+  "category": "국내주식",
+  "title": "한국 증시, 사상 최저 밸류에이션…AI 실적 호조 속 투자 기회로 부각",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2012544",
+  "published_iso": "2026-07-12T12:25:49+09:00",
+  "published_kst": "07/12 12:25"
+ },
+ {
+  "category": "경제",
+  "title": "US says it hit 140 Iranian military targets as Tehran closes Strait of Hormuz",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/iran-closes-strait-of-hormuz-after-vessel-incident-escalating-gulf-tensions-4787314",
+  "published_iso": "2026-07-12T12:24:33+09:00",
+  "published_kst": "07/12 12:24"
+ },
+ {
+  "category": "주식시장",
+  "title": "Ford, Canada’s Unifor reach tentative deal on labor contract",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/ford-canadas-unifor-reach-tentative-deal-on-laborcontract-4787316",
+  "published_iso": "2026-07-12T11:48:31+09:00",
+  "published_kst": "07/12 11:48"
+ },
+ {
+  "category": "주식시장",
+  "title": "Analyst highlights China name as AI home appliance winner",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/analyst-highlights-china-name-as-ai-home-appliance-winner-4787319",
+  "published_iso": "2026-07-12T11:05:31+09:00",
+  "published_kst": "07/12 11:05"
+ },
+ {
+  "category": "국내주식",
+  "title": "애널리스트, ’AI 가전 승자’로 중국 기업 지목",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2012537",
+  "published_iso": "2026-07-12T11:05:31+09:00",
+  "published_kst": "07/12 11:05"
+ },
+ {
+  "category": "경제",
+  "title": "Bangladesh’s first nuclear plant highlights emerging markets’ energy shift",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/bangladeshs-first-nuclear-plant-highlights-emerging-markets-energy-shift-4787317",
+  "published_iso": "2026-07-12T10:50:12+09:00",
+  "published_kst": "07/12 10:50"
+ },
+ {
+  "category": "국내경제",
+  "title": "방글라데시 최초 원전, 신흥 시장 에너지 전환 부각",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2012534",
+  "published_iso": "2026-07-12T10:50:12+09:00",
+  "published_kst": "07/12 10:50"
+ },
+ {
+  "category": "국내주식",
+  "title": "﻿실적 정점론에 갇힌 현대차, ‘PER 4배’ 금융위기급 저평가",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2012533",
+  "published_iso": "2026-07-12T10:41:11+09:00",
+  "published_kst": "07/12 10:41"
+ },
+ {
+  "category": "국내주식",
+  "title": "中, AI 제조혁명 세계 1위…한국 공장도 ’AI 없인 안 된다’",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2012532",
+  "published_iso": "2026-07-12T10:41:11+09:00",
+  "published_kst": "07/12 10:41"
+ },
+ {
+  "category": "국내주식",
+  "title": "중국 관광객 25% 늘자 카지노株 ’잭팟’…파라다이스·롯데관광개발 기대감",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2012530",
+  "published_iso": "2026-07-12T10:11:10+09:00",
+  "published_kst": "07/12 10:11"
+ },
+ {
+  "category": "원자재",
+  "title": "US says it launched strikes against Iran after attack on Cyprus-flagged container ship",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/us-says-it-launched-strikes-against-iran-after-attack-on-cyprusflagged-container-ship-4787315",
+  "published_iso": "2026-07-12T09:54:07+09:00",
+  "published_kst": "07/12 09:54"
+ },
+ {
+  "category": "국내주식",
+  "title": "스페이스X 상장 한 달…우주ETF 평균 -14%, 개인 5000억 순매도",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2012528",
+  "published_iso": "2026-07-12T09:42:15+09:00",
+  "published_kst": "07/12 09:42"
+ },
+ {
+  "category": "국내주식",
+  "title": "물가·금통위·TSMC 실적…이번주 코스피 운명 가른다",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2012527",
+  "published_iso": "2026-07-12T09:42:15+09:00",
+  "published_kst": "07/12 09:42"
+ },
+ {
+  "category": "국내경제",
+  "title": "미국, 이란 군사표적 140개 타격... 이란은 호르무즈 해협 폐쇄",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2012521",
+  "published_iso": "2026-07-12T09:01:45+09:00",
+  "published_kst": "07/12 09:01"
+ },
+ {
+  "category": "경제",
+  "title": "Trump administration subpoenas New York Times reporters over Air Force One leak",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/trump-administration-subpoenas-new-york-times-reporters-over-air-force-one-leak-4787311",
+  "published_iso": "2026-07-12T08:28:57+09:00",
+  "published_kst": "07/12 08:28"
+ },
+ {
+  "category": "국내경제",
+  "title": "트럼프 행정부, 에어포스원 기밀 유출 관련 NYT 기자 4명 소환",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2012520",
+  "published_iso": "2026-07-12T08:28:57+09:00",
+  "published_kst": "07/12 08:28"
+ },
+ {
+  "category": "경제",
+  "title": "Deutsche Bank shares three key points on the dollar’s long-term trajectory",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/deutsche-bank-shares-three-key-points-on-the-dollars-longterm-trajectory-4787308",
+  "published_iso": "2026-07-12T07:46:39+09:00",
+  "published_kst": "07/12 07:46"
+ },
+ {
+  "category": "국내경제",
+  "title": "달러 장기 전망에 관한 도이체방크의 3가지 핵심 포인트",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2012518",
+  "published_iso": "2026-07-12T07:46:39+09:00",
+  "published_kst": "07/12 07:46"
+ },
+ {
+  "category": "원자재",
+  "title": "Iran’s IRGC navy says Strait of Hormuz closed until further notice, state media reports",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/irans-irgc-navy-says-strait-of-hormuz-closed-until-further-notice-state-media-reports-4787307",
+  "published_iso": "2026-07-12T07:36:50+09:00",
+  "published_kst": "07/12 07:36"
+ },
+ {
+  "category": "주식시장",
+  "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4787306",
+  "published_iso": "2026-07-12T06:20:04+09:00",
+  "published_kst": "07/12 06:20"
+ },
+ {
   "category": "경제",
   "title": "US Postal Service raises stamp price to 82 cents",
   "summary": "",
