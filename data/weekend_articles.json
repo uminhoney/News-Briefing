@@ -1,5 +1,261 @@
 [
  {
+  "category": "주식시장",
+  "title": "Institutional demand for CXMT’s $8.6 billion Shanghai IPO dented by chip stock selloff",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/institutional-demand-for-cxmts-86-billion-shanghai-ipo-dented-by-chip-stock-selloff-4799712",
+  "published_iso": "2026-07-19T18:18:32+09:00",
+  "published_kst": "07/19 18:18"
+ },
+ {
+  "category": "주식시장",
+  "title": "5 big analyst AI moves: Apple upgraded as HSBC flags ’operational turning point’",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-apple-upgraded-as-hsbc-flags-operational-turning-point-4798630",
+  "published_iso": "2026-07-19T18:00:02+09:00",
+  "published_kst": "07/19 18:00"
+ },
+ {
+  "category": "국내주식",
+  "title": "애플, HSBC 업그레이드…\"운영 전환점\" 도달",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2020223",
+  "published_iso": "2026-07-19T18:00:02+09:00",
+  "published_kst": "07/19 18:00"
+ },
+ {
+  "category": "주식시장",
+  "title": "Users of Meta’s Facebook, Instagram report suffering some outages",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/users-of-metas-facebook-instagram-report-suffering-some-outages-4799710",
+  "published_iso": "2026-07-19T17:54:26+09:00",
+  "published_kst": "07/19 17:54"
+ },
+ {
+  "category": "경제",
+  "title": "Men more likely than women to use job offers for pay rises, study finds",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/men-more-likely-than-women-to-use-job-offers-for-pay-rises-study-finds-4799709",
+  "published_iso": "2026-07-19T17:06:28+09:00",
+  "published_kst": "07/19 17:06"
+ },
+ {
+  "category": "주식시장",
+  "title": "Why BofA remains negative on European equities",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/why-bofa-remains-negative-on-european-equities-4799707",
+  "published_iso": "2026-07-19T16:58:32+09:00",
+  "published_kst": "07/19 16:58"
+ },
+ {
+  "category": "국내주식",
+  "title": "뱅크오브아메리카, 유럽 주식에 여전히 비관적인 이유",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2020219",
+  "published_iso": "2026-07-19T16:58:32+09:00",
+  "published_kst": "07/19 16:58"
+ },
+ {
+  "category": "경제",
+  "title": "What are the implications of a renewed closure of the Strait of Hormuz?",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/what-are-the-implications-of-a-renewed-closure-of-the-strait-of-hormuz-4799705",
+  "published_iso": "2026-07-19T15:36:46+09:00",
+  "published_kst": "07/19 15:36"
+ },
+ {
+  "category": "국내경제",
+  "title": "호르무즈 해협 재봉쇄 시 글로벌 경제에 미치는 영향은?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2020214",
+  "published_iso": "2026-07-19T15:36:46+09:00",
+  "published_kst": "07/19 15:36"
+ },
+ {
+  "category": "경제",
+  "title": "FDA finds outbreak-linked parasite in Taylor Farms lettuce sample",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/fda-finds-outbreaklinked-parasite-in-taylor-farms-lettuce-sample-4799703",
+  "published_iso": "2026-07-19T15:00:05+09:00",
+  "published_kst": "07/19 15:00"
+ },
+ {
+  "category": "국내경제",
+  "title": "FDA, 테일러 팜스 양상추 샘플에서 집단 발병 연관 기생충 검출",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2020208",
+  "published_iso": "2026-07-19T15:00:05+09:00",
+  "published_kst": "07/19 15:00"
+ },
+ {
+  "category": "경제",
+  "title": "Ukraine strikes Wildberries warehouses deep inside Russia, killing eight",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/ukraine-strikes-wildberries-warehouses-deep-inside-russia-killing-eight-4799702",
+  "published_iso": "2026-07-19T14:23:09+09:00",
+  "published_kst": "07/19 14:23"
+ },
+ {
+  "category": "국내경제",
+  "title": "우크라이나, 러시아 깊숙이 위치한 와일드베리스 창고 공습…8명 사망",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2020202",
+  "published_iso": "2026-07-19T14:23:09+09:00",
+  "published_kst": "07/19 14:23"
+ },
+ {
+  "category": "경제",
+  "title": "Analyst says there is a divide in how Americans shop for Apparel & Footwear",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/analyst-says-there-is-a-divide-in-how-americans-shop-for-apparel--footwear-4799701",
+  "published_iso": "2026-07-19T13:55:10+09:00",
+  "published_kst": "07/19 13:55"
+ },
+ {
+  "category": "국내경제",
+  "title": "미국 의류·신발 쇼핑 양극화 심화…애널리스트 분석",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2020200",
+  "published_iso": "2026-07-19T13:55:10+09:00",
+  "published_kst": "07/19 13:55"
+ },
+ {
+  "category": "주식시장",
+  "title": "Exclusive-Samsung cuts US jobs, offers relocations ahead of HQ move",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/samsung-electronics-america-to-reduce-workforce-by-739-in-new-jersey-us-warn-notice-says-4799679",
+  "published_iso": "2026-07-19T13:36:24+09:00",
+  "published_kst": "07/19 13:36"
+ },
+ {
+  "category": "경제",
+  "title": "Andrew and Tristan Tate arrested in Miami on UK extradition request",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/andrew-and-tristan-tate-arrested-in-miami-on-uk-extradition-request-4799700",
+  "published_iso": "2026-07-19T12:56:41+09:00",
+  "published_kst": "07/19 12:56"
+ },
+ {
+  "category": "국내경제",
+  "title": "앤드루·트리스탄 테이트, 영국 송환 요청으로 마이애미서 체포",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2020198",
+  "published_iso": "2026-07-19T12:56:41+09:00",
+  "published_kst": "07/19 12:56"
+ },
+ {
+  "category": "경제",
+  "title": "Incoming UK prime minister Andy Burnham scraps digital ID scheme",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/incoming-uk-prime-minister-andy-burnham-scraps-digital-id-scheme-4799699",
+  "published_iso": "2026-07-19T12:17:49+09:00",
+  "published_kst": "07/19 12:17"
+ },
+ {
+  "category": "국내경제",
+  "title": "앤디 버넘 영국 신임 총리, 디지털 신분증 계획 폐기",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2020195",
+  "published_iso": "2026-07-19T12:17:49+09:00",
+  "published_kst": "07/19 12:17"
+ },
+ {
+  "category": "주식시장",
+  "title": "BofA lists the strongest luxury brands in 2026",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/bofa-lists-the-strongest-luxury-brands-in-2026-4799697",
+  "published_iso": "2026-07-19T11:37:50+09:00",
+  "published_kst": "07/19 11:37"
+ },
+ {
+  "category": "국내주식",
+  "title": "BofA, 2026년 가장 강력한 럭셔리 브랜드 선정",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2020194",
+  "published_iso": "2026-07-19T11:37:50+09:00",
+  "published_kst": "07/19 11:37"
+ },
+ {
+  "category": "원자재",
+  "title": "Russian ballistic missiles rock Kyiv, one killed, officials say",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/russian-ballistic-missiles-rock-kyiv-one-killed-officials-say-4799696",
+  "published_iso": "2026-07-19T11:30:33+09:00",
+  "published_kst": "07/19 11:30"
+ },
+ {
+  "category": "주식시장",
+  "title": "South Korean stocks emerge as key gauge for global AI sentiment",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/south-korean-stocks-emerge-as-key-gauge-for-global-ai-sentiment-4799692",
+  "published_iso": "2026-07-19T11:03:46+09:00",
+  "published_kst": "07/19 11:03"
+ },
+ {
+  "category": "국내주식",
+  "title": "한국 증시, 글로벌 AI 심리 가늠하는 주요 지표로 부상",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2020189",
+  "published_iso": "2026-07-19T10:57:58+09:00",
+  "published_kst": "07/19 10:57"
+ },
+ {
+  "category": "주식시장",
+  "title": "Why would Stripe want PayPal?",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/why-would-stripe-want-paypal-4799689",
+  "published_iso": "2026-07-19T09:39:35+09:00",
+  "published_kst": "07/19 09:39"
+ },
+ {
+  "category": "국내주식",
+  "title": "스트라이프는 왜 페이팔 홀딩스를 인수하려 하는가?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2020186",
+  "published_iso": "2026-07-19T09:39:35+09:00",
+  "published_kst": "07/19 09:39"
+ },
+ {
+  "category": "경제",
+  "title": "US strikes Iran after attack kills two American troops",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/us-strikes-iran-after-attack-kills-two-american-troops-4799686",
+  "published_iso": "2026-07-19T08:53:24+09:00",
+  "published_kst": "07/19 08:53"
+ },
+ {
+  "category": "국내경제",
+  "title": "미국, 미군 2명 사망 이란 공격에 보복 타격 감행",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2020183",
+  "published_iso": "2026-07-19T08:50:28+09:00",
+  "published_kst": "07/19 08:50"
+ },
+ {
+  "category": "주식시장",
+  "title": "Tesla stock: How much does an improved auto business matter?",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/tesla-stock-how-much-does-an-improved-auto-business-matter-4799683",
+  "published_iso": "2026-07-19T08:14:20+09:00",
+  "published_kst": "07/19 08:14"
+ },
+ {
+  "category": "국내주식",
+  "title": "테슬라 주가: 자동차 사업 개선이 얼마나 중요한가?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2020181",
+  "published_iso": "2026-07-19T08:14:20+09:00",
+  "published_kst": "07/19 08:14"
+ },
+ {
+  "category": "국내주식",
+  "title": "코스피지수 실적은 개선됐는데, 왜 주가는 더 크게 떨어지나?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2020180",
+  "published_iso": "2026-07-19T06:52:41+09:00",
+  "published_kst": "07/19 06:52"
+ },
+ {
   "category": "경제",
   "title": "What’s next for the ECB? Key expectations for next week",
   "summary": "",
