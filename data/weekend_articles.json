@@ -1,5 +1,117 @@
 [
  {
+  "category": "경제",
+  "title": "US appeals court rules Trump cannot implement mail-in voting order",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/us-appeals-court-rules-trump-cannot-implement-mailin-voting-order-4812812",
+  "published_iso": "2026-07-26T04:36:30+09:00",
+  "published_kst": "07/26 04:36"
+ },
+ {
+  "category": "경제",
+  "title": "BofA warns oil volatility could force c. banks to abandon look-through’ policy",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/bofa-warns-oil-volatility-could-force-c-banks-to-abandon-lookthrough-policy-4812808",
+  "published_iso": "2026-07-26T03:57:35+09:00",
+  "published_kst": "07/26 03:57"
+ },
+ {
+  "category": "국내경제",
+  "title": "뱅크오브아메리카, 유가 변동성으로 중앙은행 ’일시적 요인 간과’ 정책 포기할 수도 경고",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2029232",
+  "published_iso": "2026-07-26T03:48:23+09:00",
+  "published_kst": "07/26 03:48"
+ },
+ {
+  "category": "주식시장",
+  "title": "Michigan battles massive outbreak as state reels from Trump cuts",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/michigan-battles-massive-outbreak-as-state-reels-from-trump-cuts-4812766",
+  "published_iso": "2026-07-26T02:24:39+09:00",
+  "published_kst": "07/26 02:24"
+ },
+ {
+  "category": "주식시장",
+  "title": "LSEG’s Lipper reviews transaction affecting fixed-income fund flow data",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/lsegs-lipper-reviews-transaction-affecting-fixedincome-fund-flow-data-4812804",
+  "published_iso": "2026-07-26T01:36:53+09:00",
+  "published_kst": "07/26 01:36"
+ },
+ {
+  "category": "주식시장",
+  "title": "DeepSeek tells prospective investors of funding pause, Bloomberg News reports",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/deepseek-tells-prospective-investors-of-funding-pause-bloomberg-news-reports-4812797",
+  "published_iso": "2026-07-26T00:48:24+09:00",
+  "published_kst": "07/26 00:48"
+ },
+ {
+  "category": "주식시장",
+  "title": "Rotate to China: BCA tips 3-month reversion trade away from South Korea stocks",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/rotate-to-china-bca-tips-3month-reversion-trade-away-from-south-korea-stocks-4812800",
+  "published_iso": "2026-07-26T00:46:24+09:00",
+  "published_kst": "07/26 00:46"
+ },
+ {
+  "category": "국내주식",
+  "title": "BCA: 중국으로 선회하라…한국 증시서 3개월 되돌림 거래 권고",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2029229",
+  "published_iso": "2026-07-26T00:46:24+09:00",
+  "published_kst": "07/26 00:46"
+ },
+ {
+  "category": "주식시장",
+  "title": "Russia says Ukraine killed 11 in tourist camp; Ukraine strikes Russian refinery",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/russia-says-ukraine-killed-11-in-tourist-camp-ukraine-strikes-russian-refinery-4812793",
+  "published_iso": "2026-07-25T23:36:08+09:00",
+  "published_kst": "07/25 23:36"
+ },
+ {
+  "category": "주식시장",
+  "title": "Citi brush off memory \"peak-out\" fears, reiterates Buy on Samsung and SK Hynix",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/citi-brush-off-memory-peakout-fears-reiterates-buy-on-samsung-and-sk-hynix-4812769",
+  "published_iso": "2026-07-25T19:54:54+09:00",
+  "published_kst": "07/25 19:54"
+ },
+ {
+  "category": "국내주식",
+  "title": "씨티, 메모리 ’피크아웃’ 우려 일축…삼성전자·SK하이닉스 매수 유지",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2029213",
+  "published_iso": "2026-07-25T19:54:54+09:00",
+  "published_kst": "07/25 19:54"
+ },
+ {
+  "category": "원자재",
+  "title": "Swiss cheesemakers try to fill hole in sales from US tariffs",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/swiss-cheesemakers-try-to-fill-hole-in-sales-from-us-tariffs-4812765",
+  "published_iso": "2026-07-25T19:12:52+09:00",
+  "published_kst": "07/25 19:12"
+ },
+ {
+  "category": "경제지표",
+  "title": "This wave of Trump tariffs is likely here to stay; more are coming",
+  "summary": "",
+  "link": "https://www.investing.com/news/economic-indicators/this-wave-of-trump-tariffs-is-likely-here-to-stay-more-are-coming-4812764",
+  "published_iso": "2026-07-25T19:12:33+09:00",
+  "published_kst": "07/25 19:12"
+ },
+ {
+  "category": "주식시장",
+  "title": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/samsung-elec-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push-4812757",
+  "published_iso": "2026-07-25T18:12:29+09:00",
+  "published_kst": "07/25 18:12"
+ },
+ {
   "category": "국내주식",
   "title": "AI 회의론에 흔들린 삼성·하이닉스…1375조 한미 AI동맹, 반전 계기 될까",
   "summary": "",
