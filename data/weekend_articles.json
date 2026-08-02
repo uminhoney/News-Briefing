@@ -1,6 +1,150 @@
 [
  {
   "category": "주식시장",
+  "title": "These 4 topics are central to the success of SpaceX valuation: Bernstein",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/these-4-topics-are-central-to-the-success-of-spacex-valuation-bernstein-4829709",
+  "published_iso": "2026-08-03T04:56:45+09:00",
+  "published_kst": "08/03 04:56"
+ },
+ {
+  "category": "국내주식",
+  "title": "SpaceX 밸류에이션 성공의 핵심 4가지 주제: 번스타인",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2040601",
+  "published_iso": "2026-08-03T04:56:45+09:00",
+  "published_kst": "08/03 04:56"
+ },
+ {
+  "category": "주식시장",
+  "title": "AstraZeneca holds talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/astrazeneca-holds-talks-with-bristol-myers-squibb-on-400-billion-megadeal-ft-reports-4829708",
+  "published_iso": "2026-08-03T04:54:31+09:00",
+  "published_kst": "08/03 04:54"
+ },
+ {
+  "category": "주식시장",
+  "title": "This country’s stock market may do better than most if AI bubble pops: Analyst",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/this-countrys-stock-market-may-do-better-than-most-if-ai-bubble-pops-analyst-4829705",
+  "published_iso": "2026-08-03T03:13:55+09:00",
+  "published_kst": "08/03 03:13"
+ },
+ {
+  "category": "국내주식",
+  "title": "AI 버블 붕괴 시 영국 증시가 선방할 수 있다: 애널리스트",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2040598",
+  "published_iso": "2026-08-03T03:13:55+09:00",
+  "published_kst": "08/03 03:13"
+ },
+ {
+  "category": "원자재",
+  "title": "Two die as firefighting helicopters collide in Greece, French blaze changes course",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/greece-battles-wildfires-hungary-shuts-nuclear-power-plant-due-to-drought-4829687",
+  "published_iso": "2026-08-03T02:48:37+09:00",
+  "published_kst": "08/03 02:48"
+ },
+ {
+  "category": "경제",
+  "title": "Analysis-China draws ’red lines’ around its economic model ahead of EU, US trade talks",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/analysischina-draws-red-lines-around-its-economic-model-ahead-of-eu-us-trade-talks-4829703",
+  "published_iso": "2026-08-03T02:12:24+09:00",
+  "published_kst": "08/03 02:12"
+ },
+ {
+  "category": "경제",
+  "title": "What is the Anna Karenina Principle of Monetary Policy?",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/what-is-the-anna-karenina-principle-of-monetary-policy-4829702",
+  "published_iso": "2026-08-03T00:21:33+09:00",
+  "published_kst": "08/03 00:21"
+ },
+ {
+  "category": "국내경제",
+  "title": "통화정책의 ’안나 카레니나 원칙’이란 무엇인가?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2040595",
+  "published_iso": "2026-08-03T00:21:33+09:00",
+  "published_kst": "08/03 00:21"
+ },
+ {
+  "category": "경제지표",
+  "title": "Australia’s home price retreat gathers pace in July, Cotality data shows",
+  "summary": "",
+  "link": "https://www.investing.com/news/economic-indicators/australias-home-price-retreat-gathers-pace-in-july-cotality-data-shows-4829700",
+  "published_iso": "2026-08-02T23:06:32+09:00",
+  "published_kst": "08/02 23:06"
+ },
+ {
+  "category": "실적",
+  "title": "Douglas Dynamics earnings on deck: Can summer momentum last?",
+  "summary": "",
+  "link": "https://www.investing.com/news/earnings/douglas-dynamics-earnings-on-deck-can-summer-momentum-last-93CH-4829698",
+  "published_iso": "2026-08-02T22:35:05+09:00",
+  "published_kst": "08/02 22:35"
+ },
+ {
+  "category": "주식시장",
+  "title": "Is now the time to buy European equities?",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/is-now-the-time-to-buy-european-equities-4829697",
+  "published_iso": "2026-08-02T22:02:37+09:00",
+  "published_kst": "08/02 22:02"
+ },
+ {
+  "category": "국내주식",
+  "title": "지금이 유럽 주식을 매수할 적기인가?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2040590",
+  "published_iso": "2026-08-02T22:02:37+09:00",
+  "published_kst": "08/02 22:02"
+ },
+ {
+  "category": "주식시장",
+  "title": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 1.10%",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-110-4829695",
+  "published_iso": "2026-08-02T21:45:03+09:00",
+  "published_kst": "08/02 21:45"
+ },
+ {
+  "category": "원자재",
+  "title": "OPEC+ members agree to September quota hike",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/opec-members-agree-to-september-quota-hike-4829688",
+  "published_iso": "2026-08-02T20:47:06+09:00",
+  "published_kst": "08/02 20:47"
+ },
+ {
+  "category": "주식시장",
+  "title": "For GLP-1 users, the in-store clothes shopping trip is back",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/for-glp1-users-the-instore-clothes-shopping-trip-is-back-4829685",
+  "published_iso": "2026-08-02T20:06:34+09:00",
+  "published_kst": "08/02 20:06"
+ },
+ {
+  "category": "주식시장",
+  "title": "Street Calls of the Week",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-4827261",
+  "published_iso": "2026-08-02T19:00:02+09:00",
+  "published_kst": "08/02 19:00"
+ },
+ {
+  "category": "국내주식",
+  "title": "이번 주 월가의 주요 투자의견 변경 총정리",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2040575",
+  "published_iso": "2026-08-02T19:00:02+09:00",
+  "published_kst": "08/02 19:00"
+ },
+ {
+  "category": "주식시장",
   "title": "Ukrainian drones kill two in Russia, strike Wildberries warehouse, governors say",
   "summary": "",
   "link": "https://www.investing.com/news/stock-market-news/ukrainian-drones-kill-two-in-russia-strike-wildberries-warehouse-governors-say-4829675",
