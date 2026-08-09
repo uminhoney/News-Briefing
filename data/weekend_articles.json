@@ -1,6 +1,294 @@
 [
  {
   "category": "원자재",
+  "title": "Iran says Oman deal is in ’final stages’ but US must act to open Hormuz",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/iran-says-oman-deal-is-in-final-stages-but-us-must-act-to-open-hormuz-4847732",
+  "published_iso": "2026-08-10T03:48:30+09:00",
+  "published_kst": "08/10 03:48"
+ },
+ {
+  "category": "경제",
+  "title": "Warsh wants a Fed that plays a smaller role in markets",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/warsh-wants-a-fed-that-plays-a-smaller-role-in-markets-4847750",
+  "published_iso": "2026-08-10T01:01:07+09:00",
+  "published_kst": "08/10 01:01"
+ },
+ {
+  "category": "국내경제",
+  "title": "워시 연준 의장 후보, 금융시장 영향력 축소 방침",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2053216",
+  "published_iso": "2026-08-10T01:01:07+09:00",
+  "published_kst": "08/10 01:01"
+ },
+ {
+  "category": "실적",
+  "title": "CEVA earnings on deck: Can licensing sustain royalty wait?",
+  "summary": "",
+  "link": "https://www.investing.com/news/earnings/ceva-earnings-on-deck-can-licensing-sustain-royalty-wait-93CH-4847747",
+  "published_iso": "2026-08-09T22:41:19+09:00",
+  "published_kst": "08/09 22:41"
+ },
+ {
+  "category": "실적",
+  "title": "Berkshire Hathaway earnings on deck as Abel faces cash test",
+  "summary": "",
+  "link": "https://www.investing.com/news/earnings/berkshire-hathaway-earnings-on-deck-as-abel-faces-cash-test-93CH-4847746",
+  "published_iso": "2026-08-09T22:40:27+09:00",
+  "published_kst": "08/09 22:40"
+ },
+ {
+  "category": "실적",
+  "title": "Trimble earnings on deck amid portfolio simplification push",
+  "summary": "",
+  "link": "https://www.investing.com/news/earnings/trimble-earnings-on-deck-amid-portfolio-simplification-push-93CH-4847745",
+  "published_iso": "2026-08-09T22:39:33+09:00",
+  "published_kst": "08/09 22:39"
+ },
+ {
+  "category": "실적",
+  "title": "Silicon Labs faces earnings test amid Texas Instruments deal",
+  "summary": "",
+  "link": "https://www.investing.com/news/earnings/silicon-labs-faces-earnings-test-amid-texas-instruments-deal-93CH-4847744",
+  "published_iso": "2026-08-09T22:38:39+09:00",
+  "published_kst": "08/09 22:38"
+ },
+ {
+  "category": "실적",
+  "title": "Hub Group earnings ahead: Can execution match freight rebound?",
+  "summary": "",
+  "link": "https://www.investing.com/news/earnings/hub-group-earnings-ahead-can-execution-match-freight-rebound-93CH-4847743",
+  "published_iso": "2026-08-09T22:37:44+09:00",
+  "published_kst": "08/09 22:37"
+ },
+ {
+  "category": "실적",
+  "title": "Biohaven earnings set to show cash burn ahead of epilepsy data",
+  "summary": "",
+  "link": "https://www.investing.com/news/earnings/biohaven-earnings-set-to-show-cash-burn-ahead-of-epilepsy-data-93CH-4847742",
+  "published_iso": "2026-08-09T22:36:51+09:00",
+  "published_kst": "08/09 22:36"
+ },
+ {
+  "category": "실적",
+  "title": "Sana Biotechnology faces earnings test as CAR-T program advances",
+  "summary": "",
+  "link": "https://www.investing.com/news/earnings/sana-biotechnology-faces-earnings-test-as-cart-program-advances-93CH-4847741",
+  "published_iso": "2026-08-09T22:35:57+09:00",
+  "published_kst": "08/09 22:35"
+ },
+ {
+  "category": "실적",
+  "title": "Replimune in the spotlight: Earnings loom days after FDA approval",
+  "summary": "",
+  "link": "https://www.investing.com/news/earnings/replimune-in-the-spotlight-earnings-loom-days-after-fda-approval-93CH-4847740",
+  "published_iso": "2026-08-09T22:35:03+09:00",
+  "published_kst": "08/09 22:35"
+ },
+ {
+  "category": "경제",
+  "title": "Which economies and sectors are most exposed to AI earnings bust?",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/which-economies-and-sectors-are-most-exposed-to-ai-earnings-bust-4847737",
+  "published_iso": "2026-08-09T21:57:12+09:00",
+  "published_kst": "08/09 21:57"
+ },
+ {
+  "category": "국내경제",
+  "title": "AI 실적 부진 시 가장 큰 타격을 받는 경제와 산업은?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2053197",
+  "published_iso": "2026-08-09T21:57:12+09:00",
+  "published_kst": "08/09 21:57"
+ },
+ {
+  "category": "주식시장",
+  "title": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.05%",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-005-4847735",
+  "published_iso": "2026-08-09T21:45:03+09:00",
+  "published_kst": "08/09 21:45"
+ },
+ {
+  "category": "주식시장",
+  "title": "Apple tests China’s CXMT memory chips for iPhones and MacBooks, WSJ reports",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/apple-tests-chinas-cxmt-memory-chips-for-iphones-and-macbooks-wsj-reports-4847734",
+  "published_iso": "2026-08-09T21:12:30+09:00",
+  "published_kst": "08/09 21:12"
+ },
+ {
+  "category": "경제",
+  "title": "Why the upcoming CPI report is a bigger event than last week’s jobs data",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/why-the-upcoming-cpi-report-is-a-bigger-event-than-last-weeks-jobs-data-4847733",
+  "published_iso": "2026-08-09T21:00:01+09:00",
+  "published_kst": "08/09 21:00"
+ },
+ {
+  "category": "국내경제",
+  "title": "다가오는 CPI 보고서, 지난주 고용 데이터보다 더 중요한 이유",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2053196",
+  "published_iso": "2026-08-09T21:00:01+09:00",
+  "published_kst": "08/09 21:00"
+ },
+ {
+  "category": "주식시장",
+  "title": "AI-driven tech volatility reaches dot-com era extremes: UBS",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/aidriven-tech-volatility-reaches-dotcom-era-extremes-ubs-4847730",
+  "published_iso": "2026-08-09T20:35:17+09:00",
+  "published_kst": "08/09 20:35"
+ },
+ {
+  "category": "국내주식",
+  "title": "AI 주도 기술주 변동성, 닷컴 버블 수준으로 치솟아: UBS",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2053192",
+  "published_iso": "2026-08-09T20:35:17+09:00",
+  "published_kst": "08/09 20:35"
+ },
+ {
+  "category": "주식시장",
+  "title": "Apple tests memory chips from China’s CXMT to ease AI-driven supply crunch - WSJ",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/apple-tests-memory-chips-from-chinas-cxmt-to-ease-aidriven-supply-crunch--wsj-4847728",
+  "published_iso": "2026-08-09T20:10:53+09:00",
+  "published_kst": "08/09 20:10"
+ },
+ {
+  "category": "국내주식",
+  "title": "애플, AI발 공급난 완화 위해 中 CXMT 메모리 칩 테스트 중 - WSJ",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2053190",
+  "published_iso": "2026-08-09T20:10:53+09:00",
+  "published_kst": "08/09 20:10"
+ },
+ {
+  "category": "원자재",
+  "title": "What happens when the Strait reopens? Key factors to watch",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/what-happens-when-the-strait-reopens-key-factors-to-watch-4847724",
+  "published_iso": "2026-08-09T19:29:47+09:00",
+  "published_kst": "08/09 19:29"
+ },
+ {
+  "category": "국내경제",
+  "title": "호르무즈 해협 재개방 시 주목해야 할 5가지 핵심 요소",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2053186",
+  "published_iso": "2026-08-09T19:29:47+09:00",
+  "published_kst": "08/09 19:29"
+ },
+ {
+  "category": "주식시장",
+  "title": "Three in five Americans favor stronger oversight of social media companies, Reuters/Ipsos poll finds",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/three-in-five-americans-favor-stronger-oversight-of-social-media-companies-reutersipsos-poll-finds-4847723",
+  "published_iso": "2026-08-09T19:06:25+09:00",
+  "published_kst": "08/09 19:06"
+ },
+ {
+  "category": "주식시장",
+  "title": "Street Calls of the Week",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-4847676",
+  "published_iso": "2026-08-09T19:05:02+09:00",
+  "published_kst": "08/09 19:05"
+ },
+ {
+  "category": "국내주식",
+  "title": "이번 주 월가의 주요 애널리스트 투자의견 총정리",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2053184",
+  "published_iso": "2026-08-09T19:05:02+09:00",
+  "published_kst": "08/09 19:05"
+ },
+ {
+  "category": "주식시장",
+  "title": "European stocks draw investors as earnings and growth strengthen",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/european-stocks-draw-investors-as-earnings-and-growth-strengthen-4847722",
+  "published_iso": "2026-08-09T18:58:30+09:00",
+  "published_kst": "08/09 18:58"
+ },
+ {
+  "category": "국내주식",
+  "title": "유럽 증시, 실적 개선과 경제 성장에 힘입어 투자자 유입 확대",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2053183",
+  "published_iso": "2026-08-09T18:58:30+09:00",
+  "published_kst": "08/09 18:58"
+ },
+ {
+  "category": "주식시장",
+  "title": "India’s Maruti sees passenger vehicle market rising to up to 6.3 million units by 2031",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/indias-maruti-sees-passenger-vehicle-market-rising-to-up-to-63-million-units-by-2031-4847721",
+  "published_iso": "2026-08-09T18:12:30+09:00",
+  "published_kst": "08/09 18:12"
+ },
+ {
+  "category": "경제",
+  "title": "Taiwan’s 2027 defence spending to rise 16%, official media reports",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/taiwans-2027-defence-spending-to-rise-16-official-media-reports-4847720",
+  "published_iso": "2026-08-09T18:06:29+09:00",
+  "published_kst": "08/09 18:06"
+ },
+ {
+  "category": "주식시장",
+  "title": "5 big analyst AI moves: Pullback in this stock is an ’enhanced buying opportunity’",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-pullback-in-this-stock-is-an-enhanced-buying-opportunity-4847661",
+  "published_iso": "2026-08-09T18:05:02+09:00",
+  "published_kst": "08/09 18:05"
+ },
+ {
+  "category": "국내주식",
+  "title": "애널리스트들의 AI 주요 분석 5선: 이 종목의 조정은 ’매수 기회’",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2053179",
+  "published_iso": "2026-08-09T18:05:02+09:00",
+  "published_kst": "08/09 18:05"
+ },
+ {
+  "category": "경제",
+  "title": "Spain checks 200 Italy arrivals in border controls after migration row",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/spain-checks-200-italy-arrivals-in-border-controls-after-migration-row-4847719",
+  "published_iso": "2026-08-09T17:54:53+09:00",
+  "published_kst": "08/09 17:54"
+ },
+ {
+  "category": "원자재",
+  "title": "Talks with US won’t happen while interim deal is breached, Iranian minister says",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/talks-with-us-wont-happen-while-interim-deal-is-breached-iranian-minister-says-4847717",
+  "published_iso": "2026-08-09T17:36:34+09:00",
+  "published_kst": "08/09 17:36"
+ },
+ {
+  "category": "주식시장",
+  "title": "European laggards are rebounding - how far can they go?",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/european-laggards-are-rebounding--how-far-can-they-go-4847715",
+  "published_iso": "2026-08-09T16:59:17+09:00",
+  "published_kst": "08/09 16:59"
+ },
+ {
+  "category": "국내주식",
+  "title": "유럽 부진주들의 반등, 어디까지 갈 수 있을까?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2053174",
+  "published_iso": "2026-08-09T16:59:17+09:00",
+  "published_kst": "08/09 16:59"
+ },
+ {
+  "category": "원자재",
   "title": "Yemen’s Houthis say they attacked Saudi Aramco Jazan refinery, fire extinguished",
   "summary": "",
   "link": "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-saudi-aramco-jazan-refinery-fire-extinguished-4847714",
