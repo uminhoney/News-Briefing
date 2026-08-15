@@ -1,5 +1,165 @@
 [
  {
+  "category": "주식시장",
+  "title": "Beneath the S&P 500 rally: Where performance and fundamentals diverge",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/beneath-the-sp-500-rally-where-performance-and-fundamentals-diverge-4861823",
+  "published_iso": "2026-08-16T02:16:30+09:00",
+  "published_kst": "08/16 02:16"
+ },
+ {
+  "category": "국내주식",
+  "title": "S&P 500 랠리의 이면: 성과와 펀더멘털의 괴리",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2063393",
+  "published_iso": "2026-08-16T02:16:30+09:00",
+  "published_kst": "08/16 02:16"
+ },
+ {
+  "category": "경제지표",
+  "title": "Peru’s economic growth slows to 1.75% in June",
+  "summary": "",
+  "link": "https://www.investing.com/news/economic-indicators/perus-economic-growth-slows-to-175-in-june-4861809",
+  "published_iso": "2026-08-16T01:18:07+09:00",
+  "published_kst": "08/16 01:18"
+ },
+ {
+  "category": "경제",
+  "title": "Prediction market operator Kalshi hits back at Nevada regulator over geofencing fine",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/prediction-market-operator-kalshi-hits-back-at-nevada-regulator-over-geofencing-fine-4861795",
+  "published_iso": "2026-08-16T00:00:31+09:00",
+  "published_kst": "08/16 00:00"
+ },
+ {
+  "category": "주식시장",
+  "title": "Is Alphabet signaling a shift in its AI strategy?",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/is-alphabet-signaling-a-shift-in-its-ai-strategy-4861790",
+  "published_iso": "2026-08-15T23:02:13+09:00",
+  "published_kst": "08/15 23:02"
+ },
+ {
+  "category": "국내주식",
+  "title": "알파벳, AI 전략 전환 신호 보내나?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2063366",
+  "published_iso": "2026-08-15T23:02:13+09:00",
+  "published_kst": "08/15 23:02"
+ },
+ {
+  "category": "경제",
+  "title": "Ukraine strikes Russian space centre linked to Rassvet satellite network",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/ukraine-strikes-russian-space-centre-linked-to-rassvet-satellite-network-4861785",
+  "published_iso": "2026-08-15T22:18:20+09:00",
+  "published_kst": "08/15 22:18"
+ },
+ {
+  "category": "국내경제",
+  "title": "우크라이나, 러시아 라스베트 위성망 연계 우주센터 타격",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2063364",
+  "published_iso": "2026-08-15T22:18:20+09:00",
+  "published_kst": "08/15 22:18"
+ },
+ {
+  "category": "원자재",
+  "title": "Ukraine says it hit Russian rocket centre linked to Starlink-style network",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/ukraine-says-it-hit-russian-rocket-centre-linked-to-starlinkstyle-network-4861779",
+  "published_iso": "2026-08-15T21:24:07+09:00",
+  "published_kst": "08/15 21:24"
+ },
+ {
+  "category": "주식시장",
+  "title": "Morgan Stanley flags four catalysts for SpaceX stock through year-end",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-flags-four-catalysts-for-spacex-stock-through-yearend-4861777",
+  "published_iso": "2026-08-15T20:49:49+09:00",
+  "published_kst": "08/15 20:49"
+ },
+ {
+  "category": "국내주식",
+  "title": "모건 스탠리, 연말까지 SpaceX 주가 촉매 4가지 제시",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2063355",
+  "published_iso": "2026-08-15T20:49:49+09:00",
+  "published_kst": "08/15 20:49"
+ },
+ {
+  "category": "주식시장",
+  "title": "Trend followers could keep buying Nasdaq, BofA says",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/trend-followers-could-keep-buying-nasdaq-bofa-says-4861768",
+  "published_iso": "2026-08-15T19:46:27+09:00",
+  "published_kst": "08/15 19:46"
+ },
+ {
+  "category": "국내주식",
+  "title": "트렌드 추종 펀드, 나스닥 매수 지속 가능성—뱅크오브아메리카",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2063343",
+  "published_iso": "2026-08-15T19:46:27+09:00",
+  "published_kst": "08/15 19:46"
+ },
+ {
+  "category": "경제지표",
+  "title": "Trump’s 2024 grocery photo op now haunts Republicans in the midterms",
+  "summary": "",
+  "link": "https://www.investing.com/news/economic-indicators/trumps-2024-grocery-photo-op-now-haunts-republicans-in-the-midterms-4861765",
+  "published_iso": "2026-08-15T19:12:51+09:00",
+  "published_kst": "08/15 19:12"
+ },
+ {
+  "category": "경제",
+  "title": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/us-presses-apple-to-avoid-chinese-memory-chips-amid-shortage--wsj-reports-4861759",
+  "published_iso": "2026-08-15T17:55:22+09:00",
+  "published_kst": "08/15 17:55"
+ },
+ {
+  "category": "국내경제",
+  "title": "미국, 반도체 부족 속 애플에 中 메모리칩 사용 자제 압박 - WSJ",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2063334",
+  "published_iso": "2026-08-15T17:55:22+09:00",
+  "published_kst": "08/15 17:55"
+ },
+ {
+  "category": "주식시장",
+  "title": "UBS lists 4 reasons why it may be a good time to look at infrastructure now",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/ubs-lists-4-reasons-why-it-may-be-a-good-time-to-look-at-infrastructure-now-4861756",
+  "published_iso": "2026-08-15T17:16:29+09:00",
+  "published_kst": "08/15 17:16"
+ },
+ {
+  "category": "국내주식",
+  "title": "UBS, 지금 인프라 투자에 주목해야 할 4가지 이유 제시",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2063331",
+  "published_iso": "2026-08-15T17:16:29+09:00",
+  "published_kst": "08/15 17:16"
+ },
+ {
+  "category": "경제",
+  "title": "U.K. steps up defense supply-chain checks after naval drones signal China",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/uk-steps-up-defense-supplychain-checks-after-naval-drones-signal-china-4861752",
+  "published_iso": "2026-08-15T16:29:36+09:00",
+  "published_kst": "08/15 16:29"
+ },
+ {
+  "category": "국내경제",
+  "title": "영국, 해군 드론이 중국에 신호 전송 후 방산 공급망 점검 강화",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2063326",
+  "published_iso": "2026-08-15T16:29:36+09:00",
+  "published_kst": "08/15 16:29"
+ },
+ {
   "category": "원자재",
   "title": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
   "summary": "",
