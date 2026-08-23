@@ -1,6 +1,102 @@
 [
  {
   "category": "주식시장",
+  "title": "Alibaba plans $10 billion Hong Kong share placement to fund AI spending",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/alibaba-proposes-hong-kong-share-placement-worth-10-billion-4872416",
+  "published_iso": "2026-08-23T15:30:36+09:00",
+  "published_kst": "08/23 15:30"
+ },
+ {
+  "category": "국내주식",
+  "title": "5대 AI 애널리스트 주요 분석: 애플, 폴더블 아이폰·AI 전략으로 투자의견 상향",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2071443",
+  "published_iso": "2026-08-23T15:16:44+09:00",
+  "published_kst": "08/23 15:16"
+ },
+ {
+  "category": "주식시장",
+  "title": "Korean retail traders chase 40% coupons after historic stock rout - report",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/korean-retail-traders-chase-40-coupons-after-historic-stock-rout--report-4872421",
+  "published_iso": "2026-08-23T15:09:09+09:00",
+  "published_kst": "08/23 15:09"
+ },
+ {
+  "category": "국내주식",
+  "title": "한국 개인투자자들, 역대급 폭락 후 40% 쿠폰 ELS 상품에 몰려",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2071444",
+  "published_iso": "2026-08-23T15:09:09+09:00",
+  "published_kst": "08/23 15:09"
+ },
+ {
+  "category": "주식시장",
+  "title": "5 big analyst AI moves: Apple upgraded on foldable iPhone push, new AI strategy",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-apple-upgraded-on-foldable-iphone-push-new-ai-strategy-4872396",
+  "published_iso": "2026-08-23T15:05:01+09:00",
+  "published_kst": "08/23 15:05"
+ },
+ {
+  "category": "주식시장",
+  "title": "Robots can outrun humans, but can they plug in a cable?",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/robots-can-outrun-humans-but-can-they-plug-in-a-cable-4872417",
+  "published_iso": "2026-08-23T14:06:31+09:00",
+  "published_kst": "08/23 14:06"
+ },
+ {
+  "category": "경제지표",
+  "title": "Germany’s Merz to press cabinet for faster pro-growth reforms",
+  "summary": "",
+  "link": "https://www.investing.com/news/economic-indicators/germanys-merz-to-press-cabinet-for-faster-progrowth-reforms-4872393",
+  "published_iso": "2026-08-23T07:12:31+09:00",
+  "published_kst": "08/23 07:12"
+ },
+ {
+  "category": "주식시장",
+  "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4872390",
+  "published_iso": "2026-08-23T06:20:04+09:00",
+  "published_kst": "08/23 06:20"
+ },
+ {
+  "category": "주식시장",
+  "title": "Nvidia customers face over 15% server price hikes as memory costs soar - report",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/nvidia-customers-face-over-15-server-price-hikes-as-memory-costs-soar--report-4872389",
+  "published_iso": "2026-08-23T05:47:44+09:00",
+  "published_kst": "08/23 05:47"
+ },
+ {
+  "category": "국내주식",
+  "title": "Nvidia 고객, 메모리 비용 급등으로 서버 가격 15% 이상 인상 직면",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2071427",
+  "published_iso": "2026-08-23T05:47:44+09:00",
+  "published_kst": "08/23 05:47"
+ },
+ {
+  "category": "주식시장",
+  "title": "Canada’s Unifor union, GM reach tentative agreements",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/canadas-unifor-union-gm-reach-tentative-agreements-4872388",
+  "published_iso": "2026-08-23T05:24:32+09:00",
+  "published_kst": "08/23 05:24"
+ },
+ {
+  "category": "외환",
+  "title": "Will Bessent’s intervention mark a turning point for the yen?",
+  "summary": "",
+  "link": "https://www.investing.com/news/forex-news/will-bessents-intervention-mark-a-turning-point-for-the-yen-4872387",
+  "published_iso": "2026-08-23T05:18:41+09:00",
+  "published_kst": "08/23 05:18"
+ },
+ {
+  "category": "주식시장",
   "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
   "summary": "",
   "link": "https://www.investing.com/news/stock-market-news/nvidia-customers-notified-about-airelated-price-hikes-above-15-bloomberg-news-reports-4872385",
