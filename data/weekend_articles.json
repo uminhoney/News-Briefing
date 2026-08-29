@@ -1,5 +1,141 @@
 [
  {
+  "category": "주식시장",
+  "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4881999",
+  "published_iso": "2026-08-30T06:20:03+09:00",
+  "published_kst": "08/30 06:20"
+ },
+ {
+  "category": "경제",
+  "title": "Warsh at Jackson Hole: 8 key takeaways",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/warsh-at-jackson-hole-8-key-takeaways-4881998",
+  "published_iso": "2026-08-30T05:34:12+09:00",
+  "published_kst": "08/30 05:34"
+ },
+ {
+  "category": "국내경제",
+  "title": "잭슨홀에서의 워시 연준 의장: 8가지 핵심 시사점",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2078906",
+  "published_iso": "2026-08-30T05:34:12+09:00",
+  "published_kst": "08/30 05:34"
+ },
+ {
+  "category": "경제",
+  "title": "UAE investigates Egypt’s Banque Misr after U.S. moves to block dollar clearing",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/uae-investigates-egypts-banque-misr-after-us-moves-to-block-dollar-clearing-4881997",
+  "published_iso": "2026-08-30T05:27:39+09:00",
+  "published_kst": "08/30 05:27"
+ },
+ {
+  "category": "국내경제",
+  "title": "UAE, 이란 연루 의혹으로 미국이 달러 결제 차단 추진하자 Banque Misr 조사 착수",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2078905",
+  "published_iso": "2026-08-30T05:27:39+09:00",
+  "published_kst": "08/30 05:27"
+ },
+ {
+  "category": "경제",
+  "title": "What’s in store for the week ahead",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/whats-in-store-for-the-week-ahead-4881996",
+  "published_iso": "2026-08-30T05:07:15+09:00",
+  "published_kst": "08/30 05:07"
+ },
+ {
+  "category": "국내경제",
+  "title": "다음 주 주요 경제 지표 전망",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2078903",
+  "published_iso": "2026-08-30T05:07:15+09:00",
+  "published_kst": "08/30 05:07"
+ },
+ {
+  "category": "주식시장",
+  "title": "GM deal with workers would add Sierra pickup assembly to Canadian plant despite US tariff threat",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/gm-deal-with-workers-would-add-sierra-pickup-assembly-to-canadian-plant-despite-us-tariff-threat-4881994",
+  "published_iso": "2026-08-30T03:24:27+09:00",
+  "published_kst": "08/30 03:24"
+ },
+ {
+  "category": "주식시장",
+  "title": "Glencore takes $480 mln provision on Radiant World exposure - Bloomberg",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/glencore-takes-480-mln-provision-on-radiant-world-exposure--bloomberg-4881992",
+  "published_iso": "2026-08-30T02:38:55+09:00",
+  "published_kst": "08/30 02:38"
+ },
+ {
+  "category": "국내주식",
+  "title": "글렌코어, 래디언트 월드 익스포저에 4억8000만 달러 충당금 설정",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2078900",
+  "published_iso": "2026-08-30T02:38:55+09:00",
+  "published_kst": "08/30 02:38"
+ },
+ {
+  "category": "경제",
+  "title": "US Treasury’s Bessent warns yen volatility risks spillover to global markets",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/us-treasurys-bessent-warns-yen-volatility-risks-spillover-to-global-markets-4881990",
+  "published_iso": "2026-08-30T02:23:31+09:00",
+  "published_kst": "08/30 02:23"
+ },
+ {
+  "category": "국내경제",
+  "title": "베센트 미 재무장관, 엔화 변동성이 글로벌 시장에 미칠 파급 효과 경고",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2078898",
+  "published_iso": "2026-08-30T02:23:31+09:00",
+  "published_kst": "08/30 02:23"
+ },
+ {
+  "category": "경제",
+  "title": "Bessent says disorderly yen moves can destabilize global markets",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/bessent-says-disorderly-yen-moves-can-destabilize-global-markets-4881989",
+  "published_iso": "2026-08-30T01:48:27+09:00",
+  "published_kst": "08/30 01:48"
+ },
+ {
+  "category": "주식시장",
+  "title": "HDFC Bank CEO Jagdishan to step down in October as governance pressures mount",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/hdfc-bank-ceo-jagdishan-to-step-down-in-october-as-governance-pressures-mount-4881988",
+  "published_iso": "2026-08-30T01:04:26+09:00",
+  "published_kst": "08/30 01:04"
+ },
+ {
+  "category": "경제",
+  "title": "Iceland votes in tight referendum on whether to start EU membership talks",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/iceland-votes-in-tight-referendum-on-whether-to-start-eu-membership-talks-4881985",
+  "published_iso": "2026-08-30T00:48:27+09:00",
+  "published_kst": "08/30 00:48"
+ },
+ {
+  "category": "경제",
+  "title": "What do households want from the UK Budget?",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/what-do-households-want-from-the-uk-budget-4881983",
+  "published_iso": "2026-08-30T00:10:02+09:00",
+  "published_kst": "08/30 00:10"
+ },
+ {
+  "category": "국내경제",
+  "title": "영국 예산안에 대해 가계는 무엇을 원하는가?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2078893",
+  "published_iso": "2026-08-30T00:10:02+09:00",
+  "published_kst": "08/30 00:10"
+ },
+ {
   "category": "경제",
   "title": "Goldman draws 3 lessons from economic research on U.S. inflation expectations",
   "summary": "",
