@@ -1,5 +1,325 @@
 [
  {
+  "category": "주식시장",
+  "title": "What is driving Europe’s yield decoupling?",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/what-is-driving-europes-yield-decoupling-4890276",
+  "published_iso": "2026-09-06T19:27:48+09:00",
+  "published_kst": "09/06 19:27"
+ },
+ {
+  "category": "국내주식",
+  "title": "유럽 국채 수익률 디커플링을 이끄는 요인은?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2085477",
+  "published_iso": "2026-09-06T19:27:48+09:00",
+  "published_kst": "09/06 19:27"
+ },
+ {
+  "category": "국내경제",
+  "title": "튀르키예, 2029년까지 GDP 성장률 5% 목표",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-93CH-2085475",
+  "published_iso": "2026-09-06T19:19:38+09:00",
+  "published_kst": "09/06 19:19"
+ },
+ {
+  "category": "경제",
+  "title": "Turkey forecasts GDP growth to reach 5% by 2029",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/turkey-forecasts-gdp-growth-to-reach-5-by-2029-93CH-4890275",
+  "published_iso": "2026-09-06T19:19:05+09:00",
+  "published_kst": "09/06 19:19"
+ },
+ {
+  "category": "국내경제",
+  "title": "튀르키예, 2026년 인플레이션 28.4% 하락 예상",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-93CH-2085474",
+  "published_iso": "2026-09-06T19:17:58+09:00",
+  "published_kst": "09/06 19:17"
+ },
+ {
+  "category": "경제",
+  "title": "Turkey expects inflation to drop to 28.4% in 2026",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/turkey-expects-inflation-to-drop-to-284-in-2026-93CH-4890274",
+  "published_iso": "2026-09-06T19:16:49+09:00",
+  "published_kst": "09/06 19:16"
+ },
+ {
+  "category": "주식시장",
+  "title": "Street Calls of the Week",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-4890231",
+  "published_iso": "2026-09-06T19:00:02+09:00",
+  "published_kst": "09/06 19:00"
+ },
+ {
+  "category": "국내주식",
+  "title": "이번 주 월가의 주요 투자의견",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2085473",
+  "published_iso": "2026-09-06T19:00:02+09:00",
+  "published_kst": "09/06 19:00"
+ },
+ {
+  "category": "경제",
+  "title": "How China became a more powerful force in global gold demand",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/how-china-became-a-more-powerful-force-in-global-gold-demand-4890273",
+  "published_iso": "2026-09-06T18:56:15+09:00",
+  "published_kst": "09/06 18:56"
+ },
+ {
+  "category": "국내경제",
+  "title": "중국이 글로벌 금 수요에서 더 강력한 영향력을 갖게 된 이유",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2085472",
+  "published_iso": "2026-09-06T18:56:15+09:00",
+  "published_kst": "09/06 18:56"
+ },
+ {
+  "category": "경제",
+  "title": "OPEC+ set to hold oil output policy steady for October - Reuters",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/opec-set-to-hold-oil-output-policy-steady-for-october--reuters-4890270",
+  "published_iso": "2026-09-06T17:17:31+09:00",
+  "published_kst": "09/06 17:17"
+ },
+ {
+  "category": "국내경제",
+  "title": "OPEC+, 10월 원유 생산 정책 동결 전망 - 로이터",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2085464",
+  "published_iso": "2026-09-06T17:17:31+09:00",
+  "published_kst": "09/06 17:17"
+ },
+ {
+  "category": "경제",
+  "title": "Germany moves to strengthen drone and cyber defenses after airport attack",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/germany-moves-to-strengthen-drone-and-cyber-defenses-after-airport-attack-4890268",
+  "published_iso": "2026-09-06T16:59:19+09:00",
+  "published_kst": "09/06 16:59"
+ },
+ {
+  "category": "국내경제",
+  "title": "독일, 공항 공격 이후 드론·사이버 방어 강화 추진",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2085460",
+  "published_iso": "2026-09-06T16:59:19+09:00",
+  "published_kst": "09/06 16:59"
+ },
+ {
+  "category": "국내주식",
+  "title": "아이폰 출시, 애플 주가에 부정적 촉매 될 것",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2085459",
+  "published_iso": "2026-09-06T16:49:27+09:00",
+  "published_kst": "09/06 16:49"
+ },
+ {
+  "category": "원자재",
+  "title": "OPEC+ set to keep oil output policy unchanged on Sunday, sources say",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/opec-set-to-keep-oil-output-policy-unchanged-on-sunday-sources-say-4890267",
+  "published_iso": "2026-09-06T16:42:59+09:00",
+  "published_kst": "09/06 16:42"
+ },
+ {
+  "category": "주식시장",
+  "title": "5 big analyst AI moves: iPhone launch to be negative for Apple stock",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-iphone-launch-to-be-negative-for-apple-stock-4890227",
+  "published_iso": "2026-09-06T16:38:50+09:00",
+  "published_kst": "09/06 16:38"
+ },
+ {
+  "category": "주식시장",
+  "title": "More Central Asian state firms plan Hong Kong listings, finance chief says",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/more-central-asian-state-firms-plan-hong-kong-listings-finance-chief-says-4890265",
+  "published_iso": "2026-09-06T16:18:45+09:00",
+  "published_kst": "09/06 16:18"
+ },
+ {
+  "category": "국내주식",
+  "title": "중앙아시아 국영기업들, 홍콩 증시 상장 추진 확대",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2085458",
+  "published_iso": "2026-09-06T16:18:45+09:00",
+  "published_kst": "09/06 16:18"
+ },
+ {
+  "category": "경제",
+  "title": "Citi shares its 3-month uranium outlook. Here are the price targets",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/citi-shares-its-3month-uranium-outlook-here-are-the-price-targets-4890263",
+  "published_iso": "2026-09-06T15:46:40+09:00",
+  "published_kst": "09/06 15:46"
+ },
+ {
+  "category": "국내경제",
+  "title": "시티, 향후 3개월 우라늄 전망 및 가격 목표 제시",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2085455",
+  "published_iso": "2026-09-06T15:46:40+09:00",
+  "published_kst": "09/06 15:46"
+ },
+ {
+  "category": "경제",
+  "title": "U.S.-Iran tanker war escalates as Hormuz disruption deepens",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/usiran-tanker-war-escalates-as-hormuz-disruption-deepens-4890259",
+  "published_iso": "2026-09-06T15:25:11+09:00",
+  "published_kst": "09/06 15:25"
+ },
+ {
+  "category": "국내경제",
+  "title": "미-이란 유조선 전쟁 격화…호르무즈 해협 혼란 심화",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2085451",
+  "published_iso": "2026-09-06T15:02:25+09:00",
+  "published_kst": "09/06 15:02"
+ },
+ {
+  "category": "주식시장",
+  "title": "SEC seeks court order forcing ISS to hand over client voting data",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/sec-seeks-court-order-forcing-iss-to-hand-over-client-voting-data-4890258",
+  "published_iso": "2026-09-06T14:34:36+09:00",
+  "published_kst": "09/06 14:34"
+ },
+ {
+  "category": "국내주식",
+  "title": "SEC, ISS에 고객 의결권 데이터 제출 명령 법원에 신청",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2085448",
+  "published_iso": "2026-09-06T14:34:36+09:00",
+  "published_kst": "09/06 14:34"
+ },
+ {
+  "category": "주식시장",
+  "title": "Investors turn to Chinese stocks as alternative to crowded AI trades",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/investors-turn-to-chinese-stocks-as-alternative-to-crowded-ai-trades-4890253",
+  "published_iso": "2026-09-06T13:55:12+09:00",
+  "published_kst": "09/06 13:55"
+ },
+ {
+  "category": "국내주식",
+  "title": "혼잡한 AI 투자 대안으로 중국 주식에 투자자 몰려",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2085442",
+  "published_iso": "2026-09-06T13:55:12+09:00",
+  "published_kst": "09/06 13:55"
+ },
+ {
+  "category": "경제",
+  "title": "How widespread is the adoption of robots among Swiss companies?",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/how-widespread-is-the-adoption-of-robots-among-swiss-companies-4890251",
+  "published_iso": "2026-09-06T12:19:56+09:00",
+  "published_kst": "09/06 12:19"
+ },
+ {
+  "category": "국내경제",
+  "title": "스위스 기업들의 로봇 도입, 얼마나 확산됐나?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2085438",
+  "published_iso": "2026-09-06T12:19:56+09:00",
+  "published_kst": "09/06 12:19"
+ },
+ {
+  "category": "경제",
+  "title": "Ukraine weighs new tax revenue source to help fund war effort - WSJ",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/ukraine-weighs-new-tax-revenue-source-to-help-fund-war-effort--wsj-4890250",
+  "published_iso": "2026-09-06T11:40:10+09:00",
+  "published_kst": "09/06 11:40"
+ },
+ {
+  "category": "국내경제",
+  "title": "우크라이나, 전쟁 자금 마련 위해 새로운 세수원 검토",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2085436",
+  "published_iso": "2026-09-06T11:40:10+09:00",
+  "published_kst": "09/06 11:40"
+ },
+ {
+  "category": "경제",
+  "title": "Billions in Iranian funds are passing through U.S. banks despite sanctions - WSJ",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/billions-in-iranian-funds-are-passing-through-us-banks-despite-sanctions--wsj-4890248",
+  "published_iso": "2026-09-06T10:52:35+09:00",
+  "published_kst": "09/06 10:52"
+ },
+ {
+  "category": "국내경제",
+  "title": "제재에도 불구하고 수십억 달러 이란 자금이 미국 은행 통과",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2085433",
+  "published_iso": "2026-09-06T10:52:35+09:00",
+  "published_kst": "09/06 10:52"
+ },
+ {
+  "category": "주식시장",
+  "title": "Why some investors say Volkswagen is simply \"not fixable\"",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/why-some-investors-say-volkswagen-is-simply-not-fixable-4890247",
+  "published_iso": "2026-09-06T09:39:48+09:00",
+  "published_kst": "09/06 09:39"
+ },
+ {
+  "category": "국내주식",
+  "title": "폭스바겐이 \"고칠 수 없다\"는 투자자들의 시각, 바뀔까",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2085432",
+  "published_iso": "2026-09-06T09:39:48+09:00",
+  "published_kst": "09/06 09:39"
+ },
+ {
+  "category": "실적",
+  "title": "Imperial Petroleum earnings missed, revenue fell short of estimates",
+  "summary": "",
+  "link": "https://www.investing.com/news/earnings/imperial-petroleum-earnings-missed-revenue-fell-short-of-estimates-4890246",
+  "published_iso": "2026-09-06T09:13:20+09:00",
+  "published_kst": "09/06 09:13"
+ },
+ {
+  "category": "외환",
+  "title": "Is the latest rebound in the Japanese yen real?",
+  "summary": "",
+  "link": "https://www.investing.com/news/forex-news/is-the-latest-rebound-in-the-japanese-yen-real-4890244",
+  "published_iso": "2026-09-06T08:02:37+09:00",
+  "published_kst": "09/06 08:02"
+ },
+ {
+  "category": "주식시장",
+  "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4890240",
+  "published_iso": "2026-09-06T06:20:04+09:00",
+  "published_kst": "09/06 06:20"
+ },
+ {
+  "category": "주식시장",
+  "title": "Is TTF gas fairly priced as Hormuz, winter risks keep prices elevated?",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/is-ttf-gas-fairly-priced-as-hormuz-winter-risks-keep-prices-elevated-4890238",
+  "published_iso": "2026-09-06T06:06:23+09:00",
+  "published_kst": "09/06 06:06"
+ },
+ {
+  "category": "국내주식",
+  "title": "TTF 가스 가격, 호르무즈 해협과 겨울철 리스크로 고평가됐나?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2085425",
+  "published_iso": "2026-09-06T06:06:23+09:00",
+  "published_kst": "09/06 06:06"
+ },
+ {
   "category": "원자재",
   "title": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says",
   "summary": "",
