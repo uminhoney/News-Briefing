@@ -1,6 +1,94 @@
 [
  {
   "category": "원자재",
+  "title": "Ukraine braces for harsh winter as Russian attacks hit economy",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/ukraine-braces-for-harsh-winter-as-russian-attacks-hit-economy-4898677",
+  "published_iso": "2026-09-13T02:06:27+09:00",
+  "published_kst": "09/13 02:06"
+ },
+ {
+  "category": "경제지표",
+  "title": "India’s Modi and China’s Xi push business links, border peace as ties revive",
+  "summary": "",
+  "link": "https://www.investing.com/news/economic-indicators/indias-modi-and-chinas-xi-push-business-links-border-peace-as-ties-revive-4898675",
+  "published_iso": "2026-09-13T01:54:25+09:00",
+  "published_kst": "09/13 01:54"
+ },
+ {
+  "category": "주식시장",
+  "title": "Canadian boycott of US products pushes grocers to adapt, explore new supply sources",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/canadian-boycott-of-us-products-pushes-grocers-to-adapt-explore-new-supply-sources-4898644",
+  "published_iso": "2026-09-13T01:06:23+09:00",
+  "published_kst": "09/13 01:06"
+ },
+ {
+  "category": "경제",
+  "title": "US judge rules that Trump plan to halve FEMA workforce violated law",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/us-judge-rules-that-trump-plan-to-halvefema-workforce-violated-law-4898666",
+  "published_iso": "2026-09-13T00:24:53+09:00",
+  "published_kst": "09/13 00:24"
+ },
+ {
+  "category": "주식시장",
+  "title": "Anthropic CEO calls for slower AI development after security incidents",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/anthropic-ceo-calls-for-slower-ai-development-after-security-incidents-4898664",
+  "published_iso": "2026-09-12T23:47:40+09:00",
+  "published_kst": "09/12 23:47"
+ },
+ {
+  "category": "국내주식",
+  "title": "Anthropic CEO, 보안 사고 후 AI 개발 속도 늦춰야 한다고 촉구",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2092485",
+  "published_iso": "2026-09-12T23:47:40+09:00",
+  "published_kst": "09/12 23:47"
+ },
+ {
+  "category": "경제",
+  "title": "Anthropic CEO urges AI companies to slow model development",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/anthropic-ceo-urges-ai-companies-to-slow-model-development-4898663",
+  "published_iso": "2026-09-12T23:24:36+09:00",
+  "published_kst": "09/12 23:24"
+ },
+ {
+  "category": "경제지표",
+  "title": "Analysis-Houthi advance in Yemen puts U.S. in a new bind",
+  "summary": "",
+  "link": "https://www.investing.com/news/economic-indicators/analysishouthi-advance-in-yemen-puts-us-in-a-new-bind-4898657",
+  "published_iso": "2026-09-12T22:18:36+09:00",
+  "published_kst": "09/12 22:18"
+ },
+ {
+  "category": "경제",
+  "title": "Citi sees Fed delivering \"a dovish hike\" next week",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/citi-sees-fed-delivering-a-dovish-hike-next-week-4898646",
+  "published_iso": "2026-09-12T19:57:57+09:00",
+  "published_kst": "09/12 19:57"
+ },
+ {
+  "category": "국내경제",
+  "title": "씨티, 연준 다음 주 \"비둘기파적 금리 인상\" 단행 전망",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2092468",
+  "published_iso": "2026-09-12T19:57:57+09:00",
+  "published_kst": "09/12 19:57"
+ },
+ {
+  "category": "원자재",
+  "title": "Trump says Iran probably responsible for attack on Saudi pipeline",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/trump-says-iran-probably-responsible-for-attack-on-saudi-pipeline-4898645",
+  "published_iso": "2026-09-12T19:24:26+09:00",
+  "published_kst": "09/12 19:24"
+ },
+ {
+  "category": "원자재",
   "title": "BRICS agrees on joint declaration before New Delhi summit, sources say",
   "summary": "",
   "link": "https://www.investing.com/news/commodities-news/brics-agrees-on-joint-declaration-before-new-delhi-summit-sources-say-4898638",
