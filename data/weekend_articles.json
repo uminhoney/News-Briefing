@@ -1,6 +1,350 @@
 [
  {
   "category": "원자재",
+  "title": "Saudi pipeline outage threatens loss of 4% of global oil supply",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/saudi-pipeline-outage-threatens-loss-of-4-of-global-oil-supply-4898730",
+  "published_iso": "2026-09-13T21:30:24+09:00",
+  "published_kst": "09/13 21:30"
+ },
+ {
+  "category": "원자재",
+  "title": "New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/new-report-of-attack-on-strait-of-hormuz-shipping-fans-fears-of-threats-to-oil-supplies-4898701",
+  "published_iso": "2026-09-13T21:12:24+09:00",
+  "published_kst": "09/13 21:12"
+ },
+ {
+  "category": "주식시장",
+  "title": "Street calls of the week: Sept. 7–11, 2026",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-sept-711-2026-93CH-4898686",
+  "published_iso": "2026-09-13T19:00:03+09:00",
+  "published_kst": "09/13 19:00"
+ },
+ {
+  "category": "경제",
+  "title": "Xi pushes China’s open-source AI vision at BRICS summit",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/xi-pushes-chinas-opensource-ai-vision-at-brics-summit-4898725",
+  "published_iso": "2026-09-13T18:57:11+09:00",
+  "published_kst": "09/13 18:57"
+ },
+ {
+  "category": "국내경제",
+  "title": "시진핑, BRICS 정상회의서 중국의 오픈소스 AI 비전 강조",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2092552",
+  "published_iso": "2026-09-13T18:57:11+09:00",
+  "published_kst": "09/13 18:57"
+ },
+ {
+  "category": "주식시장",
+  "title": "French AI boom exposes Europe’s funding gap as startups turn to U.S.",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/french-ai-boom-exposes-europes-funding-gap-as-startups-turn-to-us-4898724",
+  "published_iso": "2026-09-13T18:50:55+09:00",
+  "published_kst": "09/13 18:50"
+ },
+ {
+  "category": "국내주식",
+  "title": "프랑스 AI 붐, 유럽의 자금 부족 드러내…스타트업들 미국으로 눈 돌려",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2092550",
+  "published_iso": "2026-09-13T18:50:55+09:00",
+  "published_kst": "09/13 18:50"
+ },
+ {
+  "category": "주식시장",
+  "title": "South Korea extends stock trading hours in push for global investors",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/south-korea-extends-stock-trading-hours-in-push-for-global-investors-4898722",
+  "published_iso": "2026-09-13T18:07:59+09:00",
+  "published_kst": "09/13 18:07"
+ },
+ {
+  "category": "국내주식",
+  "title": "한국 증시, 해외 투자자 유치 위해 야간 거래 시간 확대",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2092544",
+  "published_iso": "2026-09-13T18:07:59+09:00",
+  "published_kst": "09/13 18:07"
+ },
+ {
+  "category": "원자재",
+  "title": "Xi pushes ’Greater BRICS’ economic ties to give bloc larger global role",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/xi-pushes-greater-brics-economic-ties-to-give-bloc-larger-global-role-4898720",
+  "published_iso": "2026-09-13T17:48:29+09:00",
+  "published_kst": "09/13 17:48"
+ },
+ {
+  "category": "주식시장",
+  "title": "The 5 market worries investors can’t ignore, according to Citi",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/the-5-market-worries-investors-cant-ignore-according-to-citi-4898719",
+  "published_iso": "2026-09-13T17:41:58+09:00",
+  "published_kst": "09/13 17:41"
+ },
+ {
+  "category": "국내주식",
+  "title": "시티가 경고한 투자자들이 무시할 수 없는 5가지 시장 위험",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2092541",
+  "published_iso": "2026-09-13T17:41:58+09:00",
+  "published_kst": "09/13 17:41"
+ },
+ {
+  "category": "경제",
+  "title": "Russia accuses Ukraine of Zaporizhzhia fuel attack as Odesa strikes continue",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/russia-accuses-ukraine-of-zaporizhzhia-fuel-attack-as-odesa-strikes-continue-4898718",
+  "published_iso": "2026-09-13T17:37:55+09:00",
+  "published_kst": "09/13 17:37"
+ },
+ {
+  "category": "국내경제",
+  "title": "러시아, 자포리자 핵발전소 연료 트럭 공격으로 우크라이나 비난",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2092536",
+  "published_iso": "2026-09-13T17:37:55+09:00",
+  "published_kst": "09/13 17:37"
+ },
+ {
+  "category": "국내주식",
+  "title": "5대 AI 애널리스트 동향: JP모건, 메타 상향·KLA 반도체 장비 최선호주 선정",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2092535",
+  "published_iso": "2026-09-13T17:31:29+09:00",
+  "published_kst": "09/13 17:31"
+ },
+ {
+  "category": "주식시장",
+  "title": "5 big analyst AI moves: JPMorgan upgrades Meta, names KLA top chip equipment stock",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-jpmorgan-upgrades-meta-names-kla-top-chip-equipment-stock-4898673",
+  "published_iso": "2026-09-13T17:31:28+09:00",
+  "published_kst": "09/13 17:31"
+ },
+ {
+  "category": "주식시장",
+  "title": "US Rep. Tom Tiffany says he sustained minor injuries after plane makes emergency landing",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/us-rep-tom-tiffany-says-he-sustained-minor-injuries-after-plane-makes-emergency-landing-4898717",
+  "published_iso": "2026-09-13T17:30:21+09:00",
+  "published_kst": "09/13 17:30"
+ },
+ {
+  "category": "경제",
+  "title": "French election: Where things stand",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/french-election-where-things-stand-4898716",
+  "published_iso": "2026-09-13T17:00:40+09:00",
+  "published_kst": "09/13 17:00"
+ },
+ {
+  "category": "국내경제",
+  "title": "프랑스 대선: 현재 판세는?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2092532",
+  "published_iso": "2026-09-13T17:00:40+09:00",
+  "published_kst": "09/13 17:00"
+ },
+ {
+  "category": "주식시장",
+  "title": "German firms raise China investment by a third as US outlays slump - IW says",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/german-firms-raise-china-investment-by-a-third-as-us-outlays-slump--iw-says-4898713",
+  "published_iso": "2026-09-13T16:23:48+09:00",
+  "published_kst": "09/13 16:23"
+ },
+ {
+  "category": "국내주식",
+  "title": "독일 기업, 중국 투자 3분의 1 늘리고 미국 투자는 급감",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2092529",
+  "published_iso": "2026-09-13T16:23:48+09:00",
+  "published_kst": "09/13 16:23"
+ },
+ {
+  "category": "원자재",
+  "title": "Russian nuclear head says Ukraine attacked fuel trucks, endangered Zaporizhzhia plant",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/russian-nuclear-head-says-ukraine-attacked-fuel-trucks-endangered-zaporizhzhia-plant-4898712",
+  "published_iso": "2026-09-13T16:06:27+09:00",
+  "published_kst": "09/13 16:06"
+ },
+ {
+  "category": "외환",
+  "title": "Speculators turn bullish on yen for first time since February",
+  "summary": "",
+  "link": "https://www.investing.com/news/forex-news/speculators-turn-bullish-on-yen-for-first-time-since-february-4898711",
+  "published_iso": "2026-09-13T15:44:32+09:00",
+  "published_kst": "09/13 15:44"
+ },
+ {
+  "category": "경제",
+  "title": "How vulnerable are European stocks to natural gas price shocks?",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/how-vulnerable-are-european-stocks-to-natural-gas-price-shocks-4898709",
+  "published_iso": "2026-09-13T14:45:38+09:00",
+  "published_kst": "09/13 14:45"
+ },
+ {
+  "category": "국내경제",
+  "title": "유럽 증시는 천연가스 가격 급등에 얼마나 취약한가?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2092523",
+  "published_iso": "2026-09-13T14:45:38+09:00",
+  "published_kst": "09/13 14:45"
+ },
+ {
+  "category": "경제",
+  "title": "South Korea expands espionage law to protect chip technology",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/south-korea-expands-espionage-law-to-protect-chip-technology-4898708",
+  "published_iso": "2026-09-13T14:32:57+09:00",
+  "published_kst": "09/13 14:32"
+ },
+ {
+  "category": "국내경제",
+  "title": "한국, 반도체 기술 보호 위해 간첩법 확대 시행",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2092521",
+  "published_iso": "2026-09-13T14:32:57+09:00",
+  "published_kst": "09/13 14:32"
+ },
+ {
+  "category": "경제",
+  "title": "Speculators turn net long on yen for first time since February",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/speculators-turn-net-long-on-yen-for-first-time-since-february-4898706",
+  "published_iso": "2026-09-13T12:12:32+09:00",
+  "published_kst": "09/13 12:12"
+ },
+ {
+  "category": "경제",
+  "title": "New Strait of Hormuz ship attack raises oil supply fears as Iran war widens",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/new-strait-of-hormuz-ship-attack-raises-oil-supply-fears-as-iran-war-widens-4898703",
+  "published_iso": "2026-09-13T11:50:29+09:00",
+  "published_kst": "09/13 11:50"
+ },
+ {
+  "category": "국내경제",
+  "title": "호르무즈 해협 선박 공격으로 원유 공급 우려 고조",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2092514",
+  "published_iso": "2026-09-13T11:50:29+09:00",
+  "published_kst": "09/13 11:50"
+ },
+ {
+  "category": "경제",
+  "title": "ECB’s Lagarde says Eurozone inflation shock will last longer",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/ecbs-lagarde-says-eurozone-inflation-shock-will-last-longer-4898702",
+  "published_iso": "2026-09-13T11:35:55+09:00",
+  "published_kst": "09/13 11:35"
+ },
+ {
+  "category": "국내경제",
+  "title": "라가르드 ECB 총재 \"유로존 인플레이션 충격, 더 오래 지속될 것\"",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2092511",
+  "published_iso": "2026-09-13T11:35:55+09:00",
+  "published_kst": "09/13 11:35"
+ },
+ {
+  "category": "경제",
+  "title": "What happens if Bombardier jets are not sold in the U.S.?",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/what-happens-if-bombardier-jets-are-not-sold-in-the-us-4898699",
+  "published_iso": "2026-09-13T09:40:12+09:00",
+  "published_kst": "09/13 09:40"
+ },
+ {
+  "category": "국내경제",
+  "title": "Bombardier 제트기, 미국 판매 중단 시 파장은?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2092508",
+  "published_iso": "2026-09-13T09:40:12+09:00",
+  "published_kst": "09/13 09:40"
+ },
+ {
+  "category": "주식시장",
+  "title": "Hyundai Motor to roll out in-house driver-assist system in 2029",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/hyundai-motor-to-roll-out-inhouse-driverassist-system-in-2029-4898697",
+  "published_iso": "2026-09-13T09:18:28+09:00",
+  "published_kst": "09/13 09:18"
+ },
+ {
+  "category": "주식시장",
+  "title": "SpaceX weighting in Nasdaq 100 set to more than double - Bloomberg",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/spacex-weighting-in-nasdaq-100-set-to-more-than-double--bloomberg-4898698",
+  "published_iso": "2026-09-13T09:07:59+09:00",
+  "published_kst": "09/13 09:07"
+ },
+ {
+  "category": "국내주식",
+  "title": "나스닥 100 지수 내 스페이스X 비중 두 배 이상 증가 전망 - 블룸버그",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2092507",
+  "published_iso": "2026-09-13T09:07:59+09:00",
+  "published_kst": "09/13 09:07"
+ },
+ {
+  "category": "외환",
+  "title": "EUR/USD could retest 1.17 after Fed decision - Citi says",
+  "summary": "",
+  "link": "https://www.investing.com/news/forex-news/eurusd-could-retest-117-after-fed-decision--citi-says-4898692",
+  "published_iso": "2026-09-13T07:52:48+09:00",
+  "published_kst": "09/13 07:52"
+ },
+ {
+  "category": "주식시장",
+  "title": "OpenAI’s Altman rules out 2026 IPO as AI safety takes priority - report",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/openais-altman-rules-out-2026-ipo-as-ai-safety-takes-priority--report-4898691",
+  "published_iso": "2026-09-13T06:30:42+09:00",
+  "published_kst": "09/13 06:30"
+ },
+ {
+  "category": "국내주식",
+  "title": "OpenAI 알트만 CEO, 2026년 IPO 계획 없어…AI 안전이 최우선",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2092501",
+  "published_iso": "2026-09-13T06:30:42+09:00",
+  "published_kst": "09/13 06:30"
+ },
+ {
+  "category": "국내주식",
+  "title": "SMID캡 가치주를 보유해야 하는 5가지 이유",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2092499",
+  "published_iso": "2026-09-13T06:19:32+09:00",
+  "published_kst": "09/13 06:19"
+ },
+ {
+  "category": "국내주식",
+  "title": "에이전트 커머스: 이번엔 결제 산업이 승자가 될까?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2092496",
+  "published_iso": "2026-09-13T06:03:09+09:00",
+  "published_kst": "09/13 06:03"
+ },
+ {
+  "category": "국내주식",
+  "title": "Oracle Financial Software 엘리슨 회장, 최대 5천만 주 매각 계획 철회",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2092491",
+  "published_iso": "2026-09-13T03:03:28+09:00",
+  "published_kst": "09/13 03:03"
+ },
+ {
+  "category": "원자재",
   "title": "Ukraine braces for harsh winter as Russian attacks hit economy",
   "summary": "",
   "link": "https://www.investing.com/news/commodities-news/ukraine-braces-for-harsh-winter-as-russian-attacks-hit-economy-4898677",
