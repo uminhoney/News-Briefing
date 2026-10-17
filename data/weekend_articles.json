@@ -1,5 +1,125 @@
 [
  {
+  "category": "주식시장",
+  "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590",
+  "published_iso": "2026-10-18T06:20:03+09:00",
+  "published_kst": "10/18 06:20"
+ },
+ {
+  "category": "경제",
+  "title": "Citi says interest rates may matter more for economy than stock valuations",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/citi-says-interest-rates-may-matter-more-for-economy-than-stock-valuations-4955545",
+  "published_iso": "2026-10-18T04:54:16+09:00",
+  "published_kst": "10/18 04:54"
+ },
+ {
+  "category": "국내경제",
+  "title": "시티, 금리가 주가 밸류에이션보다 경제에 더 큰 영향 미칠 수 있어",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2130532",
+  "published_iso": "2026-10-18T04:54:16+09:00",
+  "published_kst": "10/18 04:54"
+ },
+ {
+  "category": "주식시장",
+  "title": "Mercedes unveils electric SUV as it expands premium EV lineup",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/mercedes-unveils-electric-suv-as-it-expands-premium-ev-lineup-4955521",
+  "published_iso": "2026-10-18T02:51:40+09:00",
+  "published_kst": "10/18 02:51"
+ },
+ {
+  "category": "국내주식",
+  "title": "메르세데스, 프리미엄 전기차 라인업 확대 위한 전기 SUV 공개",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2130526",
+  "published_iso": "2026-10-18T02:51:40+09:00",
+  "published_kst": "10/18 02:51"
+ },
+ {
+  "category": "주식시장",
+  "title": "Memory stocks: Is the wall of worry justified?",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/memory-stocks-is-the-wall-of-worry-justified-4955476",
+  "published_iso": "2026-10-18T01:15:25+09:00",
+  "published_kst": "10/18 01:15"
+ },
+ {
+  "category": "국내주식",
+  "title": "메모리 반도체 주식: 과도한 우려인가?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2130522",
+  "published_iso": "2026-10-18T01:15:25+09:00",
+  "published_kst": "10/18 01:15"
+ },
+ {
+  "category": "경제",
+  "title": "Analysis-High debt, growing strains put focus on need for new development approaches",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/analysishigh-debt-growing-strains-put-focus-on-need-for-new-development-approaches-4955453",
+  "published_iso": "2026-10-18T00:06:19+09:00",
+  "published_kst": "10/18 00:06"
+ },
+ {
+  "category": "주식시장",
+  "title": "DeepSeek releases AI model update, opens search APIs to all users",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/deepseek-releases-ai-model-update-opens-search-apis-to-all-users-4955445",
+  "published_iso": "2026-10-17T23:33:21+09:00",
+  "published_kst": "10/17 23:33"
+ },
+ {
+  "category": "국내주식",
+  "title": "딥씨크, AI 모델 업데이트 출시…검색 API 전면 개방",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2130518",
+  "published_iso": "2026-10-17T23:33:21+09:00",
+  "published_kst": "10/17 23:33"
+ },
+ {
+  "category": "경제",
+  "title": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/bank-of-canada-sees-sharply-higher-inflation-outlook-as-oil-surges-macklem-says-4955437",
+  "published_iso": "2026-10-17T23:06:43+09:00",
+  "published_kst": "10/17 23:06"
+ },
+ {
+  "category": "주식시장",
+  "title": "Which company has the world’s highest earnings? The answer may surprise you",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/which-company-has-the-worlds-highest-earnings-the-answer-may-surprise-you-4955422",
+  "published_iso": "2026-10-17T22:12:06+09:00",
+  "published_kst": "10/17 22:12"
+ },
+ {
+  "category": "국내주식",
+  "title": "세계 최고 분기 영업이익 기업은? 삼성전자가 Nvidia 앞질러",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2130511",
+  "published_iso": "2026-10-17T22:12:06+09:00",
+  "published_kst": "10/17 22:12"
+ },
+ {
+  "category": "주식시장",
+  "title": "Chip index SOX posts longest losing streak since 2008 as AI worries deepen",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/chip-index-sox-posts-longest-losing-streak-since-2008-as-ai-worries-deepen-4955401",
+  "published_iso": "2026-10-17T21:04:36+09:00",
+  "published_kst": "10/17 21:04"
+ },
+ {
+  "category": "국내주식",
+  "title": "반도체 지수 SOX, 2008년 이후 최장 연속 하락…AI 우려 심화",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2130504",
+  "published_iso": "2026-10-17T21:04:36+09:00",
+  "published_kst": "10/17 21:04"
+ },
+ {
   "category": "실적",
   "title": "ICICI Bank Q2 profit beats estimates on strong loan growth",
   "summary": "",
