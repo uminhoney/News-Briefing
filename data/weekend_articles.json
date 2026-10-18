@@ -1,5 +1,133 @@
 [
  {
+  "category": "주식시장",
+  "title": "Anthropic commits 5% of shares to new public benefit fund",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/anthropic-commits-5-of-shares-to-new-public-benefit-fund-4956032",
+  "published_iso": "2026-10-19T03:28:23+09:00",
+  "published_kst": "10/19 03:28"
+ },
+ {
+  "category": "국내주식",
+  "title": "Anthropic, 신규 공익기금에 지분 5% 출연",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2130664",
+  "published_iso": "2026-10-19T03:28:23+09:00",
+  "published_kst": "10/19 03:28"
+ },
+ {
+  "category": "주식시장",
+  "title": "Anthropic to commit 5% stake to new public benefit fund",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/anthropic-to-commit-5-stake-to-new-public-benefit-fund-4956031",
+  "published_iso": "2026-10-19T03:24:40+09:00",
+  "published_kst": "10/19 03:24"
+ },
+ {
+  "category": "주식시장",
+  "title": "European earnings preview: Can Q3 results meet high expectations?",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/european-earnings-preview-can-q3-results-meet-high-expectations-4956029",
+  "published_iso": "2026-10-19T03:03:11+09:00",
+  "published_kst": "10/19 03:03"
+ },
+ {
+  "category": "국내주식",
+  "title": "유럽 3분기 실적 프리뷰: 높아진 기대치를 충족할 수 있을까?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2130662",
+  "published_iso": "2026-10-19T03:03:11+09:00",
+  "published_kst": "10/19 03:03"
+ },
+ {
+  "category": "원자재",
+  "title": "Captain of flydubai plane describes blocking axe blows as co-pilot attacked",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/captain-of-flydubai-planedescribes-blocking-axe-blows-as-copilot-attacked-4956008",
+  "published_iso": "2026-10-19T01:48:21+09:00",
+  "published_kst": "10/19 01:48"
+ },
+ {
+  "category": "경제",
+  "title": "Midterms: UBS assigns a 50% probability to a Democratic sweep",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/midterms-ubs-assigns-a-50-probability-to-a-democratic-sweep-4955971",
+  "published_iso": "2026-10-18T23:58:10+09:00",
+  "published_kst": "10/18 23:58"
+ },
+ {
+  "category": "국내경제",
+  "title": "UBS, 중간선거에서 민주당 압승 가능성 50% 전망",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2130659",
+  "published_iso": "2026-10-18T23:58:10+09:00",
+  "published_kst": "10/18 23:58"
+ },
+ {
+  "category": "원자재",
+  "title": "Romanian F-16 fighter jets shoot down two drones over Romanian territorial waters",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/romanian-f16-fighter-jets-shoot-down-two-drones-over-romanian-territorial-waters-4955946",
+  "published_iso": "2026-10-18T23:00:30+09:00",
+  "published_kst": "10/18 23:00"
+ },
+ {
+  "category": "원자재",
+  "title": "Analysis-Carney’s pipeline push is unlikely to bring back Canada’s oil jobs boom",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/analysiscarneys-pipeline-push-is-unlikely-to-bring-back-canadas-oil-jobs-boom-4955902",
+  "published_iso": "2026-10-18T22:36:16+09:00",
+  "published_kst": "10/18 22:36"
+ },
+ {
+  "category": "실적",
+  "title": "MetroCity Bankshares earnings in spotlight after Q2 miss",
+  "summary": "",
+  "link": "https://www.investing.com/news/earnings/metrocity-bankshares-earnings-in-spotlight-after-q2-miss-93CH-4955923",
+  "published_iso": "2026-10-18T22:35:04+09:00",
+  "published_kst": "10/18 22:35"
+ },
+ {
+  "category": "주식시장",
+  "title": "As AI rally wobbles, stock market’s spotlight turns to earnings",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/as-ai-rally-wobbles-stock-markets-spotlight-turns-to-earnings-4955913",
+  "published_iso": "2026-10-18T22:00:22+09:00",
+  "published_kst": "10/18 22:00"
+ },
+ {
+  "category": "주식시장",
+  "title": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.82%",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-082-4955903",
+  "published_iso": "2026-10-18T21:45:03+09:00",
+  "published_kst": "10/18 21:45"
+ },
+ {
+  "category": "국내주식",
+  "title": "이건희 삼성 선대회장 6주기…삼성家, 이번주 ’조용한 추모’",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2130632",
+  "published_iso": "2026-10-18T21:41:10+09:00",
+  "published_kst": "10/18 21:41"
+ },
+ {
+  "category": "주식시장",
+  "title": "Buy these 2 stocks amid AI financing concerns: Analyst",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/buy-these-2-stocks-amid-ai-financing-concerns-analyst-4955896",
+  "published_iso": "2026-10-18T21:16:35+09:00",
+  "published_kst": "10/18 21:16"
+ },
+ {
+  "category": "국내주식",
+  "title": "AI 자금조달 우려 속 매수할 2개 종목…Truist",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2130630",
+  "published_iso": "2026-10-18T21:16:35+09:00",
+  "published_kst": "10/18 21:16"
+ },
+ {
   "category": "경제",
   "title": "Analysis-IMF/World Bank meetings leave developing countries with more questions than answers",
   "summary": "",
