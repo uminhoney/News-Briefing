@@ -1,5 +1,325 @@
 [
  {
+  "category": "경제",
+  "title": "Analysis-IMF/World Bank meetings leave developing countries with more questions than answers",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/analysisimfworld-bank-meetings-leave-developing-countries-with-more-questions-than-answers-4955879",
+  "published_iso": "2026-10-18T19:48:34+09:00",
+  "published_kst": "10/18 19:48"
+ },
+ {
+  "category": "원자재",
+  "title": "Iran urges US to accept proposal to reopen Strait of Hormuz",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/iran-urges-us-to-accept-proposal-to-reopen-strait-of-hormuz-4955871",
+  "published_iso": "2026-10-18T19:30:26+09:00",
+  "published_kst": "10/18 19:30"
+ },
+ {
+  "category": "실적",
+  "title": "ICICI Bank ADR earnings missed, revenue was in line with estimates",
+  "summary": "",
+  "link": "https://www.investing.com/news/earnings/icici-bank-adr-earnings-missed-revenue-was-in-line-with-estimates-4955865",
+  "published_iso": "2026-10-18T19:13:09+09:00",
+  "published_kst": "10/18 19:13"
+ },
+ {
+  "category": "주식시장",
+  "title": "Microsoft pulls out of UK data center deal with Nscale, Telegraph reports",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/microsoft-pulls-out-of-uk-data-center-deal-with-nscale-telegraph-reports-4955864",
+  "published_iso": "2026-10-18T19:06:39+09:00",
+  "published_kst": "10/18 19:06"
+ },
+ {
+  "category": "경제",
+  "title": "Iran appoints new defence minister amid escalating tensions with U.S.",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/iran-appoints-new-defence-minister-amid-escalating-tensions-with-us-4955858",
+  "published_iso": "2026-10-18T19:04:06+09:00",
+  "published_kst": "10/18 19:04"
+ },
+ {
+  "category": "주식시장",
+  "title": "Street Calls of the Week",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-93CH-4953774",
+  "published_iso": "2026-10-18T19:00:02+09:00",
+  "published_kst": "10/18 19:00"
+ },
+ {
+  "category": "국내경제",
+  "title": "이란, 미국과의 긴장 고조 속 신임 국방장관 임명",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2130616",
+  "published_iso": "2026-10-18T18:59:50+09:00",
+  "published_kst": "10/18 18:59"
+ },
+ {
+  "category": "경제",
+  "title": "Microsoft pulls out of UK data centre deal with Nscale, Telegraph reports",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/microsoft-pulls-out-of-uk-data-centre-deal-with-nscale-telegraph-reports-4955855",
+  "published_iso": "2026-10-18T18:22:53+09:00",
+  "published_kst": "10/18 18:22"
+ },
+ {
+  "category": "국내경제",
+  "title": "마이크로소프트, Nscale과의 영국 데이터센터 계약 철회",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2130614",
+  "published_iso": "2026-10-18T18:22:53+09:00",
+  "published_kst": "10/18 18:22"
+ },
+ {
+  "category": "경제",
+  "title": "Russia hits Ukraine’s energy sector 76 times in a week, Zelenskiy says",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/russia-hits-ukraines-energy-sector-76-times-in-a-week-zelenskiy-says-4955841",
+  "published_iso": "2026-10-18T17:44:37+09:00",
+  "published_kst": "10/18 17:44"
+ },
+ {
+  "category": "국내경제",
+  "title": "러시아, 일주일간 우크라이나 에너지 시설 76차례 공격",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2130612",
+  "published_iso": "2026-10-18T17:44:37+09:00",
+  "published_kst": "10/18 17:44"
+ },
+ {
+  "category": "경제",
+  "title": "China proposes export curbs on 12 key solar manufacturing technologies",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/china-proposes-export-curbs-on-12-key-solar-manufacturing-technologies-4955825",
+  "published_iso": "2026-10-18T17:06:30+09:00",
+  "published_kst": "10/18 17:06"
+ },
+ {
+  "category": "국내경제",
+  "title": "중국, 12개 핵심 태양광 제조 기술 수출 규제 추진",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2130606",
+  "published_iso": "2026-10-18T17:06:30+09:00",
+  "published_kst": "10/18 17:06"
+ },
+ {
+  "category": "주식시장",
+  "title": "Nestle, Unilever face regulatory action in India over misleading health claims",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/nestle-unilever-face-regulatory-action-in-india-over-misleading-health-claims-4955820",
+  "published_iso": "2026-10-18T16:40:53+09:00",
+  "published_kst": "10/18 16:40"
+ },
+ {
+  "category": "국내주식",
+  "title": "네슬레·유니레버, 인도서 허위 건강 광고 혐의로 규제 조치",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2130601",
+  "published_iso": "2026-10-18T16:40:53+09:00",
+  "published_kst": "10/18 16:40"
+ },
+ {
+  "category": "국내주식",
+  "title": "애널리스트 AI 주요 동향 5가지: 메타 목표주가 최고치, 세일즈포스 두 단계 상향",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2130600",
+  "published_iso": "2026-10-18T16:29:28+09:00",
+  "published_kst": "10/18 16:29"
+ },
+ {
+  "category": "경제",
+  "title": "Venezuela expects $76 billion oil investment boost amid U.S. cooperation",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/venezuela-expects-76-billion-oil-investment-boost-amid-us-cooperation-4955719",
+  "published_iso": "2026-10-18T16:19:35+09:00",
+  "published_kst": "10/18 16:19"
+ },
+ {
+  "category": "주식시장",
+  "title": "Asian AI stocks fall as rising financing costs threaten spending boom - Bloomberg",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/asian-ai-stocks-fall-as-rising-financing-costs-threaten-spending-boom--bloomberg-4955727",
+  "published_iso": "2026-10-18T16:19:27+09:00",
+  "published_kst": "10/18 16:19"
+ },
+ {
+  "category": "주식시장",
+  "title": "5 big analyst AI moves: Meta gets Street-high PT; Salesforce double upgraded",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-meta-gets-streethigh-pt-salesforce-double-upgraded-4955491",
+  "published_iso": "2026-10-18T16:18:04+09:00",
+  "published_kst": "10/18 16:18"
+ },
+ {
+  "category": "주식시장",
+  "title": "China proposes export controls on solar-manufacturing technologies",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/china-proposes-export-controls-on-solarmanufacturing-technologies-4955803",
+  "published_iso": "2026-10-18T15:24:20+09:00",
+  "published_kst": "10/18 15:24"
+ },
+ {
+  "category": "경제",
+  "title": "Iran war: Saudi helicopter crash kills two as tanker attacks threaten Hormuz",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/iran-war-tankers-hit-near-hormuz-as-tehran-offers-us-reopening-plan-4955749",
+  "published_iso": "2026-10-18T14:36:04+09:00",
+  "published_kst": "10/18 14:36"
+ },
+ {
+  "category": "주식시장",
+  "title": "Rubio heads to Central Asia while other US officials hit foreign policy hot spots",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/rubio-heads-to-central-asia-while-other-us-officials-hit-foreign-policy-hot-spots-4955781",
+  "published_iso": "2026-10-18T14:12:36+09:00",
+  "published_kst": "10/18 14:12"
+ },
+ {
+  "category": "원자재",
+  "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/rubio-says-trump-to-take-up-to-60-days-to-weigh-russia-sanctions-4955750",
+  "published_iso": "2026-10-18T14:12:21+09:00",
+  "published_kst": "10/18 14:12"
+ },
+ {
+  "category": "주식시장",
+  "title": "Antofagasta’s Centinela strike ends after deal with unions",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/antofagastas-centinela-strike-ends-after-deal-with-unions-4955771",
+  "published_iso": "2026-10-18T13:42:22+09:00",
+  "published_kst": "10/18 13:42"
+ },
+ {
+  "category": "실적",
+  "title": "NextTrip earnings missed by $0.11, revenue fell short of estimates",
+  "summary": "",
+  "link": "https://www.investing.com/news/earnings/nexttrip-earnings-missed-by-011-revenue-fell-short-of-estimates-4955760",
+  "published_iso": "2026-10-18T13:10:56+09:00",
+  "published_kst": "10/18 13:10"
+ },
+ {
+  "category": "국내주식",
+  "title": "[주간증시전망] \"폭락장에 주식 팔지 마라\"…코스피 반등 이끌 ’세 가지 변수’는",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2130577",
+  "published_iso": "2026-10-18T12:41:34+09:00",
+  "published_kst": "10/18 12:41"
+ },
+ {
+  "category": "국내주식",
+  "title": "[현장] 현대차그룹, ’스스로 진화하는 공장’ 시동...휴머노이드도 투입",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2130585",
+  "published_iso": "2026-10-18T12:41:09+09:00",
+  "published_kst": "10/18 12:41"
+ },
+ {
+  "category": "국내주식",
+  "title": "LG전자, AI 가습·공기청정 결합한 ’퓨리케어 하이드로타워 맥스’ 출시",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2130580",
+  "published_iso": "2026-10-18T12:41:02+09:00",
+  "published_kst": "10/18 12:41"
+ },
+ {
+  "category": "국내주식",
+  "title": "韓 잠재성장률 40년 만에 ’연속 반등’…’AI 호황’ 이면에 가려진 고용 한파",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2130578",
+  "published_iso": "2026-10-18T12:40:54+09:00",
+  "published_kst": "10/18 12:40"
+ },
+ {
+  "category": "국내주식",
+  "title": "\"승무원 피로가 항공안전 위협\"…에어부산 노조, 국토부 특별점검 촉구",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2130583",
+  "published_iso": "2026-10-18T12:40:32+09:00",
+  "published_kst": "10/18 12:40"
+ },
+ {
+  "category": "국내주식",
+  "title": "비만치료제 처방 급증에도 규제 제동…‘오남용 우려’ 지정 논란",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2130584",
+  "published_iso": "2026-10-18T12:40:32+09:00",
+  "published_kst": "10/18 12:40"
+ },
+ {
+  "category": "국내주식",
+  "title": "[현장] \"스트레스 확 풀었어요\"...킨텍스 달군 ’NOL FESTIVAL 2026’",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2130581",
+  "published_iso": "2026-10-18T12:40:31+09:00",
+  "published_kst": "10/18 12:40"
+ },
+ {
+  "category": "국내주식",
+  "title": "SOOP, ASL 장기 운영 의지…해외 중계권 협상·선수 교류전 추진",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2130582",
+  "published_iso": "2026-10-18T12:40:31+09:00",
+  "published_kst": "10/18 12:40"
+ },
+ {
+  "category": "국내경제",
+  "title": "이란 전쟁: 사우디 헬기 추락으로 Two명 사망…유조선 공격에 호르무즈 해협 위협",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2130575",
+  "published_iso": "2026-10-18T12:33:56+09:00",
+  "published_kst": "10/18 12:33"
+ },
+ {
+  "category": "국내경제",
+  "title": "베네수엘라, 미국과 협력으로 760억 달러 석유 투자 유치 기대",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2130565",
+  "published_iso": "2026-10-18T10:25:16+09:00",
+  "published_kst": "10/18 10:25"
+ },
+ {
+  "category": "경제",
+  "title": "U.S. urges Israel to curb settler violence in West Bank, Rubio says",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/us-urges-israel-to-curb-settler-violence-in-west-bank-rubio-says-4955694",
+  "published_iso": "2026-10-18T09:01:57+09:00",
+  "published_kst": "10/18 09:01"
+ },
+ {
+  "category": "국내경제",
+  "title": "루비오 美 국무장관, 이스라엘에 서안지구 정착민 폭력 억제 촉구",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2130556",
+  "published_iso": "2026-10-18T09:01:57+09:00",
+  "published_kst": "10/18 09:01"
+ },
+ {
+  "category": "경제",
+  "title": "Could another France downgrade put the EU’s credit rating at risk?",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/could-another-france-downgrade-put-the-eus-credit-rating-at-risk-4955657",
+  "published_iso": "2026-10-18T08:10:55+09:00",
+  "published_kst": "10/18 08:10"
+ },
+ {
+  "category": "국내경제",
+  "title": "프랑스 신용등급 추가 강등, EU 신용등급도 위협할까?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2130551",
+  "published_iso": "2026-10-18T08:10:55+09:00",
+  "published_kst": "10/18 08:10"
+ },
+ {
+  "category": "원자재",
+  "title": "Venezuela expects nearly $76 billion in oil investment over five years, acting president says",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/venezuela-expects-nearly-76-billion-in-oil-investment-over-five-years-acting-president-says-4955647",
+  "published_iso": "2026-10-18T07:54:19+09:00",
+  "published_kst": "10/18 07:54"
+ },
+ {
   "category": "주식시장",
   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
   "summary": "",
