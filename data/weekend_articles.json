@@ -1,9 +1,129 @@
 [
  {
+  "category": "주식시장",
+  "title": "Proxy advisory firm Glass Lewis backs Bergeron in Ethan Allen fight",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/proxy-advisory-firm-glass-lewis-backs-bergeron-in-ethan-allen-fight-4971264",
+  "published_iso": "2026-10-26T06:18:19+09:00",
+  "published_kst": "10/26 06:18"
+ },
+ {
+  "category": "주식시장",
+  "title": "Musk says SpaceX raised $40 billion in debt for GPUs",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
+  "published_iso": "2026-10-26T06:00:24+09:00",
+  "published_kst": "10/26 06:00"
+ },
+ {
+  "category": "주식시장",
+  "title": "Zelenskiy says US warnings on ballistic strikes have fully resumed",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/zelenskiy-says-us-warnings-on-ballistic-strikes-have-fully-resumed-4971254",
+  "published_iso": "2026-10-26T05:42:24+09:00",
+  "published_kst": "10/26 05:42"
+ },
+ {
+  "category": "경제",
+  "title": "Britain will not join Canada’s defence bank, source says",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/britain-will-not-join-canadas-defence-bank-source-says-4971243",
+  "published_iso": "2026-10-26T04:24:28+09:00",
+  "published_kst": "10/26 04:24"
+ },
+ {
+  "category": "경제",
+  "title": "U.S, Canada “very close” to trade deal, White House’s Hassett says",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/us-canada-very-close-to-trade-deal-white-houses-hassett-says-4971239",
+  "published_iso": "2026-10-26T03:59:15+09:00",
+  "published_kst": "10/26 03:59"
+ },
+ {
+  "category": "국내경제",
+  "title": "미국·캐나다, 무역 협정 타결 \"매우 근접\"…백악관 해셋 발언",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2140331",
+  "published_iso": "2026-10-26T03:59:15+09:00",
+  "published_kst": "10/26 03:59"
+ },
+ {
+  "category": "주식시장",
+  "title": "Oppenheimer sees web, commerce software Q3 backdrop improving, AI worries linger",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/oppenheimer-sees-web-commerce-software-q3-backdrop-improving-ai-worries-linger-4971234",
+  "published_iso": "2026-10-26T02:48:15+09:00",
+  "published_kst": "10/26 02:48"
+ },
+ {
+  "category": "국내주식",
+  "title": "오펜하이머, 웹·커머스 소프트웨어 3분기 전망 개선…AI 우려는 지속",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2140329",
+  "published_iso": "2026-10-26T02:48:15+09:00",
+  "published_kst": "10/26 02:48"
+ },
+ {
+  "category": "주식시장",
+  "title": "Does enough capital exist to finance everyone’s ambitious AI spending plans?",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/does-enough-capital-exist-to-finance-everyones-ambitious-ai-spending-plans-4971221",
+  "published_iso": "2026-10-26T00:27:32+09:00",
+  "published_kst": "10/26 00:27"
+ },
+ {
+  "category": "국내주식",
+  "title": "AI 투자 자금 조달, 충분한 자본이 존재하는가?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2140325",
+  "published_iso": "2026-10-26T00:27:32+09:00",
+  "published_kst": "10/26 00:27"
+ },
+ {
+  "category": "경제",
+  "title": "Earnings flood, Fed meeting will test rickety AI market rally",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/earnings-flood-fed-meeting-will-test-rickety-ai-market-rally-4971185",
+  "published_iso": "2026-10-25T22:00:24+09:00",
+  "published_kst": "10/25 22:00"
+ },
+ {
+  "category": "주식시장",
+  "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 2.65%",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-265-4971175",
+  "published_iso": "2026-10-25T21:45:03+09:00",
+  "published_kst": "10/25 21:45"
+ },
+ {
+  "category": "경제",
+  "title": "UK’s Rayner says no Brexit reopening as Burnham floats EU free movement",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/uks-rayner-says-no-brexit-reopening-as-burnham-floats-eu-free-movement-4971174",
+  "published_iso": "2026-10-25T21:39:16+09:00",
+  "published_kst": "10/25 21:39"
+ },
+ {
+  "category": "국내경제",
+  "title": "영국 Rayner “브렉시트 재논의 안 해”…Burnham, EU 자유이동 검토",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2140294",
+  "published_iso": "2026-10-25T21:39:16+09:00",
+  "published_kst": "10/25 21:39"
+ },
+ {
   "category": "국내경제",
   "title": "2027년까지 실물 자산에 주목해야 하는 이유",
   "summary": "",
   "link": "https://kr.investing.com/news/economy-news/article-2140292",
+  "published_iso": "2026-10-25T21:24:38+09:00",
+  "published_kst": "10/25 21:24"
+ },
+ {
+  "category": "경제",
+  "title": "Why look at real assets into 2027?",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/why-look-at-real-assets-into-2027-4971168",
   "published_iso": "2026-10-25T21:24:38+09:00",
   "published_kst": "10/25 21:24"
  },
