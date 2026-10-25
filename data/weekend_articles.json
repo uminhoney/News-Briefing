@@ -1,9 +1,329 @@
 [
  {
+  "category": "국내경제",
+  "title": "2027년까지 실물 자산에 주목해야 하는 이유",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2140292",
+  "published_iso": "2026-10-25T21:24:38+09:00",
+  "published_kst": "10/25 21:24"
+ },
+ {
+  "category": "원자재",
+  "title": "Conservative party wins first election in nearly a century in British Columbia",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/conservative-party-wins-first-election-in-nearly-a-century-in-british-columbia-4971146",
+  "published_iso": "2026-10-25T20:54:25+09:00",
+  "published_kst": "10/25 20:54"
+ },
+ {
+  "category": "경제지표",
+  "title": "Portuguese police clear Lisbon housing protest camp, arresting 25",
+  "summary": "",
+  "link": "https://www.investing.com/news/economic-indicators/portuguese-police-clear-lisbon-housing-protest-camp-make-arrests-4971028",
+  "published_iso": "2026-10-25T20:24:23+09:00",
+  "published_kst": "10/25 20:24"
+ },
+ {
+  "category": "주식시장",
+  "title": "UBS may cut 12,000 Swiss jobs if capital rules tighten - report",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/ubs-may-cut-12000-swiss-jobs-if-capital-rules-tighten--report-4971117",
+  "published_iso": "2026-10-25T19:45:31+09:00",
+  "published_kst": "10/25 19:45"
+ },
+ {
+  "category": "국내주식",
+  "title": "UBS, 자본 규제 강화 시 스위스에서 최대 1만 2,000개 일자리 감축 가능",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2140266",
+  "published_iso": "2026-10-25T19:45:31+09:00",
+  "published_kst": "10/25 19:45"
+ },
+ {
+  "category": "경제지표",
+  "title": "The midterm election outcomes that could shape Trump’s final two years",
+  "summary": "",
+  "link": "https://www.investing.com/news/economic-indicators/the-midterm-election-outcomes-that-could-shape-trumps-final-two-years-4971100",
+  "published_iso": "2026-10-25T19:18:45+09:00",
+  "published_kst": "10/25 19:18"
+ },
+ {
+  "category": "원자재",
+  "title": "Explainer-How Ukraine’s strikes on Russian energy sites deepened the rift with Trump",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/explainerhow-ukraines-strikes-on-russian-energy-sites-deepened-the-rift-with-trump-4971105",
+  "published_iso": "2026-10-25T19:06:59+09:00",
+  "published_kst": "10/25 19:06"
+ },
+ {
+  "category": "주식시장",
+  "title": "Street Calls of the Week",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-93CH-4970904",
+  "published_iso": "2026-10-25T19:05:01+09:00",
+  "published_kst": "10/25 19:05"
+ },
+ {
+  "category": "주식시장",
+  "title": "Recent labor market data show some signs of AI-related hiring headwinds",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/recent-labor-market-data-show-some-signs-of-airelated-hiring-headwinds-4971102",
+  "published_iso": "2026-10-25T19:02:43+09:00",
+  "published_kst": "10/25 19:02"
+ },
+ {
+  "category": "국내주식",
+  "title": "최근 노동시장 데이터, AI 관련 고용 둔화 조짐 나타나",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2140264",
+  "published_iso": "2026-10-25T19:02:43+09:00",
+  "published_kst": "10/25 19:02"
+ },
+ {
+  "category": "주식시장",
+  "title": "Trump announces Audi will build $4 billion US factory in Georgia",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975",
+  "published_iso": "2026-10-25T18:36:21+09:00",
+  "published_kst": "10/25 18:36"
+ },
+ {
+  "category": "원자재",
+  "title": "Saudi Arabia intercepts drones and missiles as fighting with Yemen’s Houthis continues",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/saudi-arabia-intercepts-drones-and-missiles-as-fighting-with-yemens-houthis-continues-4971080",
+  "published_iso": "2026-10-25T18:00:23+09:00",
+  "published_kst": "10/25 18:00"
+ },
+ {
+  "category": "주식시장",
+  "title": "Goldman Sachs cuts Kospi target by 25% amid AI stock selloff",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-cuts-kospi-target-by-25-amid-ai-stock-selloff-4971079",
+  "published_iso": "2026-10-25T17:50:52+09:00",
+  "published_kst": "10/25 17:50"
+ },
+ {
+  "category": "국내주식",
+  "title": "골드만삭스, AI 주식 매도세 속 코스피 목표치 25% 하향",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2140260",
+  "published_iso": "2026-10-25T17:50:52+09:00",
+  "published_kst": "10/25 17:50"
+ },
+ {
+  "category": "경제",
+  "title": "North Korea’s Kim Jong Un makes surprise China visit as ties strengthen",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/north-koreas-kim-jong-un-makes-surprise-china-visit-as-ties-strengthen-4971072",
+  "published_iso": "2026-10-25T17:17:00+09:00",
+  "published_kst": "10/25 17:17"
+ },
+ {
+  "category": "국내경제",
+  "title": "김정은, 중국 전격 방문…양국 관계 강화 행보",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2140255",
+  "published_iso": "2026-10-25T17:17:00+09:00",
+  "published_kst": "10/25 17:17"
+ },
+ {
+  "category": "국내주식",
+  "title": "5대 AI 애널리스트 동향: 스페이스X, 앞으로 수개월이 ’촉매 집중’ 시기",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2140252",
+  "published_iso": "2026-10-25T16:49:44+09:00",
+  "published_kst": "10/25 16:49"
+ },
+ {
+  "category": "주식시장",
+  "title": "5 big analyst AI moves: ’Uniquely catalyst-rich’ months ahead for SpaceX",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-uniquely-catalystrich-months-ahead-for-spacex-4970923",
+  "published_iso": "2026-10-25T16:40:11+09:00",
+  "published_kst": "10/25 16:40"
+ },
+ {
+  "category": "경제",
+  "title": "UK immigration crackdown threatens £15 billion care sector - Bloomberg",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/uk-immigration-crackdown-threatens-15-billion-care-sector--bloomberg-4971064",
+  "published_iso": "2026-10-25T16:23:43+09:00",
+  "published_kst": "10/25 16:23"
+ },
+ {
+  "category": "국내경제",
+  "title": "영국 이민 단속, 150억 파운드 규모 요양 산업 위협",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2140249",
+  "published_iso": "2026-10-25T16:23:43+09:00",
+  "published_kst": "10/25 16:23"
+ },
+ {
+  "category": "경제",
+  "title": "UAE closes more beaches as Gulf oil spill raises environmental concerns",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/uae-closes-more-beaches-as-gulf-oil-spill-raises-environmental-concerns-4971057",
+  "published_iso": "2026-10-25T15:41:14+09:00",
+  "published_kst": "10/25 15:41"
+ },
+ {
+  "category": "국내경제",
+  "title": "UAE, 걸프만 기름 유출로 해변 추가 폐쇄 조치",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2140247",
+  "published_iso": "2026-10-25T15:41:14+09:00",
+  "published_kst": "10/25 15:41"
+ },
+ {
+  "category": "경제",
+  "title": "Should Aggregators block AI Agents?",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/should-aggregators-block-ai-agents-4971047",
+  "published_iso": "2026-10-25T15:00:53+09:00",
+  "published_kst": "10/25 15:00"
+ },
+ {
+  "category": "국내경제",
+  "title": "온라인 플랫폼은 AI 에이전트를 차단해야 할까?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2140240",
+  "published_iso": "2026-10-25T15:00:53+09:00",
+  "published_kst": "10/25 15:00"
+ },
+ {
+  "category": "경제",
+  "title": "Obama attacks Trump over inflation as Democrats fight for Michigan Senate seat",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/obama-attacks-trump-over-inflation-as-democrats-fight-for-michigan-senate-seat-4971031",
+  "published_iso": "2026-10-25T13:07:10+09:00",
+  "published_kst": "10/25 13:07"
+ },
+ {
+  "category": "국내경제",
+  "title": "오바마, 미시간 상원 선거 앞두고 트럼프 인플레이션 정책 비판",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2140234",
+  "published_iso": "2026-10-25T13:07:10+09:00",
+  "published_kst": "10/25 13:07"
+ },
+ {
+  "category": "경제",
+  "title": "Trump touts $4 billion Audi plant in Georgia as he defends tariffs",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/trump-touts-4-billion-audi-plant-in-georgia-as-he-defends-tariffs-4971027",
+  "published_iso": "2026-10-25T12:29:51+09:00",
+  "published_kst": "10/25 12:29"
+ },
+ {
+  "category": "국내경제",
+  "title": "트럼프, 관세 정책 옹호하며 조지아주 40억 달러 아우디 공장 발표",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2140233",
+  "published_iso": "2026-10-25T12:29:51+09:00",
+  "published_kst": "10/25 12:29"
+ },
+ {
+  "category": "주식시장",
+  "title": "HSBC sees cautious optimism in VC and PE activity",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/hsbc-sees-cautious-optimism-in-vc-and-pe-activity-4971023",
+  "published_iso": "2026-10-25T11:48:10+09:00",
+  "published_kst": "10/25 11:48"
+ },
+ {
+  "category": "국내주식",
+  "title": "HSBC, VC·PE 활동에 신중한 낙관론 전망",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2140230",
+  "published_iso": "2026-10-25T11:48:10+09:00",
+  "published_kst": "10/25 11:48"
+ },
+ {
+  "category": "주식시장",
+  "title": "Chinese equities face prolonged downturn as earnings forecasts tumble",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/chinese-equities-face-prolonged-downturn-as-earnings-forecasts-tumble-4971016",
+  "published_iso": "2026-10-25T10:37:10+09:00",
+  "published_kst": "10/25 10:37"
+ },
+ {
+  "category": "국내주식",
+  "title": "중국 주식, 실적 전망 하락으로 장기 침체 직면",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2140223",
+  "published_iso": "2026-10-25T10:37:10+09:00",
+  "published_kst": "10/25 10:37"
+ },
+ {
+  "category": "경제",
+  "title": "Yemen’s Houthis renew threat against Riyadh airport as flights set to resume",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/yemens-houthis-renew-threat-against-riyadh-airport-as-flights-set-to-resume-4971006",
+  "published_iso": "2026-10-25T09:42:32+09:00",
+  "published_kst": "10/25 09:42"
+ },
+ {
+  "category": "국내경제",
+  "title": "예멘 후티, 리야드 공항 재개 앞두고 공격 위협 재개",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2140221",
+  "published_iso": "2026-10-25T09:42:32+09:00",
+  "published_kst": "10/25 09:42"
+ },
+ {
+  "category": "원자재",
+  "title": "El Salvador president says bodies found in Haiti do not belong to ambushed soldiers",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/bodies-of-ambushed-salvadoran-soldiers-found-in-haiti-new-york-timesreports-4970997",
+  "published_iso": "2026-10-25T09:42:22+09:00",
+  "published_kst": "10/25 09:42"
+ },
+ {
+  "category": "주식시장",
+  "title": "Sydney’s new international airport opens to passengers",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/sydneys-new-international-airport-opens-to-passengers-4971003",
+  "published_iso": "2026-10-25T09:30:24+09:00",
+  "published_kst": "10/25 09:30"
+ },
+ {
+  "category": "주식시장",
+  "title": "Abuse survivors approve $800 million settlement with Archdiocese of New York",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/abuse-survivors-approve-800-million-settlement-with-archdiocese-of-new-york-4971001",
+  "published_iso": "2026-10-25T08:42:03+09:00",
+  "published_kst": "10/25 08:42"
+ },
+ {
+  "category": "국내주식",
+  "title": "한국 증시, 가장 순수한 AI 투자처로 부상",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2140200",
+  "published_iso": "2026-10-25T07:55:32+09:00",
+  "published_kst": "10/25 07:55"
+ },
+ {
+  "category": "국내주식",
+  "title": "[주간증시전망] 실적·FOMC ’슈퍼위크’…AI 수익성 우려 해소될까",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2140198",
+  "published_iso": "2026-10-25T06:39:15+09:00",
+  "published_kst": "10/25 06:39"
+ },
+ {
   "category": "경제",
   "title": "Policy choices will matter crucially amid growing socioeconomic challenges",
   "summary": "",
   "link": "https://www.investing.com/news/economy-news/policy-choices-will-matter-crucially-amid-growing-socioeconomic-challenges-4970967",
+  "published_iso": "2026-10-25T06:24:23+09:00",
+  "published_kst": "10/25 06:24"
+ },
+ {
+  "category": "국내경제",
+  "title": "인구 고령화, 2060년까지 GDP 대비 재정 지출 5% 이상 증가 전망",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2140194",
   "published_iso": "2026-10-25T06:24:23+09:00",
   "published_kst": "10/25 06:24"
  },
