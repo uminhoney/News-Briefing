@@ -1,5 +1,85 @@
 [
  {
+  "category": "주식시장",
+  "title": "Westpac’s full-year profit ticks higher, flags slowing loan demand",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/australian-lender-westpacs-fullyear-profit-ticks-higher-4989776",
+  "published_iso": "2026-11-02T06:42:33+09:00",
+  "published_kst": "11/02 06:42"
+ },
+ {
+  "category": "주식시장",
+  "title": "Exclusive-Australian outback data centre pulls timeline after regulator stalls",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/exclusiveaustralian-outback-data-centre-pulls-timeline-after-regulator-stalls-4989777",
+  "published_iso": "2026-11-02T06:42:20+09:00",
+  "published_kst": "11/02 06:42"
+ },
+ {
+  "category": "국내주식",
+  "title": "급식 판 신세계푸드, 냉동빵에 미래 걸었다",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2152631",
+  "published_iso": "2026-11-02T06:36:47+09:00",
+  "published_kst": "11/02 06:36"
+ },
+ {
+  "category": "국내주식",
+  "title": "분기 영업익 2조원 시대...조선 빅3, 연말까지 달린다",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2152633",
+  "published_iso": "2026-11-02T06:36:33+09:00",
+  "published_kst": "11/02 06:36"
+ },
+ {
+  "category": "국내주식",
+  "title": "’대체조제 간소화’ 8개월째 헛바퀴…약국은 여전히 ’의사 눈치’",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2152632",
+  "published_iso": "2026-11-02T06:36:15+09:00",
+  "published_kst": "11/02 06:36"
+ },
+ {
+  "category": "원자재",
+  "title": "Trump says US, Canada have ’concept’ of a new trade deal",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/trump-says-us-canada-have-concept-of-a-new-trade-deal-4989778",
+  "published_iso": "2026-11-02T06:12:19+09:00",
+  "published_kst": "11/02 06:12"
+ },
+ {
+  "category": "원자재",
+  "title": "Serbians mark railway disaster that led to rise of victorious student movement",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/serbians-mark-railway-disaster-that-led-to-rise-of-victorious-student-movement-4989758",
+  "published_iso": "2026-11-02T02:36:19+09:00",
+  "published_kst": "11/02 02:36"
+ },
+ {
+  "category": "경제지표",
+  "title": "New Zealand’s two-speed economy poses election dilemma for ruling National party",
+  "summary": "",
+  "link": "https://www.investing.com/news/economic-indicators/new-zealands-twospeed-economy-poses-election-dilemma-for-ruling-national-party-4989769",
+  "published_iso": "2026-11-02T02:12:19+09:00",
+  "published_kst": "11/02 02:12"
+ },
+ {
+  "category": "실적",
+  "title": "Hornbeck earnings up next: First test for Helix merger",
+  "summary": "",
+  "link": "https://www.investing.com/news/earnings/hornbeck-earnings-up-next-first-test-for-helix-merger-93CH-4989757",
+  "published_iso": "2026-11-01T23:35:58+09:00",
+  "published_kst": "11/01 23:35"
+ },
+ {
+  "category": "실적",
+  "title": "Hub Group earnings up next: Can intermodal rebound offset woes?",
+  "summary": "",
+  "link": "https://www.investing.com/news/earnings/hub-group-earnings-up-next-can-intermodal-rebound-offset-woes-93CH-4989756",
+  "published_iso": "2026-11-01T23:35:04+09:00",
+  "published_kst": "11/01 23:35"
+ },
+ {
   "category": "원자재",
   "title": "Bangladesh sets up wage board as garment workers’ unrest shuts factories",
   "summary": "",
