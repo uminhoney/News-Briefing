@@ -1,6 +1,150 @@
 [
  {
   "category": "주식시장",
+  "title": "U.S. flight disruptions persist as FAA probes L3Harris role in nationwide outage",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/faa-orders-nationwide-ground-stop-citing-extraordinary-safety-concerns-5026489",
+  "published_iso": "2026-11-15T07:07:51+09:00",
+  "published_kst": "11/15 07:07"
+ },
+ {
+  "category": "주식시장",
+  "title": "Air travel issues to persist well into Sunday, officials say, with thousands of flights affected",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/thousands-of-us-flights-canceled-delayed-as-air-travel-system-recovers-from-shutdown-5027394",
+  "published_iso": "2026-11-15T06:42:40+09:00",
+  "published_kst": "11/15 06:42"
+ },
+ {
+  "category": "국내주식",
+  "title": "[주간증시전망] 엔비디아 실적에 반도체 반등 달렸다",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2176117",
+  "published_iso": "2026-11-15T06:42:23+09:00",
+  "published_kst": "11/15 06:42"
+ },
+ {
+  "category": "주식시장",
+  "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5027517",
+  "published_iso": "2026-11-15T06:20:03+09:00",
+  "published_kst": "11/15 06:20"
+ },
+ {
+  "category": "주식시장",
+  "title": "Brookfield, CPPIB advance in Uniper sale as Germany plans stake reduction- Reuters",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/duffy-investigates-l3harris-over-faa-outage-that-grounded-us-flights-5027454",
+  "published_iso": "2026-11-15T05:35:42+09:00",
+  "published_kst": "11/15 05:35"
+ },
+ {
+  "category": "주식시장",
+  "title": "US aviation shutdown blamed on L3 Harris installed router",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/us-aviation-shutdown-blamed-on-l3-harris-installed-router-5027495",
+  "published_iso": "2026-11-15T05:12:20+09:00",
+  "published_kst": "11/15 05:12"
+ },
+ {
+  "category": "원자재",
+  "title": "As Democrats seek changes to bill on energy permits, divisions emerge",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/as-democrats-seek-changes-to-bill-on-energy-permits-divisions-emerge-5027468",
+  "published_iso": "2026-11-15T03:54:23+09:00",
+  "published_kst": "11/15 03:54"
+ },
+ {
+  "category": "국내주식",
+  "title": "독일, Uniper 지분 축소 추진…Brookfield·CPPIB 매각 절차 다음 단계 진출 - 로이터",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2176090",
+  "published_iso": "2026-11-15T03:18:02+09:00",
+  "published_kst": "11/15 03:18"
+ },
+ {
+  "category": "원자재",
+  "title": "SpaceX’s Starship nears end of 15th test flight and return-landing attempt",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/spacexs-starship-nears-end-of-15th-test-flight-and-returnlanding-attempt-5027449",
+  "published_iso": "2026-11-15T03:06:20+09:00",
+  "published_kst": "11/15 03:06"
+ },
+ {
+  "category": "주식시장",
+  "title": "U.S. midterms: Citi breaks down implications for economy and markets",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/us-midterms-citi-breaks-down-implications-for-economy-and-markets-5027443",
+  "published_iso": "2026-11-15T02:52:12+09:00",
+  "published_kst": "11/15 02:52"
+ },
+ {
+  "category": "국내주식",
+  "title": "미국 중간선거: 씨티, 경제 및 시장에 대한 영향 분석",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2176087",
+  "published_iso": "2026-11-15T02:52:12+09:00",
+  "published_kst": "11/15 02:52"
+ },
+ {
+  "category": "경제지표",
+  "title": "After midterm sweep, Democrats split over Trump, cost-cutting agenda",
+  "summary": "",
+  "link": "https://www.investing.com/news/economic-indicators/after-midterm-sweep-democrats-split-over-trump-costcutting-agenda-5027405",
+  "published_iso": "2026-11-15T01:30:21+09:00",
+  "published_kst": "11/15 01:30"
+ },
+ {
+  "category": "경제",
+  "title": "Fed’s Collins says gradual rate hikes best to manage economic risks",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/feds-collins-says-gradual-rate-hikes-best-to-manage-economic-risks-5027385",
+  "published_iso": "2026-11-15T00:48:19+09:00",
+  "published_kst": "11/15 00:48"
+ },
+ {
+  "category": "주식시장",
+  "title": "Italy fines Meta €805 million over access to Android users’ photos",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/italy-fines-meta-805-million-over-access-to-android-users-photos-5027370",
+  "published_iso": "2026-11-14T23:59:55+09:00",
+  "published_kst": "11/14 23:59"
+ },
+ {
+  "category": "국내주식",
+  "title": "이탈리아, 안드로이드 사용자 사진 무단 접근으로 메타에 €805억 과징금 부과",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2176068",
+  "published_iso": "2026-11-14T23:59:55+09:00",
+  "published_kst": "11/14 23:59"
+ },
+ {
+  "category": "주식시장",
+  "title": "Musk says Nvidia will lose ’critical’ deals without Jensen Huang",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-5027369",
+  "published_iso": "2026-11-14T23:54:22+09:00",
+  "published_kst": "11/14 23:54"
+ },
+ {
+  "category": "주식시장",
+  "title": "MSC nears deal for 80% stake in German shipbuilder Meyer Werft, Spiegel reports",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/msc-nears-deal-for-80-stake-in-german-shipbuilder-meyer-werft-spiegel-reports-5027358",
+  "published_iso": "2026-11-14T23:18:34+09:00",
+  "published_kst": "11/14 23:18"
+ },
+ {
+  "category": "국내주식",
+  "title": "MSC, 독일 조선사 마이어 베르프트 지분 80% 인수 임박",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2176065",
+  "published_iso": "2026-11-14T23:18:34+09:00",
+  "published_kst": "11/14 23:18"
+ },
+ {
+  "category": "주식시장",
   "title": "Democrats’ midterm sweep \"not bad at all\" for SpaceX, analyst says",
   "summary": "",
   "link": "https://www.investing.com/news/stock-market-news/democrats-midterm-sweep-not-bad-at-all-for-spacex-analyst-says-5027337",
