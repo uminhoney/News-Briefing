@@ -1,5 +1,189 @@
 [
  {
+  "category": "주식시장",
+  "title": "Thousands of US flights canceled, delayed for third day in a row",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/us-air-travel-disruptions-continue-into-third-day-5028023",
+  "published_iso": "2026-11-16T08:12:18+09:00",
+  "published_kst": "11/16 08:12"
+ },
+ {
+  "category": "주식시장",
+  "title": "Intel sued by shareholders following 29% stock plunge",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/intel-sued-by-shareholders-following-29-stock-plunge-5028171",
+  "published_iso": "2026-11-16T08:06:23+09:00",
+  "published_kst": "11/16 08:06"
+ },
+ {
+  "category": "주식시장",
+  "title": "UBS says emerging markets are ‘more agile than fragile,’ forecasts 2027 gains",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/ubs-says-emerging-markets-are-more-agile-than-fragile-forecasts-2027-gains-5028161",
+  "published_iso": "2026-11-16T07:45:35+09:00",
+  "published_kst": "11/16 07:45"
+ },
+ {
+  "category": "주식시장",
+  "title": "Diamondback Energy nears $5 bln Double Eagle deal - report",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/diamondback-energy-nears-5-bln-double-eagle-deal--report-5028152",
+  "published_iso": "2026-11-16T07:20:32+09:00",
+  "published_kst": "11/16 07:20"
+ },
+ {
+  "category": "국내주식",
+  "title": "다이아몬드백 에너지, 더블 이글과 50억 달러 규모 인수 협상 임박",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2176334",
+  "published_iso": "2026-11-16T07:20:32+09:00",
+  "published_kst": "11/16 07:20"
+ },
+ {
+  "category": "원자재",
+  "title": "UBS sees Brent hitting $110 as tight supply buffers leave oil vulnerable",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/ubs-sees-brent-hitting-110-as-tight-supply-buffers-leave-oil-vulnerable-5028142",
+  "published_iso": "2026-11-16T07:06:00+09:00",
+  "published_kst": "11/16 07:06"
+ },
+ {
+  "category": "국내주식",
+  "title": "\"수명 1년 연장 때 5.3경원 가치\"…보험사 新시장 ’역노화’",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2176329",
+  "published_iso": "2026-11-16T07:01:10+09:00",
+  "published_kst": "11/16 07:01"
+ },
+ {
+  "category": "주식시장",
+  "title": "Jensen Huang may return as Nvidia chief executive - report",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097",
+  "published_iso": "2026-11-16T05:39:40+09:00",
+  "published_kst": "11/16 05:39"
+ },
+ {
+  "category": "주식시장",
+  "title": "US rocket fails after launch, payload of Amazon internet satellites destroyed",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/us-rocket-fails-after-launch-payload-of-amazon-internet-satellites-destroyed-5028094",
+  "published_iso": "2026-11-16T05:30:46+09:00",
+  "published_kst": "11/16 05:30"
+ },
+ {
+  "category": "주식시장",
+  "title": "Diamondback nears $5 billion deal to buy drilling portfolio from Double Eagle, FT says",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/diamondback-nears-5-billion-deal-to-buy-drilling-portfolio-from-double-eagle-ft-says-5028067",
+  "published_iso": "2026-11-16T04:42:18+09:00",
+  "published_kst": "11/16 04:42"
+ },
+ {
+  "category": "경제",
+  "title": "Swedish opposition leader Andersson wins crucial backing to form government",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/swedish-opposition-leader-andersson-wins-crucial-backing-to-form-government-5028066",
+  "published_iso": "2026-11-16T04:36:22+09:00",
+  "published_kst": "11/16 04:36"
+ },
+ {
+  "category": "주식시장",
+  "title": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports-5028065",
+  "published_iso": "2026-11-16T04:30:22+09:00",
+  "published_kst": "11/16 04:30"
+ },
+ {
+  "category": "경제지표",
+  "title": "New Maori generation seeks to reshape New Zealand’s political landscape",
+  "summary": "",
+  "link": "https://www.investing.com/news/economic-indicators/new-maori-generation-seeks-to-reshape-new-zealands-political-landscape-5028055",
+  "published_iso": "2026-11-16T04:06:20+09:00",
+  "published_kst": "11/16 04:06"
+ },
+ {
+  "category": "경제",
+  "title": "Kansas City Fed’s Schmid says central bank has work to do on inflation",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/kansas-city-feds-schmid-says-central-bank-has-work-to-do-on-inflation-5028049",
+  "published_iso": "2026-11-16T03:58:14+09:00",
+  "published_kst": "11/16 03:58"
+ },
+ {
+  "category": "국내경제",
+  "title": "캔자스시티 연준 슈미드 총재 \"인플레이션 해결 위해 할 일 남아\"",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2176308",
+  "published_iso": "2026-11-16T03:58:14+09:00",
+  "published_kst": "11/16 03:58"
+ },
+ {
+  "category": "경제",
+  "title": "Fed ’has some work to do on inflation,’ KC Fed chief says",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/fed-has-some-work-to-do-on-inflation-kc-fed-chief-says-5028048",
+  "published_iso": "2026-11-16T03:48:22+09:00",
+  "published_kst": "11/16 03:48"
+ },
+ {
+  "category": "경제",
+  "title": "U.S. flight disruptions enter third day, FAA eyes Monday return to normal",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/us-flight-disruptions-enter-third-day-faa-eyes-monday-return-to-normal-5028030",
+  "published_iso": "2026-11-16T02:05:51+09:00",
+  "published_kst": "11/16 02:05"
+ },
+ {
+  "category": "국내경제",
+  "title": "미국 항공 운항 차질 3일째…FAA, 월요일 정상화 전망",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2176304",
+  "published_iso": "2026-11-16T02:05:51+09:00",
+  "published_kst": "11/16 02:05"
+ },
+ {
+  "category": "경제",
+  "title": "Bessent says Nvidia must ’go outside the company’ to find new CEO",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/bessent-says-nvidia-must-go-outside-the-company-to-find-new-ceo-5028004",
+  "published_iso": "2026-11-16T00:54:16+09:00",
+  "published_kst": "11/16 00:54"
+ },
+ {
+  "category": "국내주식",
+  "title": "베선트 미 재무장관 “Nvidia, 경영진 대폭 쇄신 필요”",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2176287",
+  "published_iso": "2026-11-16T00:39:58+09:00",
+  "published_kst": "11/16 00:39"
+ },
+ {
+  "category": "실적",
+  "title": "Driven Brands earnings loom amid restatement, Take 5 concerns",
+  "summary": "",
+  "link": "https://www.investing.com/news/earnings/driven-brands-earnings-loom-amid-restatement-take-5-concerns-93CH-5027976",
+  "published_iso": "2026-11-15T23:36:53+09:00",
+  "published_kst": "11/15 23:36"
+ },
+ {
+  "category": "실적",
+  "title": "Hub Group earnings in focus as accounting woes cloud strong market",
+  "summary": "",
+  "link": "https://www.investing.com/news/earnings/hub-group-earnings-in-focus-as-accounting-woes-cloud-strong-market-93CH-5027975",
+  "published_iso": "2026-11-15T23:35:59+09:00",
+  "published_kst": "11/15 23:35"
+ },
+ {
+  "category": "실적",
+  "title": "Savara investors brace for earnings ahead of key FDA ruling",
+  "summary": "",
+  "link": "https://www.investing.com/news/earnings/savara-investors-brace-for-earnings-ahead-of-key-fda-ruling-93CH-5027973",
+  "published_iso": "2026-11-15T23:35:03+09:00",
+  "published_kst": "11/15 23:35"
+ },
+ {
   "category": "경제",
   "title": "Two more tankers hit mines in Hormuz, Iran says it targeted Bahrain radar",
   "summary": "",
