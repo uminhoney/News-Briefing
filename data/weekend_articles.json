@@ -1,5 +1,285 @@
 [
  {
+  "category": "경제",
+  "title": "Two more tankers hit mines in Hormuz, Iran says it targeted Bahrain radar",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/iran-claims-fresh-strike-on-us-base-as-hormuz-shipping-crisis-deepens-5027672",
+  "published_iso": "2026-11-15T23:25:26+09:00",
+  "published_kst": "11/15 23:25"
+ },
+ {
+  "category": "주식시장",
+  "title": "Megaspeed says ex-Nvidia CEO-linked executive left in 2025 amid U.S. scrutiny",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/megaspeed-says-exec-tied-to-exnvidia-ceo-left-in-2025-amid-us-chip-scrutiny-5027830",
+  "published_iso": "2026-11-15T23:05:57+09:00",
+  "published_kst": "11/15 23:05"
+ },
+ {
+  "category": "주식시장",
+  "title": "Why falling AI token prices aren’t the negative for AI providers one might assume",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/why-falling-ai-token-prices-arent-the-negative-for-ai-providers-one-might-assume-5027935",
+  "published_iso": "2026-11-15T22:05:31+09:00",
+  "published_kst": "11/15 22:05"
+ },
+ {
+  "category": "국내주식",
+  "title": "AI 토큰 가격 하락이 AI 공급업체에 미치는 영향은?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2176263",
+  "published_iso": "2026-11-15T22:05:31+09:00",
+  "published_kst": "11/15 22:05"
+ },
+ {
+  "category": "주식시장",
+  "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.66%",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-066-5027909",
+  "published_iso": "2026-11-15T21:45:03+09:00",
+  "published_kst": "11/15 21:45"
+ },
+ {
+  "category": "경제",
+  "title": "Labour lawmakers challenge Burnham on Rosebank oil drilling - report",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/labour-lawmakers-challenge-burnham-on-rosebank-oil-drilling--report-5027878",
+  "published_iso": "2026-11-15T21:12:34+09:00",
+  "published_kst": "11/15 21:12"
+ },
+ {
+  "category": "국내경제",
+  "title": "노동당 의원 75명, 번햄 총리의 로즈뱅크 석유 시추에 반기",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2176244",
+  "published_iso": "2026-11-15T21:12:34+09:00",
+  "published_kst": "11/15 21:12"
+ },
+ {
+  "category": "주식시장",
+  "title": "Trump’s minerals push has yet to loosen China’s grip ahead of Xi talks",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/analysistrumps-minerals-push-has-yet-to-loosen-chinas-grip-ahead-of-xi-talks-5027826",
+  "published_iso": "2026-11-15T20:54:19+09:00",
+  "published_kst": "11/15 20:54"
+ },
+ {
+  "category": "경제지표",
+  "title": "Cape Verde votes for president with emigration in focus",
+  "summary": "",
+  "link": "https://www.investing.com/news/economic-indicators/cape-verde-votes-for-president-with-emigration-in-focus-5027689",
+  "published_iso": "2026-11-15T20:42:19+09:00",
+  "published_kst": "11/15 20:42"
+ },
+ {
+  "category": "국내주식",
+  "title": "Megaspeed “전 Nvidia CEO와 연관된 임원, 2025년 퇴사”",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2176225",
+  "published_iso": "2026-11-15T20:14:31+09:00",
+  "published_kst": "11/15 20:14"
+ },
+ {
+  "category": "주식시장",
+  "title": "Megaspeed says Alice Huang left the company in August 2025",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/megaspeed-says-alice-huang-left-company-in-august-2025-5027761",
+  "published_iso": "2026-11-15T19:30:24+09:00",
+  "published_kst": "11/15 19:30"
+ },
+ {
+  "category": "주식시장",
+  "title": "European stocks face 10% underperformance risk as rally loses momentum",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/european-stocks-face-10-underperformance-risk-as-rally-loses-momentum-5027803",
+  "published_iso": "2026-11-15T19:16:22+09:00",
+  "published_kst": "11/15 19:16"
+ },
+ {
+  "category": "국내주식",
+  "title": "유럽 증시, 랠리 동력 약화로 10% 하락 위험 직면",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2176220",
+  "published_iso": "2026-11-15T19:16:22+09:00",
+  "published_kst": "11/15 19:16"
+ },
+ {
+  "category": "주식시장",
+  "title": "Street Calls of the Week",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-93CH-5027529",
+  "published_iso": "2026-11-15T19:00:03+09:00",
+  "published_kst": "11/15 19:00"
+ },
+ {
+  "category": "주식시장",
+  "title": "Ireland’s AI data center boom faces legal challenge over power demand",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/irelands-ai-data-center-boom-faces-legal-challenge-over-power-demand-5027782",
+  "published_iso": "2026-11-15T18:37:57+09:00",
+  "published_kst": "11/15 18:37"
+ },
+ {
+  "category": "국내주식",
+  "title": "아일랜드 AI 데이터센터 붐, 전력 수요 놓고 법적 도전 직면",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2176211",
+  "published_iso": "2026-11-15T18:37:57+09:00",
+  "published_kst": "11/15 18:37"
+ },
+ {
+  "category": "주식시장",
+  "title": "5 big analyst AI moves: Nvidia hit with downgrades after Huang’s exit",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-nvidia-hit-with-downgrades-after-huangs-exit-5027576",
+  "published_iso": "2026-11-15T18:00:02+09:00",
+  "published_kst": "11/15 18:00"
+ },
+ {
+  "category": "국내주식",
+  "title": "황 CEO 사임 후 Nvidia 강등…이번 주 AI 분야 주요 애널리스트 동향 5가지",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2176204",
+  "published_iso": "2026-11-15T18:00:02+09:00",
+  "published_kst": "11/15 18:00"
+ },
+ {
+  "category": "국내주식",
+  "title": "ECB, 건전한 재정정책 대체 불가 — 차기 총재 후보 크노트 경고",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2176202",
+  "published_iso": "2026-11-15T17:56:54+09:00",
+  "published_kst": "11/15 17:56"
+ },
+ {
+  "category": "국내경제",
+  "title": "호르무즈서 유조선 Two척 추가 기뢰 피해…이란, 바레인 레이더 공격 주장",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2176177",
+  "published_iso": "2026-11-15T15:29:31+09:00",
+  "published_kst": "11/15 15:29"
+ },
+ {
+  "category": "경제",
+  "title": "Copa Airlines, UPS planes collide while taxiing at Miami airport",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/copa-airlines-ups-planes-collide-while-taxiing-at-miami-airport-5027661",
+  "published_iso": "2026-11-15T13:23:54+09:00",
+  "published_kst": "11/15 13:23"
+ },
+ {
+  "category": "국내경제",
+  "title": "마이애미공항서 Copa Airlines·UPS 항공기 지상 이동 중 충돌",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2176164",
+  "published_iso": "2026-11-15T13:23:54+09:00",
+  "published_kst": "11/15 13:23"
+ },
+ {
+  "category": "실적",
+  "title": "Greenland Tech Holding earnings beat by $0.08, revenue topped estimates",
+  "summary": "",
+  "link": "https://www.investing.com/news/earnings/greenland-tech-holding-earnings-beat-by-008-revenue-topped-estimates-5027660",
+  "published_iso": "2026-11-15T13:17:19+09:00",
+  "published_kst": "11/15 13:17"
+ },
+ {
+  "category": "국내주식",
+  "title": "HD현대, 美 안두릴과 무인수상함 건조…방위산업 정조준",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2176160",
+  "published_iso": "2026-11-15T12:48:00+09:00",
+  "published_kst": "11/15 12:48"
+ },
+ {
+  "category": "국내주식",
+  "title": "[르포] K조선 심장 LNG화물창…HD현중, 품질·속도로 中 추격 따돌린다",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2176161",
+  "published_iso": "2026-11-15T12:47:50+09:00",
+  "published_kst": "11/15 12:47"
+ },
+ {
+  "category": "원자재",
+  "title": "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/saudiled-coalition-intercepts-missiles-towards-riyadh-drones-in-eastern-province-5027639",
+  "published_iso": "2026-11-15T12:12:19+09:00",
+  "published_kst": "11/15 12:12"
+ },
+ {
+  "category": "경제",
+  "title": "U.S. diesel prices fall below $6 a gallon to two-month low",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/us-diesel-prices-fall-below-6-a-gallon-to-twomonth-low-5027641",
+  "published_iso": "2026-11-15T12:02:25+09:00",
+  "published_kst": "11/15 12:02"
+ },
+ {
+  "category": "경제",
+  "title": "US judge again blocks Trump’s makeover plan for DC golf course",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/us-judge-again-blocks-trumps-makeover-plan-for-dc-golf-course-5027633",
+  "published_iso": "2026-11-15T11:42:22+09:00",
+  "published_kst": "11/15 11:42"
+ },
+ {
+  "category": "경제",
+  "title": "UK to expand youth job guarantee program amid rising unemployment",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/uk-to-expand-youth-job-guarantee-program-amid-rising-unemployment-5027632",
+  "published_iso": "2026-11-15T11:16:30+09:00",
+  "published_kst": "11/15 11:16"
+ },
+ {
+  "category": "국내경제",
+  "title": "영국, 청년 실업 증가 속 청년 취업 보장 프로그램 확대",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2176146",
+  "published_iso": "2026-11-15T11:16:30+09:00",
+  "published_kst": "11/15 11:16"
+ },
+ {
+  "category": "국내주식",
+  "title": "에버코어 “애플, 개인용 AI 에이전트 경쟁에 유리한 자산 갖춰”",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2176144",
+  "published_iso": "2026-11-15T10:38:04+09:00",
+  "published_kst": "11/15 10:38"
+ },
+ {
+  "category": "원자재",
+  "title": "US diesel below $6 a gallon at 2-month low on easing tensions, weaker demand",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/us-diesel-below-6-a-gallon-at-2month-low-on-easing-tensions-weaker-demand-5027622",
+  "published_iso": "2026-11-15T10:24:20+09:00",
+  "published_kst": "11/15 10:24"
+ },
+ {
+  "category": "경제",
+  "title": "Hamas confirms senior commander killed in Israeli airstrike in Gaza",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/hamas-confirms-senior-commander-killed-in-israeli-airstrike-in-gaza-5027609",
+  "published_iso": "2026-11-15T10:00:19+09:00",
+  "published_kst": "11/15 10:00"
+ },
+ {
+  "category": "국내경제",
+  "title": "하마스, 이스라엘 공습으로 고위 군사령관 사망 확인",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2176139",
+  "published_iso": "2026-11-15T10:00:19+09:00",
+  "published_kst": "11/15 10:00"
+ },
+ {
+  "category": "원자재",
+  "title": "Iran’s navy says three tankers on fire after hitting mines in Hormuz",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/irans-navy-says-three-tankers-on-fire-after-hitting-mines-in-hormuz-5027556",
+  "published_iso": "2026-11-15T08:00:24+09:00",
+  "published_kst": "11/15 08:00"
+ },
+ {
   "category": "주식시장",
   "title": "U.S. flight disruptions persist as FAA probes L3Harris role in nationwide outage",
   "summary": "",
