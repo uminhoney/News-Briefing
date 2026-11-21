@@ -1,5 +1,109 @@
 [
  {
+  "category": "주식시장",
+  "title": "German car and shipyard workers set to strike as IG Metall union extends walkout",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/german-car-and-shipyard-workers-set-to-strike-as-ig-metall-union-extends-walkout-5043609",
+  "published_iso": "2026-11-22T08:06:21+09:00",
+  "published_kst": "11/22 08:06"
+ },
+ {
+  "category": "국내주식",
+  "title": "애플이 그린 20주년 미래? 삼성전자는 이미 ’과거형’…주도권 굳혔다",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2186254",
+  "published_iso": "2026-11-22T07:49:33+09:00",
+  "published_kst": "11/22 07:49"
+ },
+ {
+  "category": "경제",
+  "title": "UK and Netherlands leaders discuss security and Ukraine support",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/uk-and-netherlands-leaders-discuss-security-and-ukraine-support-5043603",
+  "published_iso": "2026-11-22T07:32:53+09:00",
+  "published_kst": "11/22 07:32"
+ },
+ {
+  "category": "국내경제",
+  "title": "영국과 네덜란드 정상, 안보 및 우크라이나 지원 논의",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2186251",
+  "published_iso": "2026-11-22T07:32:53+09:00",
+  "published_kst": "11/22 07:32"
+ },
+ {
+  "category": "주식시장",
+  "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5043590",
+  "published_iso": "2026-11-22T06:20:04+09:00",
+  "published_kst": "11/22 06:20"
+ },
+ {
+  "category": "경제",
+  "title": "Trump orders contractors to report Congress inquiries",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/trump-orders-contractors-to-report-congress-inquiries-5043559",
+  "published_iso": "2026-11-22T04:00:57+09:00",
+  "published_kst": "11/22 04:00"
+ },
+ {
+  "category": "국내경제",
+  "title": "트럼프, 연방 계약업체에 의회 문의 사항 보고 의무화",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2186241",
+  "published_iso": "2026-11-22T04:00:57+09:00",
+  "published_kst": "11/22 04:00"
+ },
+ {
+  "category": "주식시장",
+  "title": "Who really wins from AI?",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/who-really-wins-from-ai-5043557",
+  "published_iso": "2026-11-22T03:51:31+09:00",
+  "published_kst": "11/22 03:51"
+ },
+ {
+  "category": "국내주식",
+  "title": "AI의 진정한 수혜자는 누구인가?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2186239",
+  "published_iso": "2026-11-22T03:51:31+09:00",
+  "published_kst": "11/22 03:51"
+ },
+ {
+  "category": "원자재",
+  "title": "UBS flags further gold weakness before Fed rate-cut expectations return",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/ubs-flags-further-gold-weakness-before-fed-ratecut-expectations-return-5043537",
+  "published_iso": "2026-11-22T02:50:39+09:00",
+  "published_kst": "11/22 02:50"
+ },
+ {
+  "category": "원자재",
+  "title": "Goldman favours gold over silver as central bank demand supports prices",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/goldman-favours-gold-over-silver-as-central-bank-demand-supports-prices-5043527",
+  "published_iso": "2026-11-22T02:01:01+09:00",
+  "published_kst": "11/22 02:01"
+ },
+ {
+  "category": "외환",
+  "title": "Bitcoin rises over 2% to more than $60,000",
+  "summary": "",
+  "link": "https://www.investing.com/news/forex-news/bitcoin-rises-over-2-to-more-than-60000-5043497",
+  "published_iso": "2026-11-22T00:30:20+09:00",
+  "published_kst": "11/22 00:30"
+ },
+ {
+  "category": "원자재",
+  "title": "US denies Iranian account that missile damaged F-16 over Gulf",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/us-denies-iranian-account-that-missile-damaged-f16-over-gulf-5043494",
+  "published_iso": "2026-11-22T00:24:03+09:00",
+  "published_kst": "11/22 00:24"
+ },
+ {
   "category": "원자재",
   "title": "COP31 climate summit risks failure as talks go deep into overtime",
   "summary": "",
