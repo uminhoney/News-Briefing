@@ -1,6 +1,286 @@
 [
  {
   "category": "주식시장",
+  "title": "Asian countries take steps to aid stock markets after AI rout",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/asian-countries-take-steps-to-aid-stock-markets-after-ai-rout-5044034",
+  "published_iso": "2026-11-23T00:12:43+09:00",
+  "published_kst": "11/23 00:12"
+ },
+ {
+  "category": "국내주식",
+  "title": "AI 충격에 아시아 증시 안정화 나선 대만·중국·한국",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2186387",
+  "published_iso": "2026-11-23T00:12:43+09:00",
+  "published_kst": "11/23 00:12"
+ },
+ {
+  "category": "실적",
+  "title": "Organon earnings on deck as Sun Pharma deal looms",
+  "summary": "",
+  "link": "https://www.investing.com/news/earnings/organon-earnings-on-deck-as-sun-pharma-deal-looms-93CH-5044025",
+  "published_iso": "2026-11-22T23:35:59+09:00",
+  "published_kst": "11/22 23:35"
+ },
+ {
+  "category": "실적",
+  "title": "ChipMOS earnings up next: Can packaging specialist sustain growth?",
+  "summary": "",
+  "link": "https://www.investing.com/news/earnings/chipmos-earnings-up-next-can-packaging-specialist-sustain-growth-93CH-5044024",
+  "published_iso": "2026-11-22T23:35:04+09:00",
+  "published_kst": "11/22 23:35"
+ },
+ {
+  "category": "원자재",
+  "title": "COP31 climate talks collapse as EU and others reject deal",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/cop31-climate-talks-close-to-final-deal-says-summit-president-5043619",
+  "published_iso": "2026-11-22T23:06:23+09:00",
+  "published_kst": "11/22 23:06"
+ },
+ {
+  "category": "주식시장",
+  "title": "’Black Friday’ brings consumer spending into focus for AI-rocked market",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/black-friday-brings-consumer-spending-into-focus-for-airocked-market-5044012",
+  "published_iso": "2026-11-22T23:00:24+09:00",
+  "published_kst": "11/22 23:00"
+ },
+ {
+  "category": "주식시장",
+  "title": "Exclusive-Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/exclusivelike-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-5043898",
+  "published_iso": "2026-11-22T22:00:57+09:00",
+  "published_kst": "11/22 22:00"
+ },
+ {
+  "category": "주식시장",
+  "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 1.95%",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-195-5043961",
+  "published_iso": "2026-11-22T21:45:03+09:00",
+  "published_kst": "11/22 21:45"
+ },
+ {
+  "category": "주식시장",
+  "title": "Analysis-Correction or deeper reckoning? Investors seek signs US stock selling will abate",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939",
+  "published_iso": "2026-11-22T21:06:21+09:00",
+  "published_kst": "11/22 21:06"
+ },
+ {
+  "category": "주식시장",
+  "title": "South Korea prepares stock market stabilization fund after Kospi plunges 5.2%",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/south-korea-prepares-stock-market-stabilization-fund-after-kospi-plunges-52-5043890",
+  "published_iso": "2026-11-22T19:54:22+09:00",
+  "published_kst": "11/22 19:54"
+ },
+ {
+  "category": "원자재",
+  "title": "COP31 climate deal in the balance after fractious talks",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/cop31-climate-deal-in-the-balance-after-fractious-talks-5043876",
+  "published_iso": "2026-11-22T19:18:18+09:00",
+  "published_kst": "11/22 19:18"
+ },
+ {
+  "category": "주식시장",
+  "title": "Street Calls of the Week",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-93CH-5042451",
+  "published_iso": "2026-11-22T19:00:02+09:00",
+  "published_kst": "11/22 19:00"
+ },
+ {
+  "category": "경제",
+  "title": "Russian drone strike traps 14 in Kyiv region as cargo ship burns off Finland",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/russian-drone-strike-traps-14-in-kyiv-region-as-cargo-ship-burns-off-finland-5043852",
+  "published_iso": "2026-11-22T18:43:25+09:00",
+  "published_kst": "11/22 18:43"
+ },
+ {
+  "category": "국내경제",
+  "title": "러시아 드론 공격으로 키이우 인근 건물 붕괴…핀란드 해상서 화물선 화재",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2186349",
+  "published_iso": "2026-11-22T18:43:25+09:00",
+  "published_kst": "11/22 18:43"
+ },
+ {
+  "category": "주식시장",
+  "title": "Should you buy copper’s dip? Here’s why UBS favors long position",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/should-you-buy-coppers-dip-heres-why-ubs-favors-long-position-5043836",
+  "published_iso": "2026-11-22T18:09:20+09:00",
+  "published_kst": "11/22 18:09"
+ },
+ {
+  "category": "국내주식",
+  "title": "구리 가격 하락은 매수 기회일까? UBS가 매수 포지션을 선호하는 이유",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2186346",
+  "published_iso": "2026-11-22T18:09:20+09:00",
+  "published_kst": "11/22 18:09"
+ },
+ {
+  "category": "주식시장",
+  "title": "5 big analyst AI moves: Nvidia downgrade, Anthropic seen as ’generational company’",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-nvidia-downgrade-anthropic-seen-as-generational-company-5043652",
+  "published_iso": "2026-11-22T18:00:00+09:00",
+  "published_kst": "11/22 18:00"
+ },
+ {
+  "category": "국내주식",
+  "title": "이번 주 AI 애널리스트 주요 5선: Nvidia 투자의견 하향·Anthropic 주목",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2186328",
+  "published_iso": "2026-11-22T18:00:00+09:00",
+  "published_kst": "11/22 18:00"
+ },
+ {
+  "category": "주식시장",
+  "title": "Swiss inflation accelerates as SNB signals concern over broader price pressures",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/swiss-inflation-accelerates-as-snb-signals-concern-over-broader-price-pressures-5043822",
+  "published_iso": "2026-11-22T17:51:37+09:00",
+  "published_kst": "11/22 17:51"
+ },
+ {
+  "category": "국내주식",
+  "title": "스위스 인플레이션 가속화…SNB, 광범위한 물가 압력 우려",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2186339",
+  "published_iso": "2026-11-22T17:51:37+09:00",
+  "published_kst": "11/22 17:51"
+ },
+ {
+  "category": "경제",
+  "title": "SNB closely watching for second-round inflation effects, vice chairman tells paper",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/snb-closely-watching-for-secondround-inflation-effects-vicechairman-tells-paper-5043809",
+  "published_iso": "2026-11-22T17:30:25+09:00",
+  "published_kst": "11/22 17:30"
+ },
+ {
+  "category": "경제",
+  "title": "Iran asserts control over Hormuz as strikes on Bahrain, Saudi Arabia escalate",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/iran-asserts-control-over-hormuz-as-strikes-on-bahrain-and-saudi-arabia-escalate-5043802",
+  "published_iso": "2026-11-22T17:10:19+09:00",
+  "published_kst": "11/22 17:10"
+ },
+ {
+  "category": "국내경제",
+  "title": "이란, 호르무즈 해협 통제권 주장…바레인·사우디 공격으로 긴장 고조",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2186330",
+  "published_iso": "2026-11-22T17:10:19+09:00",
+  "published_kst": "11/22 17:10"
+ },
+ {
+  "category": "국내주식",
+  "title": "반도체 139, 철강 50… 넉 달 만에 제조업 경기 전망 기준선 밑으로",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2186323",
+  "published_iso": "2026-11-22T16:25:51+09:00",
+  "published_kst": "11/22 16:25"
+ },
+ {
+  "category": "국내주식",
+  "title": "애플이 그린 20주년 미래?...삼성전자에겐 이미 ’과거형’",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2186322",
+  "published_iso": "2026-11-22T16:25:40+09:00",
+  "published_kst": "11/22 16:25"
+ },
+ {
+  "category": "경제",
+  "title": "Australia rejects U.S. budget office concerns over AUKUS submarine deal",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/australia-rejects-us-budget-office-concerns-over-aukus-submarine-deal-5043777",
+  "published_iso": "2026-11-22T15:43:55+09:00",
+  "published_kst": "11/22 15:43"
+ },
+ {
+  "category": "국내경제",
+  "title": "호주 국방장관, AUKUS 잠수함 협정에 대한 미 의회예산국 우려 반박",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2186317",
+  "published_iso": "2026-11-22T15:43:55+09:00",
+  "published_kst": "11/22 15:43"
+ },
+ {
+  "category": "경제",
+  "title": "China urges U.S. to withdraw telecom restrictions on phone number access",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/china-urges-us-to-withdraw-telecom-restrictions-on-phone-number-access-5043773",
+  "published_iso": "2026-11-22T15:17:23+09:00",
+  "published_kst": "11/22 15:17"
+ },
+ {
+  "category": "국내경제",
+  "title": "중국, 미국에 전화번호 접근 제한 철회 촉구",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2186315",
+  "published_iso": "2026-11-22T15:17:23+09:00",
+  "published_kst": "11/22 15:17"
+ },
+ {
+  "category": "국내주식",
+  "title": "AI 붐이 신흥시장에서 힘을 잃고 있는가? 제프리스, 위험 경고",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2186313",
+  "published_iso": "2026-11-22T15:04:20+09:00",
+  "published_kst": "11/22 15:04"
+ },
+ {
+  "category": "경제",
+  "title": "ICE arrests at Seattle airport spark outrage, calls for congressional scrutiny",
+  "summary": "",
+  "link": "https://www.investing.com/news/economy-news/ice-arrests-at-seattle-airport-spark-outrage-calls-for-congressional-scrutiny-5043736",
+  "published_iso": "2026-11-22T12:32:33+09:00",
+  "published_kst": "11/22 12:32"
+ },
+ {
+  "category": "국내경제",
+  "title": "시애틀 공항서 ICE 승객 체포…당국 비판 속 의회 조사 요구",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2186298",
+  "published_iso": "2026-11-22T12:32:33+09:00",
+  "published_kst": "11/22 12:32"
+ },
+ {
+  "category": "국내주식",
+  "title": "독일 산업계 파업 확대…IG Metall, 노동자 2만3천여 명에 파업 촉구",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2186292",
+  "published_iso": "2026-11-22T10:48:54+09:00",
+  "published_kst": "11/22 10:48"
+ },
+ {
+  "category": "국내주식",
+  "title": "중국 AI 주식, 기술주 매도세 심화로 1.7조 달러 증발",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2186286",
+  "published_iso": "2026-11-22T10:09:28+09:00",
+  "published_kst": "11/22 10:09"
+ },
+ {
+  "category": "국내주식",
+  "title": "스페인 조기 총선, 우파 연립정부 출범 가능성 높아",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2186262",
+  "published_iso": "2026-11-22T08:57:24+09:00",
+  "published_kst": "11/22 08:57"
+ },
+ {
+  "category": "주식시장",
   "title": "German car and shipyard workers set to strike as IG Metall union extends walkout",
   "summary": "",
   "link": "https://www.investing.com/news/stock-market-news/german-car-and-shipyard-workers-set-to-strike-as-ig-metall-union-extends-walkout-5043609",
