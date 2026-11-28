@@ -1,1170 +1,538 @@
 [
  {
-  "category": "국내주식",
-  "title": "[분석] 카디프 인수부터 시너지까지...그룹 최고 ’효자’ 한투증권 ’WM 전문성’ 발휘 기회",
+  "category": "경제",
+  "title": "EU set to delay plug-in hybrid emissions rating update until 2030",
   "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186448",
-  "published_iso": "2026-11-23T09:09:27+09:00",
-  "published_kst": "11/23 09:09"
+  "link": "https://www.investing.com/news/economy-news/eu-set-to-delay-plugin-hybrid-emissions-rating-update-until-2030-5054349",
+  "published_iso": "2026-11-29T01:04:57+09:00",
+  "published_kst": "11/29 01:04"
+ },
+ {
+  "category": "주식시장",
+  "title": "US Black Friday online spend rises 11% to a new high of $13.1 billion",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/black-friday-online-shopping-rises-to-131-billion-in-the-us-adobe-analytics-data-shows-5054328",
+  "published_iso": "2026-11-29T00:54:24+09:00",
+  "published_kst": "11/29 00:54"
+ },
+ {
+  "category": "주식시장",
+  "title": "China’s Chery Automobile moves into police and nurse robots, FT reports",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/chinas-chery-automobile-moves-into-police-and-nurse-robots-ft-reports-5054345",
+  "published_iso": "2026-11-29T00:53:26+09:00",
+  "published_kst": "11/29 00:53"
  },
  {
   "category": "국내주식",
-  "title": "서초구, 산불 대응 ’24시간 체제’…기동대 58명 투입",
+  "title": "중국 Chery Automobile, 교통경찰·간호 로봇 사업 확장—FT",
   "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186446",
-  "published_iso": "2026-11-23T09:09:01+09:00",
-  "published_kst": "11/23 09:09"
+  "link": "https://kr.investing.com/news/stock-market-news/article-2192236",
+  "published_iso": "2026-11-29T00:53:26+09:00",
+  "published_kst": "11/29 00:53"
  },
  {
-  "category": "국내주식",
-  "title": "글로벌 명품 브랜드 이끈 불가리 전 회장 별세…향년 89세",
+  "category": "주식시장",
+  "title": "U.S. Black Friday online sales set to exceed $13 billion, Adobe predicts",
   "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186447",
-  "published_iso": "2026-11-23T09:08:49+09:00",
-  "published_kst": "11/23 09:08"
+  "link": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-set-to-exceed-13-billion-adobe-predicts-5054063",
+  "published_iso": "2026-11-29T00:41:21+09:00",
+  "published_kst": "11/29 00:41"
+ },
+ {
+  "category": "주식시장",
+  "title": "Where does last week’s selloff stand in history, and what’s driven bigger ones?",
+  "summary": "",
+  "link": "https://www.investing.com/news/stock-market-news/where-does-last-weeks-selloff-stand-in-history-and-whats-driven-bigger-ones-5054320",
+  "published_iso": "2026-11-29T00:34:01+09:00",
+  "published_kst": "11/29 00:34"
  },
  {
   "category": "경제",
-  "title": "Dollar edges off 19-month high after market rout; yen softens",
+  "title": "Here is BofA’s 2027 outlook for the U.S. economy",
   "summary": "",
-  "link": "https://www.investing.com/news/economy-news/dollar-edges-off-19month-high-after-market-rout-yen-softens-5044182",
-  "published_iso": "2026-11-23T08:48:38+09:00",
-  "published_kst": "11/23 08:48"
+  "link": "https://www.investing.com/news/economy-news/here-is-bofas-2027-outlook-for-the-us-economy-5054327",
+  "published_iso": "2026-11-28T23:02:23+09:00",
+  "published_kst": "11/28 23:02"
  },
  {
-  "category": "경제",
-  "title": "US futures bounce while Asia markets brace for AI wipeout",
+  "category": "국내경제",
+  "title": "BofA의 2027년 미국 경제 전망: 성장세 견조하지만 물가 부담 지속",
   "summary": "",
-  "link": "https://www.investing.com/news/economy-news/us-futures-bounce-while-asia-markets-brace-for-ai-wipeout-5044181",
-  "published_iso": "2026-11-23T08:48:25+09:00",
-  "published_kst": "11/23 08:48"
- },
- {
-  "category": "국내주식",
-  "title": "[분석] 한국투자금융그룹, 카디프생명 ’작지만 필요’ 인수전 촉각",
-  "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186436",
-  "published_iso": "2026-11-23T08:39:53+09:00",
-  "published_kst": "11/23 08:39"
- },
- {
-  "category": "국내주식",
-  "title": "트럼프, 해외 데이터센터 건설 美 기업에 고율 과세 경고…AI 투자 자국 유치 압박",
-  "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186434",
-  "published_iso": "2026-11-23T08:39:52+09:00",
-  "published_kst": "11/23 08:39"
- },
- {
-  "category": "국내주식",
-  "title": "골드만삭스, 스페이스X 320억 달러 채권 발행 지원…AI 반도체 조달 위한 새 금융모델 제시",
-  "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186432",
-  "published_iso": "2026-11-23T08:39:50+09:00",
-  "published_kst": "11/23 08:39"
- },
- {
-  "category": "국내주식",
-  "title": "포스코인터내셔널, 美 셰일가스 인수 완료…북미가스 수요대응",
-  "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186430",
-  "published_iso": "2026-11-23T08:39:49+09:00",
-  "published_kst": "11/23 08:39"
- },
- {
-  "category": "국내주식",
-  "title": "[개장] 뉴욕증시, 기술주 투매에 나스닥 5%↓..올해 상승분 반납",
-  "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186429",
-  "published_iso": "2026-11-23T08:39:48+09:00",
-  "published_kst": "11/23 08:39"
- },
- {
-  "category": "국내주식",
-  "title": "알리바바(BABA.N) 3분기 실적 예상치 상회..AI 고성장 증명",
-  "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186428",
-  "published_iso": "2026-11-23T08:39:47+09:00",
-  "published_kst": "11/23 08:39"
+  "link": "https://kr.investing.com/news/economy-news/article-2192227",
+  "published_iso": "2026-11-28T23:02:23+09:00",
+  "published_kst": "11/28 23:02"
  },
  {
   "category": "주식시장",
-  "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
+  "title": "China’s premium puffer jacket push meets consumer resistance",
   "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/openai-scientist-proposes-industry-ai-limits-tied-to-model-intelligence-metric-5044174",
-  "published_iso": "2026-11-23T08:12:49+09:00",
-  "published_kst": "11/23 08:12"
+  "link": "https://www.investing.com/news/stock-market-news/chinas-premium-puffer-jacketpush-meets-consumer-resistance-5054071",
+  "published_iso": "2026-11-28T22:36:21+09:00",
+  "published_kst": "11/28 22:36"
  },
  {
   "category": "주식시장",
-  "title": "Beijing to bar young ’red-chip’ firms from listing outside mainland China, sources say",
+  "title": "India’s SEBI weighs exchange platform for pre-IPO shares",
   "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/beijing-to-bar-young-redchip-firms-from-listing-outside-mainland-china-sources-say-5044173",
-  "published_iso": "2026-11-23T08:12:34+09:00",
-  "published_kst": "11/23 08:12"
- },
- {
-  "category": "주식시장",
-  "title": "Delta flights faced brief delays at Atlanta airport over automated system issue",
-  "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/delta-flights-faced-brief-delays-atatlanta-airport-over-automated-system-issue-5044102",
-  "published_iso": "2026-11-23T08:12:22+09:00",
-  "published_kst": "11/23 08:12"
+  "link": "https://www.investing.com/news/stock-market-news/indias-sebi-weighs-exchange-platform-for-preipo-shares-5054322",
+  "published_iso": "2026-11-28T22:29:07+09:00",
+  "published_kst": "11/28 22:29"
  },
  {
   "category": "국내주식",
-  "title": "전력 병목이 키운 ESS·냉각설비…삼성·LG, K-배터리·전자 ’신성장축’",
+  "title": "인도 SEBI, IPO 앞둔 기업 주식 거래 위한 별도 거래소 검토",
   "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186427",
-  "published_iso": "2026-11-23T08:08:57+09:00",
-  "published_kst": "11/23 08:08"
+  "link": "https://kr.investing.com/news/stock-market-news/article-2192225",
+  "published_iso": "2026-11-28T22:29:07+09:00",
+  "published_kst": "11/28 22:29"
  },
  {
   "category": "주식시장",
-  "title": "Goldman Sachs’ economic outlook for 2027",
+  "title": "Argentina’s bid to stop UK oil activity near Falklands rejected by international court",
   "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-economic-outlook-for-2027-5044151",
-  "published_iso": "2026-11-23T07:24:42+09:00",
-  "published_kst": "11/23 07:24"
+  "link": "https://www.investing.com/news/stock-market-news/international-court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands-5054314",
+  "published_iso": "2026-11-28T22:24:25+09:00",
+  "published_kst": "11/28 22:24"
+ },
+ {
+  "category": "국내주식",
+  "title": "지난주 미국 증시 급락, 과거 약세장과 무엇이 달랐나?",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2192224",
+  "published_iso": "2026-11-28T22:13:15+09:00",
+  "published_kst": "11/28 22:13"
  },
  {
   "category": "원자재",
-  "title": "Analysis-Can climate diplomacy build on the collapse of COP31?",
+  "title": "From bonds to gold: UBS outlines how to build resilient portfolios for 2027",
   "summary": "",
-  "link": "https://www.investing.com/news/commodities-news/analysiscan-climate-diplomacy-build-on-the-collapse-of-cop31-5044126",
-  "published_iso": "2026-11-23T06:18:22+09:00",
-  "published_kst": "11/23 06:18"
+  "link": "https://www.investing.com/news/commodities-news/from-bonds-to-gold-ubs-outlines-how-to-build-resilient-portfolios-for-2027-5054313",
+  "published_iso": "2026-11-28T21:20:46+09:00",
+  "published_kst": "11/28 21:20"
  },
  {
   "category": "주식시장",
-  "title": "How exposed is the S&P 500 to an AI trade bust?",
+  "title": "+157%: Our AI-picked stocks for December will be out SOON - Now for 60% off",
   "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/how-exposed-is-sp-500-to-an-ai-trade-bust-5044112",
-  "published_iso": "2026-11-23T05:43:07+09:00",
-  "published_kst": "11/23 05:43"
- },
- {
-  "category": "주식시장",
-  "title": "US intelligence chief predicts more tech outages as systems undergo upgrades",
-  "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/us-intelligence-chief-predicts-more-tech-outages-as-systems-undergo-upgrades-5044089",
-  "published_iso": "2026-11-23T03:18:21+09:00",
-  "published_kst": "11/23 03:18"
- },
- {
-  "category": "주식시장",
-  "title": "US seeks answers on Nvidia’s sale of chips to China, Bessent says",
-  "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/us-seeks-answers-on-nvidias-sale-of-chips-to-china-bessent-says-5044083",
-  "published_iso": "2026-11-23T02:54:25+09:00",
-  "published_kst": "11/23 02:54"
- },
- {
-  "category": "원자재",
-  "title": "Iowa detonation of lead will proceed under emergency powers, Army says, bypassing court order",
-  "summary": "",
-  "link": "https://www.investing.com/news/commodities-news/iowa-detonation-of-lead-will-proceed-under-emergency-powers-army-says-bypassing-court-order-5044061",
-  "published_iso": "2026-11-23T01:42:20+09:00",
-  "published_kst": "11/23 01:42"
- },
- {
-  "category": "주식시장",
-  "title": "What do the U.S. midterms mean for investors?",
-  "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/what-do-the-us-midterms-mean-for-investors-5044046",
-  "published_iso": "2026-11-23T00:56:18+09:00",
-  "published_kst": "11/23 00:56"
- },
- {
-  "category": "주식시장",
-  "title": "Asian countries take steps to aid stock markets after AI rout",
-  "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/asian-countries-take-steps-to-aid-stock-markets-after-ai-rout-5044034",
-  "published_iso": "2026-11-23T00:12:43+09:00",
-  "published_kst": "11/23 00:12"
+  "link": "https://www.investing.com/news/stock-market-news/157-our-aipicked-stocks-for-december-will-be-out-soon--now-for-60-off-5054307",
+  "published_iso": "2026-11-28T20:53:08+09:00",
+  "published_kst": "11/28 20:53"
  },
  {
   "category": "국내주식",
-  "title": "AI 충격에 아시아 증시 안정화 나선 대만·중국·한국",
+  "title": "+157%: 12월 AI 추천 종목 곧 공개…Now 60% 할인",
   "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186387",
-  "published_iso": "2026-11-23T00:12:43+09:00",
-  "published_kst": "11/23 00:12"
- },
- {
-  "category": "실적",
-  "title": "Organon earnings on deck as Sun Pharma deal looms",
-  "summary": "",
-  "link": "https://www.investing.com/news/earnings/organon-earnings-on-deck-as-sun-pharma-deal-looms-93CH-5044025",
-  "published_iso": "2026-11-22T23:35:59+09:00",
-  "published_kst": "11/22 23:35"
- },
- {
-  "category": "실적",
-  "title": "ChipMOS earnings up next: Can packaging specialist sustain growth?",
-  "summary": "",
-  "link": "https://www.investing.com/news/earnings/chipmos-earnings-up-next-can-packaging-specialist-sustain-growth-93CH-5044024",
-  "published_iso": "2026-11-22T23:35:04+09:00",
-  "published_kst": "11/22 23:35"
- },
- {
-  "category": "원자재",
-  "title": "COP31 climate talks collapse as EU and others reject deal",
-  "summary": "",
-  "link": "https://www.investing.com/news/commodities-news/cop31-climate-talks-close-to-final-deal-says-summit-president-5043619",
-  "published_iso": "2026-11-22T23:06:23+09:00",
-  "published_kst": "11/22 23:06"
- },
- {
-  "category": "주식시장",
-  "title": "’Black Friday’ brings consumer spending into focus for AI-rocked market",
-  "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/black-friday-brings-consumer-spending-into-focus-for-airocked-market-5044012",
-  "published_iso": "2026-11-22T23:00:24+09:00",
-  "published_kst": "11/22 23:00"
- },
- {
-  "category": "주식시장",
-  "title": "Exclusive-Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
-  "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/exclusivelike-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-5043898",
-  "published_iso": "2026-11-22T22:00:57+09:00",
-  "published_kst": "11/22 22:00"
- },
- {
-  "category": "주식시장",
-  "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 1.95%",
-  "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-195-5043961",
-  "published_iso": "2026-11-22T21:45:03+09:00",
-  "published_kst": "11/22 21:45"
- },
- {
-  "category": "주식시장",
-  "title": "Analysis-Correction or deeper reckoning? Investors seek signs US stock selling will abate",
-  "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939",
-  "published_iso": "2026-11-22T21:06:21+09:00",
-  "published_kst": "11/22 21:06"
- },
- {
-  "category": "주식시장",
-  "title": "South Korea prepares stock market stabilization fund after Kospi plunges 5.2%",
-  "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/south-korea-prepares-stock-market-stabilization-fund-after-kospi-plunges-52-5043890",
-  "published_iso": "2026-11-22T19:54:22+09:00",
-  "published_kst": "11/22 19:54"
- },
- {
-  "category": "원자재",
-  "title": "COP31 climate deal in the balance after fractious talks",
-  "summary": "",
-  "link": "https://www.investing.com/news/commodities-news/cop31-climate-deal-in-the-balance-after-fractious-talks-5043876",
-  "published_iso": "2026-11-22T19:18:18+09:00",
-  "published_kst": "11/22 19:18"
- },
- {
-  "category": "주식시장",
-  "title": "Street Calls of the Week",
-  "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-93CH-5042451",
-  "published_iso": "2026-11-22T19:00:02+09:00",
-  "published_kst": "11/22 19:00"
+  "link": "https://kr.investing.com/news/stock-market-news/article-2192220",
+  "published_iso": "2026-11-28T20:53:08+09:00",
+  "published_kst": "11/28 20:53"
  },
  {
   "category": "경제",
-  "title": "Russian drone strike traps 14 in Kyiv region as cargo ship burns off Finland",
+  "title": "Russia reports massive Ukrainian drone attack as tensions rise over Libya strike",
   "summary": "",
-  "link": "https://www.investing.com/news/economy-news/russian-drone-strike-traps-14-in-kyiv-region-as-cargo-ship-burns-off-finland-5043852",
-  "published_iso": "2026-11-22T18:43:25+09:00",
-  "published_kst": "11/22 18:43"
+  "link": "https://www.investing.com/news/economy-news/russia-reports-massive-ukrainian-drone-attack-as-tensions-rise-over-libya-strike-5054266",
+  "published_iso": "2026-11-28T19:23:08+09:00",
+  "published_kst": "11/28 19:23"
  },
  {
   "category": "국내경제",
-  "title": "러시아 드론 공격으로 키이우 인근 건물 붕괴…핀란드 해상서 화물선 화재",
+  "title": "러시아 “우크라이나 드론 1,246대 격추”…리비아 공격에 유럽도 우려",
   "summary": "",
-  "link": "https://kr.investing.com/news/economy-news/article-2186349",
-  "published_iso": "2026-11-22T18:43:25+09:00",
-  "published_kst": "11/22 18:43"
+  "link": "https://kr.investing.com/news/economy-news/article-2192207",
+  "published_iso": "2026-11-28T19:23:08+09:00",
+  "published_kst": "11/28 19:23"
  },
  {
   "category": "주식시장",
-  "title": "Should you buy copper’s dip? Here’s why UBS favors long position",
+  "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
   "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/should-you-buy-coppers-dip-heres-why-ubs-favors-long-position-5043836",
-  "published_iso": "2026-11-22T18:09:20+09:00",
-  "published_kst": "11/22 18:09"
+  "link": "https://www.investing.com/news/stock-market-news/musk-says-google-is-interested-in-renting-more-computing-capacity-from-spacex-5054241",
+  "published_iso": "2026-11-28T18:24:21+09:00",
+  "published_kst": "11/28 18:24"
  },
  {
-  "category": "국내주식",
-  "title": "구리 가격 하락은 매수 기회일까? UBS가 매수 포지션을 선호하는 이유",
+  "category": "경제",
+  "title": "U.S. military repelled drones at UK airbase, Iran suspected of involvement - FT",
   "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186346",
-  "published_iso": "2026-11-22T18:09:20+09:00",
-  "published_kst": "11/22 18:09"
+  "link": "https://www.investing.com/news/economy-news/us-military-repelled-drones-at-uk-airbase-iran-suspected-of-involvement--ft-5054231",
+  "published_iso": "2026-11-28T18:01:37+09:00",
+  "published_kst": "11/28 18:01"
+ },
+ {
+  "category": "국내경제",
+  "title": "미군, 영국 공군기지서 드론 격퇴…이란 연루 의혹 - FT",
+  "summary": "",
+  "link": "https://kr.investing.com/news/economy-news/article-2192203",
+  "published_iso": "2026-11-28T18:01:37+09:00",
+  "published_kst": "11/28 18:01"
  },
  {
   "category": "주식시장",
-  "title": "5 big analyst AI moves: Nvidia downgrade, Anthropic seen as ’generational company’",
+  "title": "CYBER MONDAY IS LIVE: Everything you can get with InvestingPro under $7.50/month",
   "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-nvidia-downgrade-anthropic-seen-as-generational-company-5043652",
-  "published_iso": "2026-11-22T18:00:00+09:00",
-  "published_kst": "11/22 18:00"
+  "link": "https://www.investing.com/news/stock-market-news/cyber-monday-is-live-everything-you-can-get-with-investingpro-under-750month-5053718",
+  "published_iso": "2026-11-28T17:48:08+09:00",
+  "published_kst": "11/28 17:48"
  },
  {
   "category": "국내주식",
-  "title": "이번 주 AI 애널리스트 주요 5선: Nvidia 투자의견 하향·Anthropic 주목",
+  "title": "사이버 먼데이 세일 시작: InvestingPro를 월 $7.50 미만에 이용하는 방법",
   "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186328",
-  "published_iso": "2026-11-22T18:00:00+09:00",
-  "published_kst": "11/22 18:00"
- },
- {
-  "category": "주식시장",
-  "title": "Swiss inflation accelerates as SNB signals concern over broader price pressures",
-  "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/swiss-inflation-accelerates-as-snb-signals-concern-over-broader-price-pressures-5043822",
-  "published_iso": "2026-11-22T17:51:37+09:00",
-  "published_kst": "11/22 17:51"
- },
- {
-  "category": "국내주식",
-  "title": "스위스 인플레이션 가속화…SNB, 광범위한 물가 압력 우려",
-  "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186339",
-  "published_iso": "2026-11-22T17:51:37+09:00",
-  "published_kst": "11/22 17:51"
+  "link": "https://kr.investing.com/news/stock-market-news/article-2192199",
+  "published_iso": "2026-11-28T17:48:08+09:00",
+  "published_kst": "11/28 17:48"
  },
  {
   "category": "경제",
-  "title": "SNB closely watching for second-round inflation effects, vice chairman tells paper",
+  "title": "Is the U.S. tariff wall here to stay? ING weighs in",
   "summary": "",
-  "link": "https://www.investing.com/news/economy-news/snb-closely-watching-for-secondround-inflation-effects-vicechairman-tells-paper-5043809",
-  "published_iso": "2026-11-22T17:30:25+09:00",
-  "published_kst": "11/22 17:30"
- },
- {
-  "category": "경제",
-  "title": "Iran asserts control over Hormuz as strikes on Bahrain, Saudi Arabia escalate",
-  "summary": "",
-  "link": "https://www.investing.com/news/economy-news/iran-asserts-control-over-hormuz-as-strikes-on-bahrain-and-saudi-arabia-escalate-5043802",
-  "published_iso": "2026-11-22T17:10:19+09:00",
-  "published_kst": "11/22 17:10"
+  "link": "https://www.investing.com/news/economy-news/is-the-us-tariff-wall-here-to-stay-ing-weighs-in-5054207",
+  "published_iso": "2026-11-28T16:47:12+09:00",
+  "published_kst": "11/28 16:47"
  },
  {
   "category": "국내경제",
-  "title": "이란, 호르무즈 해협 통제권 주장…바레인·사우디 공격으로 긴장 고조",
+  "title": "미국의 관세 장벽, 장기화하나…ING의 분석",
   "summary": "",
-  "link": "https://kr.investing.com/news/economy-news/article-2186330",
-  "published_iso": "2026-11-22T17:10:19+09:00",
-  "published_kst": "11/22 17:10"
- },
- {
-  "category": "국내주식",
-  "title": "반도체 139, 철강 50… 넉 달 만에 제조업 경기 전망 기준선 밑으로",
-  "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186323",
-  "published_iso": "2026-11-22T16:25:51+09:00",
-  "published_kst": "11/22 16:25"
- },
- {
-  "category": "국내주식",
-  "title": "애플이 그린 20주년 미래?...삼성전자에겐 이미 ’과거형’",
-  "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186322",
-  "published_iso": "2026-11-22T16:25:40+09:00",
-  "published_kst": "11/22 16:25"
+  "link": "https://kr.investing.com/news/economy-news/article-2192195",
+  "published_iso": "2026-11-28T16:47:12+09:00",
+  "published_kst": "11/28 16:47"
  },
  {
   "category": "경제",
-  "title": "Australia rejects U.S. budget office concerns over AUKUS submarine deal",
+  "title": "Iran war intensifies maritime risks as OPEC+ prepares for oil supply talks",
   "summary": "",
-  "link": "https://www.investing.com/news/economy-news/australia-rejects-us-budget-office-concerns-over-aukus-submarine-deal-5043777",
-  "published_iso": "2026-11-22T15:43:55+09:00",
-  "published_kst": "11/22 15:43"
+  "link": "https://www.investing.com/news/economy-news/iran-war-intensifies-maritime-risks-as-opec-prepares-for-oil-supply-talks-5054196",
+  "published_iso": "2026-11-28T15:52:21+09:00",
+  "published_kst": "11/28 15:52"
  },
  {
   "category": "국내경제",
-  "title": "호주 국방장관, AUKUS 잠수함 협정에 대한 미 의회예산국 우려 반박",
+  "title": "이란 전쟁에 호르무즈 해상 운송 위험 고조…OPEC+ 공급 논의 앞둬",
   "summary": "",
-  "link": "https://kr.investing.com/news/economy-news/article-2186317",
-  "published_iso": "2026-11-22T15:43:55+09:00",
-  "published_kst": "11/22 15:43"
+  "link": "https://kr.investing.com/news/economy-news/article-2192190",
+  "published_iso": "2026-11-28T15:52:21+09:00",
+  "published_kst": "11/28 15:52"
+ },
+ {
+  "category": "국내주식",
+  "title": "블랙프라이데이 놓쳤다면… 인베스팅프로 60% 할인, 마지막 기회",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2192187",
+  "published_iso": "2026-11-28T14:53:19+09:00",
+  "published_kst": "11/28 14:53"
+ },
+ {
+  "category": "국내주식",
+  "title": "이해욱 DL그룹 회장, 금요일 밤 설계실 400명 ’집합’ 논란",
+  "summary": "",
+  "link": "https://kr.investing.com/news/stock-market-news/article-2192186",
+  "published_iso": "2026-11-28T14:22:35+09:00",
+  "published_kst": "11/28 14:22"
  },
  {
   "category": "경제",
-  "title": "China urges U.S. to withdraw telecom restrictions on phone number access",
+  "title": "China’s import logistics demand falls 0.6% in January-October",
   "summary": "",
-  "link": "https://www.investing.com/news/economy-news/china-urges-us-to-withdraw-telecom-restrictions-on-phone-number-access-5043773",
-  "published_iso": "2026-11-22T15:17:23+09:00",
-  "published_kst": "11/22 15:17"
+  "link": "https://www.investing.com/news/economy-news/chinas-import-logistics-demand-falls-06-in-januaryoctober-5054171",
+  "published_iso": "2026-11-28T14:02:55+09:00",
+  "published_kst": "11/28 14:02"
  },
  {
   "category": "국내경제",
-  "title": "중국, 미국에 전화번호 접근 제한 철회 촉구",
+  "title": "중국 1~10월 수입 물류 수요 0.6% 감소",
   "summary": "",
-  "link": "https://kr.investing.com/news/economy-news/article-2186315",
-  "published_iso": "2026-11-22T15:17:23+09:00",
-  "published_kst": "11/22 15:17"
- },
- {
-  "category": "국내주식",
-  "title": "AI 붐이 신흥시장에서 힘을 잃고 있는가? 제프리스, 위험 경고",
-  "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186313",
-  "published_iso": "2026-11-22T15:04:20+09:00",
-  "published_kst": "11/22 15:04"
+  "link": "https://kr.investing.com/news/economy-news/article-2192184",
+  "published_iso": "2026-11-28T14:02:55+09:00",
+  "published_kst": "11/28 14:02"
  },
  {
   "category": "경제",
-  "title": "ICE arrests at Seattle airport spark outrage, calls for congressional scrutiny",
+  "title": "U.S. bars internet bandwidth provider RETN over national security risks",
   "summary": "",
-  "link": "https://www.investing.com/news/economy-news/ice-arrests-at-seattle-airport-spark-outrage-calls-for-congressional-scrutiny-5043736",
-  "published_iso": "2026-11-22T12:32:33+09:00",
-  "published_kst": "11/22 12:32"
+  "link": "https://www.investing.com/news/economy-news/us-bars-internet-bandwidth-provider-retn-over-national-security-risks-5054129",
+  "published_iso": "2026-11-28T12:42:10+09:00",
+  "published_kst": "11/28 12:42"
  },
  {
   "category": "국내경제",
-  "title": "시애틀 공항서 ICE 승객 체포…당국 비판 속 의회 조사 요구",
+  "title": "미국, 국가안보 위험 이유로 인터넷 대역폭 업체 RETN 운영 금지",
   "summary": "",
-  "link": "https://kr.investing.com/news/economy-news/article-2186298",
-  "published_iso": "2026-11-22T12:32:33+09:00",
-  "published_kst": "11/22 12:32"
+  "link": "https://kr.investing.com/news/economy-news/article-2192169",
+  "published_iso": "2026-11-28T12:42:10+09:00",
+  "published_kst": "11/28 12:42"
+ },
+ {
+  "category": "경제지표",
+  "title": "Global fashion brands shift orders from Bangladesh to India amid unrest",
+  "summary": "",
+  "link": "https://www.investing.com/news/economic-indicators/exclusiveglobal-brands-shift-hundreds-of-millions-in-orders-from-bangladesh-to-india-amid-unrest-5053134",
+  "published_iso": "2026-11-28T11:36:18+09:00",
+  "published_kst": "11/28 11:36"
  },
  {
   "category": "국내주식",
-  "title": "독일 산업계 파업 확대…IG Metall, 노동자 2만3천여 명에 파업 촉구",
+  "title": "AI 관련주 반등…블랙프라이데이 한정 60% 할인으로 다음 투자 기회 찾기",
   "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186292",
-  "published_iso": "2026-11-22T10:48:54+09:00",
-  "published_kst": "11/22 10:48"
+  "link": "https://kr.investing.com/news/stock-market-news/article-2192165",
+  "published_iso": "2026-11-28T11:34:55+09:00",
+  "published_kst": "11/28 11:34"
  },
  {
   "category": "국내주식",
-  "title": "중국 AI 주식, 기술주 매도세 심화로 1.7조 달러 증발",
+  "title": "아메리칸항공그룹 여객기 2대, 레이건 공항 유도로서 날개 접촉",
   "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186286",
-  "published_iso": "2026-11-22T10:09:28+09:00",
-  "published_kst": "11/22 10:09"
+  "link": "https://kr.investing.com/news/stock-market-news/article-2192160",
+  "published_iso": "2026-11-28T11:20:26+09:00",
+  "published_kst": "11/28 11:20"
  },
  {
   "category": "국내주식",
-  "title": "스페인 조기 총선, 우파 연립정부 출범 가능성 높아",
+  "title": "파격 할인 종료 임박! InvestingPro를 주당 $1.9 미만에",
   "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186262",
-  "published_iso": "2026-11-22T08:57:24+09:00",
-  "published_kst": "11/22 08:57"
- },
- {
-  "category": "주식시장",
-  "title": "German car and shipyard workers set to strike as IG Metall union extends walkout",
-  "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/german-car-and-shipyard-workers-set-to-strike-as-ig-metall-union-extends-walkout-5043609",
-  "published_iso": "2026-11-22T08:06:21+09:00",
-  "published_kst": "11/22 08:06"
- },
- {
-  "category": "국내주식",
-  "title": "애플이 그린 20주년 미래? 삼성전자는 이미 ’과거형’…주도권 굳혔다",
-  "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186254",
-  "published_iso": "2026-11-22T07:49:33+09:00",
-  "published_kst": "11/22 07:49"
+  "link": "https://kr.investing.com/news/stock-market-news/article-2192162",
+  "published_iso": "2026-11-28T11:17:58+09:00",
+  "published_kst": "11/28 11:17"
  },
  {
   "category": "경제",
-  "title": "UK and Netherlands leaders discuss security and Ukraine support",
+  "title": "Volatile stock market confronts jobs data, rate view as next tests",
   "summary": "",
-  "link": "https://www.investing.com/news/economy-news/uk-and-netherlands-leaders-discuss-security-and-ukraine-support-5043603",
-  "published_iso": "2026-11-22T07:32:53+09:00",
-  "published_kst": "11/22 07:32"
- },
- {
-  "category": "국내경제",
-  "title": "영국과 네덜란드 정상, 안보 및 우크라이나 지원 논의",
-  "summary": "",
-  "link": "https://kr.investing.com/news/economy-news/article-2186251",
-  "published_iso": "2026-11-22T07:32:53+09:00",
-  "published_kst": "11/22 07:32"
- },
- {
-  "category": "주식시장",
-  "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-  "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5043590",
-  "published_iso": "2026-11-22T06:20:04+09:00",
-  "published_kst": "11/22 06:20"
+  "link": "https://www.investing.com/news/economy-news/sliding-stock-market-confronts-jobs-data-rate-view-as-next-tests-5053316",
+  "published_iso": "2026-11-28T09:12:23+09:00",
+  "published_kst": "11/28 09:12"
  },
  {
   "category": "경제",
-  "title": "Trump orders contractors to report Congress inquiries",
+  "title": "S&P lifts South Africa ratings on improving fiscal position",
   "summary": "",
-  "link": "https://www.investing.com/news/economy-news/trump-orders-contractors-to-report-congress-inquiries-5043559",
-  "published_iso": "2026-11-22T04:00:57+09:00",
-  "published_kst": "11/22 04:00"
+  "link": "https://www.investing.com/news/economy-news/sp-lifts-south-africa-ratings-on-improving-fiscal-position-5053922",
+  "published_iso": "2026-11-28T07:42:19+09:00",
+  "published_kst": "11/28 07:42"
  },
  {
   "category": "국내경제",
-  "title": "트럼프, 연방 계약업체에 의회 문의 사항 보고 의무화",
+  "title": "브라질 중앙은행, 월요일 최대 20억 달러 규모 달러 입찰 실시",
   "summary": "",
-  "link": "https://kr.investing.com/news/economy-news/article-2186241",
-  "published_iso": "2026-11-22T04:00:57+09:00",
-  "published_kst": "11/22 04:00"
- },
- {
-  "category": "주식시장",
-  "title": "Who really wins from AI?",
-  "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/who-really-wins-from-ai-5043557",
-  "published_iso": "2026-11-22T03:51:31+09:00",
-  "published_kst": "11/22 03:51"
- },
- {
-  "category": "국내주식",
-  "title": "AI의 진정한 수혜자는 누구인가?",
-  "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186239",
-  "published_iso": "2026-11-22T03:51:31+09:00",
-  "published_kst": "11/22 03:51"
- },
- {
-  "category": "원자재",
-  "title": "UBS flags further gold weakness before Fed rate-cut expectations return",
-  "summary": "",
-  "link": "https://www.investing.com/news/commodities-news/ubs-flags-further-gold-weakness-before-fed-ratecut-expectations-return-5043537",
-  "published_iso": "2026-11-22T02:50:39+09:00",
-  "published_kst": "11/22 02:50"
- },
- {
-  "category": "원자재",
-  "title": "Goldman favours gold over silver as central bank demand supports prices",
-  "summary": "",
-  "link": "https://www.investing.com/news/commodities-news/goldman-favours-gold-over-silver-as-central-bank-demand-supports-prices-5043527",
-  "published_iso": "2026-11-22T02:01:01+09:00",
-  "published_kst": "11/22 02:01"
+  "link": "https://kr.investing.com/news/economy-news/article-93CH-2192083",
+  "published_iso": "2026-11-28T06:54:01+09:00",
+  "published_kst": "11/28 06:54"
  },
  {
   "category": "외환",
-  "title": "Bitcoin rises over 2% to more than $60,000",
+  "title": "U.S. Treasury yields rally, snapping eight-day rally as bond bulls pause",
   "summary": "",
-  "link": "https://www.investing.com/news/forex-news/bitcoin-rises-over-2-to-more-than-60000-5043497",
-  "published_iso": "2026-11-22T00:30:20+09:00",
-  "published_kst": "11/22 00:30"
+  "link": "https://www.investing.com/news/forex-news/global-bonds-cap-strong-weekly-rally-after-aidriven-flight-to-safety-5053055",
+  "published_iso": "2026-11-28T06:25:54+09:00",
+  "published_kst": "11/28 06:25"
  },
  {
   "category": "원자재",
-  "title": "US denies Iranian account that missile damaged F-16 over Gulf",
+  "title": "Oil notches first weekly gain in November on supply fears",
   "summary": "",
-  "link": "https://www.investing.com/news/commodities-news/us-denies-iranian-account-that-missile-damaged-f16-over-gulf-5043494",
-  "published_iso": "2026-11-22T00:24:03+09:00",
-  "published_kst": "11/22 00:24"
+  "link": "https://www.investing.com/news/commodities-news/brent-trades-near-months-high-as-mideast-conflict-threatens-supply-5052810",
+  "published_iso": "2026-11-28T05:18:20+09:00",
+  "published_kst": "11/28 05:18"
  },
  {
   "category": "원자재",
-  "title": "COP31 climate summit risks failure as talks go deep into overtime",
+  "title": "US disables ship trying to leave Iran, as Tehran vows to confront blockade",
   "summary": "",
-  "link": "https://www.investing.com/news/commodities-news/cop31-climate-summit-risks-failure-as-talks-go-deep-into-overtime-5043482",
-  "published_iso": "2026-11-21T23:42:26+09:00",
-  "published_kst": "11/21 23:42"
- },
- {
-  "category": "경제",
-  "title": "EU budget chief proposes €40 bln cut and digital tax plan",
-  "summary": "",
-  "link": "https://www.investing.com/news/economy-news/eu-budget-chief-proposes-40-bln-cut-and-digital-tax-plan-5043471",
-  "published_iso": "2026-11-21T23:01:00+09:00",
-  "published_kst": "11/21 23:01"
- },
- {
-  "category": "국내경제",
-  "title": "EU 예산 책임자, 400억 유로 삭감 및 디지털세 도입 제안",
-  "summary": "",
-  "link": "https://kr.investing.com/news/economy-news/article-2186216",
-  "published_iso": "2026-11-21T23:01:00+09:00",
-  "published_kst": "11/21 23:01"
- },
- {
-  "category": "경제",
-  "title": "Iran claims U.S. F-16 damaged, drones downed as tankers hit off Oman",
-  "summary": "",
-  "link": "https://www.investing.com/news/economy-news/iran-war-sees-tanker-hit-near-hormuz-as-saudi-arabia-intercepts-houthi-missiles-5043277",
-  "published_iso": "2026-11-21T22:54:25+09:00",
-  "published_kst": "11/21 22:54"
- },
- {
-  "category": "경제",
-  "title": "Goldman upgrades China H-shares on faster earnings growth outlook",
-  "summary": "",
-  "link": "https://www.investing.com/news/economy-news/goldman-upgrades-china-hshares-on-faster-earnings-growth-outlook-5043437",
-  "published_iso": "2026-11-21T21:54:24+09:00",
-  "published_kst": "11/21 21:54"
- },
- {
-  "category": "국내경제",
-  "title": "골드만삭스, 중국 H주 비중확대 상향…2027년 수익 성장 가속 전망",
-  "summary": "",
-  "link": "https://kr.investing.com/news/economy-news/article-2186209",
-  "published_iso": "2026-11-21T21:54:24+09:00",
-  "published_kst": "11/21 21:54"
+  "link": "https://www.investing.com/news/commodities-news/us-disables-ship-trying-to-leave-iran-as-tehran-vows-to-confront-blockade-5053767",
+  "published_iso": "2026-11-28T05:12:22+09:00",
+  "published_kst": "11/28 05:12"
  },
  {
   "category": "원자재",
-  "title": "Goldman is out with its 2027 forecast for Brent oil prices",
+  "title": "Thanksgiving storm knocks out power, disrupts flights on US East Coast",
   "summary": "",
-  "link": "https://www.investing.com/news/commodities-news/goldman-is-out-with-its-2027-forecast-for-brent-oil-prices-5043425",
-  "published_iso": "2026-11-21T21:20:18+09:00",
-  "published_kst": "11/21 21:20"
+  "link": "https://www.investing.com/news/commodities-news/thanksgiving-storm-knocks-out-power-disrupts-flights-on-us-east-coast-5052706",
+  "published_iso": "2026-11-28T04:42:20+09:00",
+  "published_kst": "11/28 04:42"
  },
  {
-  "category": "국내주식",
-  "title": "AWS 이어 엔비디아·오픈AI까지 손잡나…SK, 신설법인 앞세워 GW급 AI 공략",
+  "category": "원자재",
+  "title": "Oil trades lower as Middle East strikes collide with rising Gulf flows",
   "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186200",
-  "published_iso": "2026-11-21T20:41:07+09:00",
-  "published_kst": "11/21 20:41"
+  "link": "https://www.investing.com/news/commodities-news/oil-heads-for-first-weekly-gain-in-november-as-gulf-attacks-threaten-supply-recove-5052813",
+  "published_iso": "2026-11-28T03:28:24+09:00",
+  "published_kst": "11/28 03:28"
  },
  {
-  "category": "경제",
-  "title": "France rejects EU budget proposal over farm funding concerns",
+  "category": "원자재",
+  "title": "Gold jumps 3% after hitting 15-month low earlier this week",
   "summary": "",
-  "link": "https://www.investing.com/news/economy-news/france-rejects-eu-budget-proposal-over-farm-funding-concerns-5043402",
-  "published_iso": "2026-11-21T20:38:45+09:00",
-  "published_kst": "11/21 20:38"
+  "link": "https://www.investing.com/news/commodities-news/gold-steadies-near-15month-low-as-fed-hike-bets-offset-techled-rally-5052805",
+  "published_iso": "2026-11-28T03:26:17+09:00",
+  "published_kst": "11/28 03:26"
+ },
+ {
+  "category": "원자재",
+  "title": "Exclusive-French sugar groups offer drought-hit farmers aid to secure plantings",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/exclusivefrench-sugar-groups-offer-droughthit-farmers-aid-to-secure-plantings-5053546",
+  "published_iso": "2026-11-28T03:00:24+09:00",
+  "published_kst": "11/28 03:00"
+ },
+ {
+  "category": "경제지표",
+  "title": "US goods trade deficit deteriorates further as AI helps to lift imports to record high",
+  "summary": "",
+  "link": "https://www.investing.com/news/economic-indicators/us-goods-trade-deficit-widens-sharply-in-october-5053539",
+  "published_iso": "2026-11-28T01:49:03+09:00",
+  "published_kst": "11/28 01:49"
+ },
+ {
+  "category": "원자재",
+  "title": "Iraq in talks with OPEC for higher oil quota, minister says before OPEC+ meeting",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/iraq-in-talks-with-opec-for-higher-oil-quota-minister-says-before-opec-meeting-5053712",
+  "published_iso": "2026-11-28T01:42:25+09:00",
+  "published_kst": "11/28 01:42"
  },
  {
   "category": "국내경제",
-  "title": "프랑스, 농업 지원 부족 이유로 EU 예산안 거부",
+  "title": "AI 투자 열풍에 수입 사상 최대…미국 10월 상품 무역적자 확대",
   "summary": "",
-  "link": "https://kr.investing.com/news/economy-news/article-2186198",
-  "published_iso": "2026-11-21T20:38:45+09:00",
-  "published_kst": "11/21 20:38"
+  "link": "https://kr.investing.com/news/economy-news/article-2192010",
+  "published_iso": "2026-11-28T01:32:18+09:00",
+  "published_kst": "11/28 01:32"
  },
  {
-  "category": "경제",
-  "title": "EU proposes digital tax to fund budget amid member state divisions",
+  "category": "경제지표",
+  "title": "Mexico weighs the limits of politically popular wage strategy",
   "summary": "",
-  "link": "https://www.investing.com/news/economy-news/eu-proposes-digital-tax-to-fund-budget-amid-member-state-divisions-5043390",
-  "published_iso": "2026-11-21T20:29:34+09:00",
-  "published_kst": "11/21 20:29"
+  "link": "https://www.investing.com/news/economic-indicators/mexico-weighs-the-limits-of-politically-popular-wage-strategy-5053649",
+  "published_iso": "2026-11-28T00:48:19+09:00",
+  "published_kst": "11/28 00:48"
+ },
+ {
+  "category": "원자재",
+  "title": "Has silver fallen too far? UBS sees buying opportunity after sharp selloff",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/has-silver-fallen-too-far-ubs-sees-buying-opportunity-after-sharp-selloff-5053590",
+  "published_iso": "2026-11-27T23:34:17+09:00",
+  "published_kst": "11/27 23:34"
+ },
+ {
+  "category": "원자재",
+  "title": "Bernstein outlines bullish roadmap for gold heading into 2027",
+  "summary": "",
+  "link": "https://www.investing.com/news/commodities-news/bernstein-outlines-bullish-roadmap-for-gold-heading-into-2027-5053548",
+  "published_iso": "2026-11-27T22:56:16+09:00",
+  "published_kst": "11/27 22:56"
+ },
+ {
+  "category": "경제지표",
+  "title": "Wholesale inventories increase, surpassing expectations",
+  "summary": "",
+  "link": "https://www.investing.com/news/economic-indicators/wholesale-inventories-increase-surpassing-expectations-93CH-5053524",
+  "published_iso": "2026-11-27T22:36:06+09:00",
+  "published_kst": "11/27 22:36"
+ },
+ {
+  "category": "경제지표",
+  "title": "Trump backs Iraqi leader’s efforts to assert more state authority",
+  "summary": "",
+  "link": "https://www.investing.com/news/economic-indicators/trump-backs-iraqi-leaders-efforts-to-assert-more-state-authority-5053345",
+  "published_iso": "2026-11-27T22:24:19+09:00",
+  "published_kst": "11/27 22:24"
  },
  {
   "category": "국내경제",
-  "title": "EU, 회원국 간 이견 속 예산 마련 위한 디지털세 제안",
+  "title": "ECB 관계자 “올해 금리 인상만으로 물가상승률 2% 달성 어려워”",
   "summary": "",
-  "link": "https://kr.investing.com/news/economy-news/article-2186194",
-  "published_iso": "2026-11-21T20:29:34+09:00",
-  "published_kst": "11/21 20:29"
+  "link": "https://kr.investing.com/news/economy-news/article-2191882",
+  "published_iso": "2026-11-27T22:02:40+09:00",
+  "published_kst": "11/27 22:02"
  },
  {
-  "category": "주식시장",
-  "title": "Spain to extend banking tax through 2027 to fund housing policies",
+  "category": "경제지표",
+  "title": "Spain’s 12-month EU-harmonised inflation falls to 4.1% in November",
   "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/spain-to-extend-banking-tax-through-2027-to-fund-housing-policies-5043370",
-  "published_iso": "2026-11-21T19:58:44+09:00",
-  "published_kst": "11/21 19:58"
+  "link": "https://www.investing.com/news/economic-indicators/spains-12month-euharmonised-inflation-falls-to-41-in-november-5053073",
+  "published_iso": "2026-11-27T21:54:19+09:00",
+  "published_kst": "11/27 21:54"
  },
  {
-  "category": "주식시장",
-  "title": "UBS assesses impact of nationwide ground stop on US airlines’ 4Q outlook",
+  "category": "실적",
+  "title": "Meituan swings to Q3 profit as revenue beats, adjusted profit misses",
   "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/ubs-assesses-impact-of-nationwide-ground-stop-on-us-airlines-4q-outlook-5043328",
-  "published_iso": "2026-11-21T18:46:58+09:00",
-  "published_kst": "11/21 18:46"
+  "link": "https://www.investing.com/news/earnings/meituan-swings-to-q3-profit-as-revenue-beats-adjusted-profit-misses-5053341",
+  "published_iso": "2026-11-27T20:29:20+09:00",
+  "published_kst": "11/27 20:29"
  },
  {
-  "category": "국내주식",
-  "title": "UBS, 전국 운항 중단이 미국 항공사 4분기 전망에 미치는 영향 분석",
+  "category": "경제지표",
+  "title": "Ireland retail sales dip 0.1% in October, up 3.9% annually",
   "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186182",
-  "published_iso": "2026-11-21T18:46:58+09:00",
-  "published_kst": "11/21 18:46"
+  "link": "https://www.investing.com/news/economic-indicators/ireland-retail-sales-dip-01-in-october-up-39-annually-93CH-5053317",
+  "published_iso": "2026-11-27T20:09:00+09:00",
+  "published_kst": "11/27 20:09"
  },
  {
   "category": "외환",
-  "title": "Bitcoin falls to its lowest in two years",
+  "title": "Sterling today: Pound edges higher as risk rebound offsets Fed repricing",
   "summary": "",
-  "link": "https://www.investing.com/news/forex-news/bitcoin-falls-357-to-56814-5043137",
-  "published_iso": "2026-11-21T18:12:18+09:00",
-  "published_kst": "11/21 18:12"
- },
- {
-  "category": "주식시장",
-  "title": "Intesa Sanpaolo launches €34.5bn cash-and-share offer for Monte dei Paschi",
-  "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/intesa-sanpaolo-launches-345bn-cashandshare-offer-for-monte-dei-paschi-5043303",
-  "published_iso": "2026-11-21T17:56:23+09:00",
-  "published_kst": "11/21 17:56"
- },
- {
-  "category": "국내주식",
-  "title": "인테사 산파올로, 몬테 데이 파스키에 345억 유로 규모 인수 제안 공식 개시",
-  "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186175",
-  "published_iso": "2026-11-21T17:56:23+09:00",
-  "published_kst": "11/21 17:56"
- },
- {
-  "category": "국내경제",
-  "title": "이란, 미 F-16 손상·드론 격추 주장…오만 인근 유조선 피격",
-  "summary": "",
-  "link": "https://kr.investing.com/news/economy-news/article-2186171",
-  "published_iso": "2026-11-21T17:13:08+09:00",
-  "published_kst": "11/21 17:13"
- },
- {
-  "category": "주식시장",
-  "title": "South Korea’s Lee urges faster AI investment during $5.2bn data center visit",
-  "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/south-koreas-lee-urges-faster-ai-investment-during-52bn-data-center-visit-5043267",
-  "published_iso": "2026-11-21T16:38:34+09:00",
-  "published_kst": "11/21 16:38"
- },
- {
-  "category": "주식시장",
-  "title": "How are AI chip flows reshaping dollar dominance? Deutsche Bank explains",
-  "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/how-are-ai-chip-flows-reshaping-dollar-dominance-deutsche-bank-explains-5043246",
-  "published_iso": "2026-11-21T15:58:35+09:00",
-  "published_kst": "11/21 15:58"
- },
- {
-  "category": "국내주식",
-  "title": "AI 칩 흐름이 달러 패권을 어떻게 재편하고 있나",
-  "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186163",
-  "published_iso": "2026-11-21T15:58:35+09:00",
-  "published_kst": "11/21 15:58"
- },
- {
-  "category": "주식시장",
-  "title": "How to invest in transformational innovation",
-  "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/how-to-invest-in-transformational-innovation-5043160",
-  "published_iso": "2026-11-21T13:52:37+09:00",
-  "published_kst": "11/21 13:52"
- },
- {
-  "category": "국내주식",
-  "title": "혁신적 변화에 투자하는 방법",
-  "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186136",
-  "published_iso": "2026-11-21T13:52:37+09:00",
-  "published_kst": "11/21 13:52"
- },
- {
-  "category": "경제",
-  "title": "FBI investigates suspected breach of nationwide crime database, CNN reports",
-  "summary": "",
-  "link": "https://www.investing.com/news/economy-news/fbi-investigates-suspected-breach-of-nationwide-crime-database-5043145",
-  "published_iso": "2026-11-21T13:21:38+09:00",
-  "published_kst": "11/21 13:21"
- },
- {
-  "category": "국내경제",
-  "title": "FBI, 전국 범죄정보 데이터베이스 침해 의혹 조사…CNN 보도",
-  "summary": "",
-  "link": "https://kr.investing.com/news/economy-news/article-2186133",
-  "published_iso": "2026-11-21T13:21:38+09:00",
-  "published_kst": "11/21 13:21"
- },
- {
-  "category": "실적",
-  "title": "Oxford Lane earnings missed by $0.35, revenue topped estimates",
-  "summary": "",
-  "link": "https://www.investing.com/news/earnings/oxford-lane-earnings-missed-by-035-revenue-topped-estimates-5043144",
-  "published_iso": "2026-11-21T13:17:19+09:00",
-  "published_kst": "11/21 13:17"
+  "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-risk-rebound-offsets-fed-repricing-5053272",
+  "published_iso": "2026-11-27T19:34:10+09:00",
+  "published_kst": "11/27 19:34"
  },
  {
   "category": "경제지표",
-  "title": "France, Germany to take key ECB roles, with Spain set for presidency",
+  "title": "Belgium’s consumer prices rise 5.09% year-on-year in November",
   "summary": "",
-  "link": "https://www.investing.com/news/economic-indicators/france-germany-to-take-key-ecb-roles-with-spain-set-for-presidency-5042345",
-  "published_iso": "2026-11-21T11:12:41+09:00",
-  "published_kst": "11/21 11:12"
- },
- {
-  "category": "주식시장",
-  "title": "Analysis-Wall Street banks set for banner year as Anthropic, SpaceX IPOs generate $1 billion in fees",
-  "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/analysiswall-street-banks-set-for-banner-year-as-anthropic-spacex-ipos-generate-1-billion-in-fees-5042444",
-  "published_iso": "2026-11-21T11:12:22+09:00",
-  "published_kst": "11/21 11:12"
- },
- {
-  "category": "주식시장",
-  "title": "Singaporean extradited to face US charges over global insider trading scheme",
-  "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/singaporean-extradited-to-face-us-charges-over-global-insider-trading-scheme-5042823",
-  "published_iso": "2026-11-21T11:06:58+09:00",
-  "published_kst": "11/21 11:06"
- },
- {
-  "category": "주식시장",
-  "title": "US was warned of telecom security risks years before Salt Typhoon",
-  "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/us-was-warned-of-telecom-security-risks-years-before-salt-typhoon-5043030",
-  "published_iso": "2026-11-21T10:54:24+09:00",
-  "published_kst": "11/21 10:54"
- },
- {
-  "category": "주식시장",
-  "title": "UBS flags resilient commodity investment case despite easing oil supply premium",
-  "summary": "",
-  "link": "https://www.investing.com/news/stock-market-news/ubs-flags-resilient-commodity-investment-case-despite-easing-oil-supply-premium-5043001",
-  "published_iso": "2026-11-21T10:28:01+09:00",
-  "published_kst": "11/21 10:28"
- },
- {
-  "category": "국내주식",
-  "title": "UBS, 원자재 투자 매력 여전히 유효…유가 공급 프리미엄 완화에도 불구",
-  "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186080",
-  "published_iso": "2026-11-21T10:28:01+09:00",
-  "published_kst": "11/21 10:28"
- },
- {
-  "category": "국내주식",
-  "title": "[분석] ’구조적 사이클 붕괴’ 인정한 LG화학…AI-Driven 전환·이사회 강화 승부수",
-  "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186074",
-  "published_iso": "2026-11-21T10:02:57+09:00",
-  "published_kst": "11/21 10:02"
- },
- {
-  "category": "경제",
-  "title": "Anthropic’s post-debut stumble delivers reality check for AI trade",
-  "summary": "",
-  "link": "https://www.investing.com/news/economy-news/anthropics-postdebut-stumble-delivers-reality-check-for-ai-trade-5041125",
-  "published_iso": "2026-11-21T09:36:47+09:00",
-  "published_kst": "11/21 09:36"
- },
- {
-  "category": "원자재",
-  "title": "Army toxic detonation in Iowa paused amid public outcry, farm disruption",
-  "summary": "",
-  "link": "https://www.investing.com/news/commodities-news/army-toxic-detonation-in-iowa-paused-amid-public-outcry-farm-disruption-5042953",
-  "published_iso": "2026-11-21T09:36:47+09:00",
-  "published_kst": "11/21 09:36"
- },
- {
-  "category": "국내주식",
-  "title": "AI 지출 4조 달러 시대…’멤플레이션’ 올라탄 삼전닉스 독주",
-  "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186060",
-  "published_iso": "2026-11-21T09:32:18+09:00",
-  "published_kst": "11/21 09:32"
- },
- {
-  "category": "국내주식",
-  "title": "[CEO 리더십] 전사 지휘 김동춘, LG화학 기술력 ’고부가 전환’ 승부수",
-  "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186049",
-  "published_iso": "2026-11-21T09:01:59+09:00",
-  "published_kst": "11/21 09:01"
- },
- {
-  "category": "국내주식",
-  "title": "상장 앞두고 터진 보안 사고…컬리, ’초저마진’ 회의론에 1만명 정보유출 악재",
-  "summary": "",
-  "link": "https://kr.investing.com/news/stock-market-news/article-2186048",
-  "published_iso": "2026-11-21T09:01:45+09:00",
-  "published_kst": "11/21 09:01"
- },
- {
-  "category": "원자재",
-  "title": "Oil prices settle lower, post 3-week losing streak amid improving crude supplies",
-  "summary": "",
-  "link": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-meast-tensions-persist-set-for-third-week-in-red-5040503",
-  "published_iso": "2026-11-21T08:02:54+09:00",
-  "published_kst": "11/21 08:02"
- },
- {
-  "category": "경제",
-  "title": "Tech leads global stocks rout, Treasury yields fall",
-  "summary": "",
-  "link": "https://www.investing.com/news/economy-news/asian-shares-head-for-worst-week-since-2020-as-ai-trade-gloom-fails-to-abate-5040496",
-  "published_iso": "2026-11-21T07:48:47+09:00",
-  "published_kst": "11/21 07:48"
+  "link": "https://www.investing.com/news/economic-indicators/belgiums-consumer-prices-rise-509-yearonyear-in-november-93CH-5053271",
+  "published_iso": "2026-11-27T19:34:08+09:00",
+  "published_kst": "11/27 19:34"
  },
  {
   "category": "외환",
-  "title": "U.S. Treasury yields and global bond yields plunge as traders flee AI rout",
+  "title": "Dollar drifts lower in holiday-thinned trade, set to snap 4-wk winning streak",
   "summary": "",
-  "link": "https://www.investing.com/news/forex-news/global-bond-yields-plunge-as-ai-rout-triggers-flight-to-safety-5040733",
-  "published_iso": "2026-11-21T07:34:35+09:00",
-  "published_kst": "11/21 07:34"
- },
- {
-  "category": "원자재",
-  "title": "Spot gold posts worst week in 8 months, futures notch worst week since March 2020",
-  "summary": "",
-  "link": "https://www.investing.com/news/commodities-news/gold-slides-to-14mth-low-set-for-weekly-drop-amid-fed-hike-bets-5040648",
-  "published_iso": "2026-11-21T07:23:04+09:00",
-  "published_kst": "11/21 07:23"
- },
- {
-  "category": "경제",
-  "title": "AI tech rout prompts US investors to rush into value stocks",
-  "summary": "",
-  "link": "https://www.investing.com/news/economy-news/ai-tech-rout-prompts-us-investors-to-rush-into-value-stocks-5042534",
-  "published_iso": "2026-11-21T07:18:22+09:00",
-  "published_kst": "11/21 07:18"
- },
- {
-  "category": "경제",
-  "title": "US Treasury sanctions Iranian ’trustees’ collecting oil revenues",
-  "summary": "",
-  "link": "https://www.investing.com/news/economy-news/us-treasury-sanctions-iranian-trustees-collecting-oil-revenues-5042737",
-  "published_iso": "2026-11-21T06:54:36+09:00",
-  "published_kst": "11/21 06:54"
+  "link": "https://www.investing.com/news/forex-news/asia-fx-weakens-as-high-oil-prices-weigh-dollar-edges-lower-in-holiday-trade-5052845",
+  "published_iso": "2026-11-27T19:33:31+09:00",
+  "published_kst": "11/27 19:33"
  },
  {
   "category": "외환",
-  "title": "Dollar set for 4-week win streak; yen jumps on safe-haven bid, hot inflation data",
+  "title": "Goldman Sachs sees EUR/USD recovering toward 1.12 by year-end",
   "summary": "",
-  "link": "https://www.investing.com/news/forex-news/asia-fx-struggles-as-dollar-holds-near-19mth-high-aussie-hits-11month-low-5040667",
-  "published_iso": "2026-11-21T06:44:47+09:00",
-  "published_kst": "11/21 06:44"
- },
- {
-  "category": "원자재",
-  "title": "US court ruling jeopardizes Sentinel Midstream’s license for deepwater oil export project",
-  "summary": "",
-  "link": "https://www.investing.com/news/commodities-news/us-court-ruling-jeopardizes-sentinel-midstreams-license-for-deepwater-oil-export-project-5039890",
-  "published_iso": "2026-11-21T06:00:26+09:00",
-  "published_kst": "11/21 06:00"
- },
- {
-  "category": "원자재",
-  "title": "Oil gains on Iran war worries and short-covering ahead of Thanksgiving holiday",
-  "summary": "",
-  "link": "https://www.investing.com/news/commodities-news/oil-prices-edge-higher-as-houthi-attacks-on-riyadh-raise-supply-concerns-5040518",
-  "published_iso": "2026-11-21T05:36:38+09:00",
-  "published_kst": "11/21 05:36"
- },
- {
-  "category": "국내경제",
-  "title": "FCC, 중국산 기술 장비 수입 제한에도 71개 기업에 예외 승인",
-  "summary": "",
-  "link": "https://kr.investing.com/news/economy-news/article-93CH-2185885",
-  "published_iso": "2026-11-21T05:29:47+09:00",
-  "published_kst": "11/21 05:29"
- },
- {
-  "category": "원자재",
-  "title": "ICE canola futures close lower on Friday after flat week",
-  "summary": "",
-  "link": "https://www.investing.com/news/commodities-news/ice-canola-futures-close-lower-on-friday-after-flat-week-93CH-5042543",
-  "published_iso": "2026-11-21T05:25:09+09:00",
-  "published_kst": "11/21 05:25"
- },
- {
-  "category": "국내경제",
-  "title": "필라델피아 연은 총재, 연속 금리 인상 가능성에 열린 입장",
-  "summary": "",
-  "link": "https://kr.investing.com/news/economy-news/article-2185822",
-  "published_iso": "2026-11-21T03:56:10+09:00",
-  "published_kst": "11/21 03:56"
- },
- {
-  "category": "원자재",
-  "title": "Eight killed in Ukraine as Russia hits back after Crimea bridge attacks",
-  "summary": "",
-  "link": "https://www.investing.com/news/commodities-news/eight-killed-in-ukraine-as-russia-hits-back-after-crimea-bridge-attacks-5041652",
-  "published_iso": "2026-11-21T03:54:41+09:00",
-  "published_kst": "11/21 03:54"
- },
- {
-  "category": "국내경제",
-  "title": "연준 쿡 총재, 9월 금리 인상만으로는 물가 억제 부족할 수 있어",
-  "summary": "",
-  "link": "https://kr.investing.com/news/economy-news/article-2185768",
-  "published_iso": "2026-11-21T02:50:38+09:00",
-  "published_kst": "11/21 02:50"
- },
- {
-  "category": "원자재",
-  "title": "Flesh-eating screwworm cases surge in US, keeping ranchers on alert",
-  "summary": "",
-  "link": "https://www.investing.com/news/commodities-news/flesheating-screwworm-cases-surge-in-us-keeping-ranchers-on-alert-5042293",
-  "published_iso": "2026-11-21T02:00:58+09:00",
-  "published_kst": "11/21 02:00"
- },
- {
-  "category": "실적",
-  "title": "IES Holdings earnings beat by $1.26, revenue topped estimates",
-  "summary": "",
-  "link": "https://www.investing.com/news/earnings/ies-holdings-earnings-beat-by-126-revenue-topped-estimates-5042215",
-  "published_iso": "2026-11-21T00:55:56+09:00",
-  "published_kst": "11/21 00:55"
- },
- {
-  "category": "실적",
-  "title": "Moog B earnings beat by $0.68, revenue topped estimates",
-  "summary": "",
-  "link": "https://www.investing.com/news/earnings/moog-b-earnings-beat-by-068-revenue-topped-estimates-5042214",
-  "published_iso": "2026-11-21T00:55:49+09:00",
-  "published_kst": "11/21 00:55"
- },
- {
-  "category": "실적",
-  "title": "Moog A earnings beat by $0.68, revenue topped estimates",
-  "summary": "",
-  "link": "https://www.investing.com/news/earnings/moog-a-earnings-beat-by-068-revenue-topped-estimates-5042213",
-  "published_iso": "2026-11-21T00:55:48+09:00",
-  "published_kst": "11/21 00:55"
+  "link": "https://www.investing.com/news/forex-news/goldman-sachs-sees-eurusd-recovering-toward-112-by-yearend-93CH-5053234",
+  "published_iso": "2026-11-27T19:01:37+09:00",
+  "published_kst": "11/27 19:01"
  },
  {
   "category": "경제지표",
-  "title": "Consumer sentiment rises as Michigan index surpasses expectations",
+  "title": "France GDP drops 0.2% in Q3 as exports fall sharply",
   "summary": "",
-  "link": "https://www.investing.com/news/economic-indicators/consumer-sentiment-rises-as-michigan-index-surpasses-expectations-93CH-5042110",
-  "published_iso": "2026-11-21T00:00:08+09:00",
-  "published_kst": "11/21 00:00"
+  "link": "https://www.investing.com/news/economic-indicators/france-gdp-drops-02-in-q3-as-exports-fall-sharply-93CH-5053205",
+  "published_iso": "2026-11-27T18:56:44+09:00",
+  "published_kst": "11/27 18:56"
  },
  {
   "category": "실적",
-  "title": "Macy’s earnings up next as retailer faces holiday test",
+  "title": "Diagnostyka stock drops after third-quarter revenue miss",
   "summary": "",
-  "link": "https://www.investing.com/news/earnings/macys-earnings-up-next-as-retailer-faces-holiday-test-93CH-5042054",
-  "published_iso": "2026-11-20T23:36:30+09:00",
-  "published_kst": "11/20 23:36"
+  "link": "https://www.investing.com/news/earnings/diagnostyka-stock-drops-after-thirdquarter-revenue-miss-93CH-5053196",
+  "published_iso": "2026-11-27T18:50:18+09:00",
+  "published_kst": "11/27 18:50"
+ },
+ {
+  "category": "경제지표",
+  "title": "Germany’s employment falls 0.5% year-on-year in October",
+  "summary": "",
+  "link": "https://www.investing.com/news/economic-indicators/germanys-employment-falls-05-yearonyear-in-october-2026-5053193",
+  "published_iso": "2026-11-27T18:49:26+09:00",
+  "published_kst": "11/27 18:49"
  },
  {
   "category": "실적",
-  "title": "Amentum earnings loom ahead as EPS forecast signals decline",
+  "title": "Didi Global Q3 revenue rises 12% but net loss widens",
   "summary": "",
-  "link": "https://www.investing.com/news/earnings/amentum-earnings-loom-ahead-as-eps-forecast-signals-decline-93CH-5042051",
-  "published_iso": "2026-11-20T23:35:35+09:00",
-  "published_kst": "11/20 23:35"
- },
- {
-  "category": "경제지표",
-  "title": "Canada retail sales rise 0.8% in September; likely to be down 1.5% in October",
-  "summary": "",
-  "link": "https://www.investing.com/news/economic-indicators/canada-retail-sales-rise-08-in-september-likely-to-be-down-15-in-october-5041937",
-  "published_iso": "2026-11-20T23:24:18+09:00",
-  "published_kst": "11/20 23:24"
- },
- {
-  "category": "실적",
-  "title": "RLX Technology ADR earnings missed by ¥0.09, revenue fell short of estimates",
-  "summary": "",
-  "link": "https://www.investing.com/news/earnings/rlx-technology-adr-earnings-missed-by-009-revenue-fell-short-of-estimates-5041723",
-  "published_iso": "2026-11-20T22:34:58+09:00",
-  "published_kst": "11/20 22:34"
- },
- {
-  "category": "실적",
-  "title": "BitFuFu earnings beat by $0.15, revenue fell short of estimates",
-  "summary": "",
-  "link": "https://www.investing.com/news/earnings/bitfufu-earnings-beat-by-015-revenue-fell-short-of-estimates-5041616",
-  "published_iso": "2026-11-20T21:59:51+09:00",
-  "published_kst": "11/20 21:59"
- },
- {
-  "category": "실적",
-  "title": "BJ’s Wholesale Club beats estimates, raises guidance",
-  "summary": "",
-  "link": "https://www.investing.com/news/earnings/bjs-wholesale-club-beats-estimates-raises-guidance-5041448",
-  "published_iso": "2026-11-20T20:59:42+09:00",
-  "published_kst": "11/20 20:59"
- },
- {
-  "category": "실적",
-  "title": "BJs Wholesale Club earnings beat by $0.47, revenue topped estimates",
-  "summary": "",
-  "link": "https://www.investing.com/news/earnings/bjs-wholesale-club-earnings-beat-by-047-revenue-topped-estimates-5041432",
-  "published_iso": "2026-11-20T20:56:57+09:00",
-  "published_kst": "11/20 20:56"
- },
- {
-  "category": "경제지표",
-  "title": "EU’s Hansen says US trade uncertainty is drawing Mexico, Europe closer",
-  "summary": "",
-  "link": "https://www.investing.com/news/economic-indicators/eus-hansen-says-us-trade-uncertainty-is-drawing-mexico-europe-closer-5041312",
-  "published_iso": "2026-11-20T20:24:38+09:00",
-  "published_kst": "11/20 20:24"
- },
- {
-  "category": "국내경제",
-  "title": "영국-EU 무역 협정, 등록금 협상 난항으로 최대 6개월 지연",
-  "summary": "",
-  "link": "https://kr.investing.com/news/economy-news/article-2185126",
-  "published_iso": "2026-11-20T20:06:10+09:00",
-  "published_kst": "11/20 20:06"
- },
- {
-  "category": "외환",
-  "title": "UBS flags further euro downside as dollar strength keeps EUR/USD under pressure",
-  "summary": "",
-  "link": "https://www.investing.com/news/forex-news/ubs-flags-further-euro-downside-as-dollar-strength-keeps-eurusd-under-pressure-5041144",
-  "published_iso": "2026-11-20T19:35:22+09:00",
-  "published_kst": "11/20 19:35"
- },
- {
-  "category": "외환",
-  "title": "UBS sees sterling rebound later in 2027 as Fed rate cuts approach",
-  "summary": "",
-  "link": "https://www.investing.com/news/forex-news/ubs-sees-sterling-rebound-later-in-2027-as-fed-rate-cuts-approach-5041141",
-  "published_iso": "2026-11-20T19:34:23+09:00",
-  "published_kst": "11/20 19:34"
- },
- {
-  "category": "경제지표",
-  "title": "ECB to expand currency swap lines, Lagarde says",
-  "summary": "",
-  "link": "https://www.investing.com/news/economic-indicators/ecb-to-expand-currency-swap-lines-lagarde-says-93CH-5041118",
-  "published_iso": "2026-11-20T19:18:20+09:00",
-  "published_kst": "11/20 19:18"
- },
- {
-  "category": "경제지표",
-  "title": "Portugal budget sees 2027 growth at 2.3%, fiscal surplus",
-  "summary": "",
-  "link": "https://www.investing.com/news/economic-indicators/portugal-budget-sees-2027-growth-at-23-fiscal-surplus-93CH-5041038",
-  "published_iso": "2026-11-20T18:40:36+09:00",
-  "published_kst": "11/20 18:40"
- },
- {
-  "category": "외환",
-  "title": "Sterling today: Pound edges up on UK retail beat, dollar caps gains",
-  "summary": "",
-  "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-on-uk-retail-beat-dollar-caps-gains-5041015",
-  "published_iso": "2026-11-20T18:22:09+09:00",
-  "published_kst": "11/20 18:22"
- },
- {
-  "category": "경제지표",
-  "title": "Denmark’s economy grows 0.8% in third quarter of 2026",
-  "summary": "",
-  "link": "https://www.investing.com/news/economic-indicators/denmarks-economy-grows-08-in-third-quarter-of-2026-93CH-5040840",
-  "published_iso": "2026-11-20T16:44:45+09:00",
-  "published_kst": "11/20 16:44"
- },
- {
-  "category": "경제지표",
-  "title": "German producer prices surge 8.1% in October",
-  "summary": "",
-  "link": "https://www.investing.com/news/economic-indicators/german-producer-prices-surge-81-in-october-93CH-5040838",
-  "published_iso": "2026-11-20T16:37:22+09:00",
-  "published_kst": "11/20 16:37"
- },
- {
-  "category": "경제지표",
-  "title": "Sweden’s unemployment rate falls to 7.7% in October",
-  "summary": "",
-  "link": "https://www.investing.com/news/economic-indicators/swedens-unemployment-rate-falls-to-77-in-october-93CH-5040832",
-  "published_iso": "2026-11-20T16:31:13+09:00",
-  "published_kst": "11/20 16:31"
- },
- {
-  "category": "경제지표",
-  "title": "UK retail sales rise 0.7% in October, beating forecast, as shoppers stock up",
-  "summary": "",
-  "link": "https://www.investing.com/news/economic-indicators/uk-retail-sales-rise-07-in-october-beating-forecast-as-shoppers-stock-up-5040820",
-  "published_iso": "2026-11-20T16:25:02+09:00",
-  "published_kst": "11/20 16:25"
+  "link": "https://www.investing.com/news/earnings/didi-global-q3-revenue-rises-12-but-net-loss-widens-93CH-5053190",
+  "published_iso": "2026-11-27T18:45:46+09:00",
+  "published_kst": "11/27 18:45"
  }
 ]
